@@ -38,6 +38,14 @@ public class Jármű {
         this.gyártásÉve = gyártásÉve;
     }
 
+    public String getKormányOldalaSTR(){
+        if (this.kormany_oldala ==0){
+            return "bal";
+        }else {
+            return "jobb";
+        }
+    }
+
     public void setSzín(String szín) {
         this.szín = szín;
     }
@@ -75,6 +83,13 @@ public class Jármű {
     }
 
 
+    public String getGyártó() {
+        return gyártó;
+    }
+
+    public boolean isForgalomban_van_e() {
+        return forgalomban_van_e;
+    }
 
     public String getSzín() {
         return szín;
@@ -94,5 +109,20 @@ public class Jármű {
 
     public int getGyártásÉve() {
         return gyártásÉve;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("\tJármű azonosítója: %d. \n" +
+                "\tJármű gyártója: %s\n" +
+                "\tJármű típusa: %s\n" +
+                "\tJármű gyártás éve: %d\n" +
+                "\tJármű színe: %s\n" +
+                "\tJármű alvázszáma: %s\n" +
+                "\tJármű rendszáma: %s\n" +
+                "\tJármű üzemanyaga %s\n" +
+                "\tJármű ajtók száma: %d\n" +
+                "\tJármű kormány oldala: %d\n" +
+                "\tJármű forgalomban van-e: Igen ",this.azonosito,);
     }
 }

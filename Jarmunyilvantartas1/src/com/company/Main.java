@@ -2,6 +2,7 @@ package com.company;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Scanner;
 
 public class Main {
@@ -9,7 +10,55 @@ public class Main {
     public static void main(String[] args) {
         beolvas("autok.csv");
 
-        System.out.println(járművek.size());
+        System.out.println("A beolvasott fájlban " + járművek.size() + " jármű adata található meg.");
+
+        int db = 0;
+        for (Jármű elem : járművek){
+            if (elem.getSzín().equals("Red")){
+                db++;
+            }
+        }
+
+        System.out.printf("Összesen %d db vörös autó van a listában!\n", db);
+
+        db = 0;
+
+        for (Jármű elem : járművek){
+            if ((elem.getGyártó().equals("Ford")) && (elem.getÜzemanyag().equals("dízel"))){
+                db++;
+            }
+        }
+        System.out.printf("Összesen %d db gázolajjal működő Ford gépjármű van a listában!\n", db);
+
+        double átlag = 0;
+        for (Jármű elem : járművek){
+            átlag += (Calendar.getInstance().get(Calendar.YEAR)) - (elem.getGyártásÉve());
+        }
+
+        átlag /= járművek.size();
+        System.out.printf("A járművek átlagos kora: %.1f\n", átlag);
+
+        db = 0;
+
+        for (Jármű elem : járművek){
+            if (elem.isForgalomban_van_e()){
+                db++;
+            }
+        }
+        System.out.printf("Összesen %d db jármű van forgalomban, és %d db nincsen forgalomban.\n", db, járművek.size()- db);
+
+        boolean volt = false;
+        for (Jármű elem: járművek){
+            if (elem.getÜzemanyag().equals("elektromos")){
+                volt = true;
+            }
+        }
+        if (volt){
+            System.out.println("A járművek között volt elektromos hajtású jármű.");
+        }else{
+            System.out.println("A járművek között nincs elektromos hajtásu");
+        }
+
     }
 
 
