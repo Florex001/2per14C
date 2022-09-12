@@ -1,0 +1,1912 @@
+gyarto;modell;gyartas_eve;szin;alvazszam;rendszam;uzemanyag;ajtok_szama;kormany_oldal;forgalomban
+Ford;Probe;1997;Aquamarine;WBAUC9C53CV332300;DRH-223;benzin;5;jobb;false
+Honda;S2000;2004;Purple;WAUKC68D61A198327;JJR-128;dízel;5;bal;true
+BMW;5 Series;1997;Fuscia;2T1BU4EEXBC547066;FHB-308;dízel;3;jobb;true
+Cadillac;Seville;2000;Blue;WAUNG74F49N846704;HRB-085;elektromos;5;jobb;true
+Mercedes-Benz;CLK-Class;2007;Blue;WAUKF78E18A366097;AWK-645;elektromos;5;jobb;false
+Volvo;S80;2012;Violet;WA1AV94L37D671111;UBA-995;elektromos;5;bal;false
+GMC;2500;1998;Blue;1G4HC5EM4BU399943;BLY-823;dízel;3;jobb;true
+Mitsubishi;Outlander Sport;2011;Orange;WAUKH98EX8A270250;CMT-528;elektromos;5;bal;true
+Porsche;911;2001;Crimson;WAUSF78K19N794039;REI-370;elektromos;3;bal;false
+Chrysler;Cirrus;1996;Red;1FTEX1CM7BK606003;OAD-450;benzin;3;bal;true
+Volkswagen;rio;2002;Maroon;KNDMB5C19F6779160;IJS-349;benzin;5;bal;true
+Chevrolet;Silverado;2006;Red;WAUPFAFM8CA272367;OFH-018;benzin;5;jobb;true
+Suzuki;Swift;1996;Khaki;WBAKE3C50BE273073;FPP-103;elektromos;3;jobb;false
+Mercedes-Benz;SL-Class;1990;Aquamarine;2G61S5S30F9995819;SCV-284;dízel;3;jobb;false
+Porsche;Carrera GT;2005;Goldenrod;SCBLF44J98C901547;EDA-196;benzin;3;bal;true
+Lexus;ES;2011;Puce;1GD12ZCG6BF287691;MER-653;dízel;3;jobb;true
+Smart;Fortwo;2008;Khaki;1N6AF0LYXEN268663;RMA-732;benzin;5;bal;false
+Ford;F-Series Super Duty;2011;Goldenrod;WBAAW33421E078820;PFK-201;elektromos;3;bal;true
+Porsche;911;2009;Purple;1G6D05EG4A0843191;FUQ-905;elektromos;3;bal;false
+Honda;Pilot;2003;Purple;2FMPK3K90FB359080;IYC-837;elektromos;3;bal;false
+Pontiac;Grand Prix;1991;Pink;WBA3B5G52EN467207;UJB-106;benzin;3;bal;false
+Chevrolet;Tahoe;1999;Fuscia;1C3CCBHG6CN537923;QMG-916;elektromos;5;jobb;true
+Ford;Windstar;2001;Teal;1G6KE57Y32U011138;UEO-855;elektromos;5;bal;false
+Mercury;Sable;2002;Green;1G6AY5SXXF0846376;ZAL-929;benzin;3;bal;false
+Dodge;Avenger;1998;Blue;3N1AB6AP2CL690812;PNW-141;elektromos;3;bal;false
+Volvo;V70;2010;Puce;1G6DA5E57C0430129;VUI-400;benzin;3;bal;false
+Mercury;Sable;2004;Goldenrod;3FADP0L36CR358328;PMA-466;dízel;3;bal;true
+Ford;Five Hundred;2006;Mauv;YV126MFB8F1892776;UKG-840;dízel;3;bal;true
+Ford;Econoline E250;1999;Puce;WBASN4C5XCC681129;DWS-645;elektromos;3;jobb;true
+Lamborghini;Murciélago;2004;Orange;WAU4GBFBXBN998467;RSK-236;dízel;3;bal;false
+Ford;Mustang;1996;Turquoise;JN8BS1MW4DM505114;ULO-821;elektromos;5;jobb;true
+Toyota;Tercel;1995;Green;1GYFK63817R670732;IEH-007;elektromos;5;bal;true
+Saab;900;1984;Crimson;2G4WS52J851035271;PXG-707;dízel;3;jobb;false
+Ford;Escape;2008;Green;1G6DS1E32D0817886;WTH-086;dízel;5;jobb;true
+Saab;9-5;2009;Crimson;YV4952CF1B1896663;BSI-326;dízel;5;jobb;true
+Volvo;V40;2002;Indigo;1GYS4KEF0ER614548;RWL-745;dízel;5;bal;true
+Buick;Skylark;1989;Yellow;1FMEU3DE0AU813634;FZR-840;dízel;5;bal;true
+Mercedes-Benz;SL65 AMG;2006;Turquoise;WBA3B9C59FF314994;NIL-441;dízel;3;jobb;true
+Nissan;200SX;1996;Puce;1GYFK43898R427885;WTM-713;benzin;5;jobb;true
+Ford;Taurus;2001;Fuscia;WAUJGAFC4DN253982;MWE-403;dízel;5;bal;false
+Scion;xA;2006;Khaki;WBADN63421G280918;VEW-705;dízel;3;bal;true
+Saturn;Sky;2009;Fuscia;WBAVB73547K085047;GWR-575;dízel;5;bal;false
+Subaru;Forester;2003;Teal;1FTEW1CM4BF164177;VEG-379;elektromos;3;jobb;false
+Isuzu;Axiom;2004;Orange;4T1BK3DB8CU178005;QFK-410;elektromos;5;bal;false
+Honda;Passport;1998;Indigo;WAUML54B82N100643;FQH-552;dízel;5;bal;true
+Mitsubishi;Lancer Evolution;2002;Crimson;1GKS1AE07ER031144;IEC-383;dízel;3;bal;true
+Land Rover;Range Rover;1994;Yellow;WVWED7AJ4AW123051;AUN-064;benzin;3;bal;false
+Subaru;Brat;1984;Yellow;1G6AE1R35F0299229;LHL-034;dízel;3;bal;false
+Ford;F150;1993;Pink;WBAVA375X7N527608;NOK-523;dízel;5;jobb;true
+Chevrolet;Malibu;2002;Khaki;1C6RD7HT9CS502203;NDJ-966;dízel;5;bal;true
+Volkswagen;Golf;2001;Crimson;WBAPK53599A459755;OZM-385;elektromos;5;jobb;false
+BMW;X5;2007;Maroon;1LNHL9DK3DG786640;AVC-037;dízel;5;jobb;true
+Porsche;968;1994;Indigo;WAULD54BX2N725246;LRU-528;elektromos;3;bal;false
+Volvo;V70;1998;Pink;SCFFDAAE5AG442457;XLE-706;elektromos;3;jobb;true
+Dodge;Viper;1997;Purple;WA1WMAFE6FD067494;XNQ-738;elektromos;5;bal;true
+Lotus;Esprit;1989;Mauv;WAUJT68E54A281160;VYL-623;dízel;5;jobb;false
+Land Rover;Freelander;2008;Turquoise;2C3CCABG5EH966954;ITL-478;elektromos;5;jobb;true
+Dodge;Stratus;2000;Aquamarine;WUAW2BFC0FN062367;UET-032;dízel;5;bal;false
+Isuzu;Trooper;2002;Orange;19UUA8F2XDA602878;XGN-241;benzin;5;bal;true
+Oldsmobile;98;1994;Fuscia;19UUA9F73CA883017;KKB-142;elektromos;3;jobb;false
+Plymouth;Acclaim;1995;Violet;YV426MDA9F2109052;MFN-479;dízel;5;jobb;false
+Audi;S6;2002;Crimson;SCBBR9ZA1BC814385;YXD-508;dízel;3;jobb;false
+Ford;Expedition;1997;Goldenrod;3C63DRKL4CG143036;TGP-663;dízel;3;jobb;false
+BMW;7 Series;1996;Violet;WBSWL93538P686821;MTO-626;benzin;5;jobb;true
+Chevrolet;Silverado 1500;2011;Khaki;1N6AA0CH3EN340821;WKX-220;dízel;3;bal;true
+Volkswagen;Fox;1987;Crimson;1GD21ZCG6DZ851834;RZN-288;benzin;3;jobb;false
+Chevrolet;Cavalier;1993;Red;3G5DA03E53S786016;NVJ-655;dízel;5;bal;true
+Volkswagen;Passat;2004;Orange;WAUDH48H88K239904;UDY-907;benzin;3;bal;false
+Chevrolet;G-Series G30;1993;Indigo;1G6DP1E30C0604449;KNX-984;benzin;5;bal;false
+Hummer;H2;2008;Red;1GYS3EEJ2CR759452;MVT-494;elektromos;5;bal;true
+Infiniti;G;2007;Teal;5TDDK3DC2FS677879;FWY-045;elektromos;5;bal;false
+Chrysler;PT Cruiser;2006;Puce;WAUNF98P96A309783;SPM-883;benzin;3;bal;true
+Chevrolet;Colorado;2009;Crimson;JM3TB2BVXD0138542;SVF-007;elektromos;3;bal;false
+Chevrolet;Volt;2012;Goldenrod;3VW507AT4FM480148;BAY-647;dízel;5;jobb;true
+Cadillac;DTS;2008;Khaki;JN8AZ2KR5BT636436;EWP-142;benzin;3;jobb;false
+Buick;Enclave;2008;Mauv;5N1AN0NW9FN485006;AIP-773;dízel;5;bal;false
+Dodge;Ram Van 1500;1996;Yellow;2C4RVAAG6CR270838;MSG-266;dízel;5;jobb;false
+Pontiac;Firebird;1993;Khaki;3N1BC1CP8CK542574;KMH-078;dízel;3;bal;false
+Oldsmobile;Silhouette;1997;Green;3D73Y4HL6BG927665;CRK-196;elektromos;3;bal;false
+Pontiac;Tempest;1961;Mauv;SCBZK22E31C739470;JXG-516;elektromos;5;bal;false
+Mazda;B-Series Plus;1997;Blue;KMHHU6KJ2FU725323;EKQ-780;elektromos;3;jobb;false
+Pontiac;Trans Sport;1999;Turquoise;1G6KD54Y45U765239;EHL-662;benzin;5;jobb;true
+Volvo;960;1995;Indigo;1G4HR54K81U795757;QNN-150;benzin;3;bal;true
+Ford;Fairlane;1967;Fuscia;WP0AA2A83FK029118;MTO-051;dízel;3;jobb;false
+Chevrolet;Monte Carlo;1999;Khaki;WP1AA2AP6AL819258;PGC-795;dízel;3;jobb;true
+Subaru;Forester;2009;Fuscia;JH4KB166X7C419307;MAL-876;benzin;3;bal;false
+Buick;Regal;1989;Khaki;YV140MAK6F1152483;UAZ-075;elektromos;5;bal;false
+Ford;F250;2004;Yellow;3VW1K7AJ5DM639408;MXE-381;benzin;5;jobb;false
+Lincoln;Town Car;1998;Teal;5N1AN0NU0AC332016;YOP-119;benzin;5;jobb;true
+GMC;Sierra 1500;2013;Mauv;2C3CCABG4CH935627;VAH-584;elektromos;3;jobb;false
+Bentley;Continental GTC;2011;Fuscia;YV1672MK3B2016983;INM-142;benzin;5;bal;false
+Suzuki;X-90;1996;Pink;5XYKT3A17BG042204;JRM-405;elektromos;5;bal;false
+Lamborghini;Murciélago;2005;Turquoise;2HNYD18683H907210;LWH-887;elektromos;3;bal;true
+Toyota;Supra;1998;Violet;5UXZW0C5XBL191021;MGT-307;dízel;5;bal;true
+Subaru;Impreza;2004;Turquoise;1VWAH7A38EC223078;IRK-154;benzin;3;bal;false
+Austin;Mini Cooper;1961;Turquoise;JN1AZ4EHXFM581527;ZUY-510;benzin;5;jobb;false
+Chrysler;LHS;1997;Red;1N6AD0CU6DN255233;LDX-303;elektromos;5;bal;false
+Ford;Mustang;1974;Pink;WBAKG1C58CJ557378;MHM-793;benzin;5;bal;true
+Infiniti;M;2007;Mauv;WAURFAFRXCA982021;WNA-489;benzin;3;jobb;true
+Lamborghini;Murciélago;2002;Khaki;2B3CK9CV6AH918353;JQW-846;elektromos;5;bal;true
+Lincoln;Mark VIII;1996;Khaki;TRUUT28N741196819;EUX-383;benzin;3;bal;true
+Plymouth;Laser;1993;Fuscia;WDBWK5JAXBF998987;FEN-397;benzin;5;jobb;false
+Mercedes-Benz;S-Class;2012;Orange;1G6DV1EP5D0483931;DZM-062;benzin;5;bal;false
+Chevrolet;Silverado;2010;Khaki;JTEBU4BF5BK050322;XVV-507;benzin;5;bal;true
+Mercedes-Benz;CLK-Class;2001;Maroon;3D7LT2ET0AG212578;EKX-805;elektromos;3;jobb;false
+Ferrari;612 Scaglietti;2008;Crimson;JN8AZ2KR6BT410020;BTX-194;benzin;3;jobb;true
+Toyota;Tacoma;1996;Orange;5N1AN0NW4DN806656;FRF-707;dízel;3;bal;false
+Toyota;T100 Xtra;1997;Puce;WBANF73557C299205;SUX-022;elektromos;5;bal;false
+BMW;X5;2010;Orange;JM3TB2BA7F0615413;ULP-305;dízel;5;bal;false
+Jeep;Commander;2006;Fuscia;WAUZL54B31N015813;ZBK-103;benzin;3;jobb;true
+Land Rover;LR2;2009;Red;3N1CN7AP3EK797172;WFY-990;dízel;3;bal;true
+Ford;Expedition;2005;Mauv;1C3BCBFG2CN309139;YCL-784;benzin;5;jobb;false
+Subaru;Brat;1985;Orange;1G4HR54K34U929790;XOC-967;elektromos;5;bal;false
+GMC;Savana 1500;2008;Pink;WDDHF2EB9CA406001;LJN-477;elektromos;5;bal;true
+Porsche;911;1990;Goldenrod;5TDDK3DC3FS340802;CMH-647;benzin;3;bal;false
+Ford;Escort;1987;Purple;3D73Y4CL1BG916869;CDY-977;dízel;5;jobb;true
+Mazda;626;1983;Orange;2B3CK4CV9AH410171;ZVN-726;benzin;5;bal;false
+Ford;F150;2012;Violet;1GKS2FEJ5DR971234;NKG-417;elektromos;3;jobb;false
+BMW;M3;1997;Maroon;1D7CW5GK3AS295378;IDD-264;elektromos;5;bal;true
+Ford;E350;2006;Teal;WBA3N7C5XFK267218;DHZ-336;dízel;5;jobb;false
+Chevrolet;Suburban 2500;2001;Khaki;1D7RB1CT6BS087879;SFC-944;dízel;5;jobb;true
+Mazda;Mazda3;2010;Maroon;1G6DG8EG6A0920138;SMT-158;benzin;5;bal;true
+Dodge;Dakota Club;1995;Green;KMHFG4JG2DA984773;SRU-709;elektromos;3;bal;true
+Toyota;Tercel;1996;Aquamarine;5FNYF3H35FB490799;EVX-079;dízel;5;bal;false
+Lincoln;MKS;2011;Violet;JN1AZ4EH2FM167982;YGI-209;elektromos;3;bal;false
+Chevrolet;Corvette;1997;Aquamarine;WA1DKBFP6BA349232;PHH-888;benzin;5;jobb;true
+Subaru;Baja;2004;Khaki;1GD020CGXBF849986;KZZ-166;benzin;3;bal;false
+Oldsmobile;Silhouette;2000;Mauv;5UMBT93537L699317;WNZ-673;dízel;3;bal;true
+Mercedes-Benz;300E;1993;Purple;WAUFFAFLXBA114789;XTO-956;benzin;3;bal;false
+Volkswagen;New Beetle;2004;Green;3GTU2YEJ1DG735146;IPN-341;benzin;3;jobb;true
+Toyota;Previa;1993;Violet;3C3CFFCR9ET440256;OXT-160;dízel;3;bal;false
+Cadillac;SRX;2008;Fuscia;19XFB4F25EE006749;BYB-421;elektromos;5;bal;true
+Mercedes-Benz;G-Class;2007;Maroon;WBABW33464P314074;NIS-286;benzin;5;bal;false
+Toyota;Sienna;2009;Orange;WBADT33453G066108;BGW-318;benzin;3;bal;false
+Kia;Sportage;2012;Turquoise;4F2CY0C76AK321061;BHW-085;benzin;3;jobb;true
+Chevrolet;Impala;2010;Turquoise;1G4HR54K82U322359;QIR-903;dízel;3;jobb;false
+Mazda;MX-5;2006;Teal;2C3CCARG6FH437195;SEI-166;benzin;5;bal;false
+Dodge;Stratus;1996;Blue;1FTSW3B55AE887050;RHP-854;benzin;5;bal;false
+Chevrolet;Express 1500;2000;Turquoise;1G6DM57T970910794;GZF-568;elektromos;3;jobb;true
+Ford;Explorer;1992;Indigo;2G4WB55K411571715;DZQ-800;benzin;5;jobb;true
+Dodge;Ram 2500;1995;Mauv;KNAFU5A25B5684753;RDZ-813;elektromos;3;bal;true
+Lexus;RX;2011;Yellow;JTDKN3DP1C3063632;KJZ-997;benzin;3;jobb;true
+Dodge;Ram Wagon B250;1992;Khaki;19UUB2F33FA302539;BXG-678;elektromos;3;jobb;true
+Mazda;323;1992;Goldenrod;WAUFFAFL3EA501768;LRL-475;dízel;5;jobb;true
+Honda;Insight;2006;Violet;WBAKG7C57CE473239;YOM-721;elektromos;5;bal;true
+Mercury;Villager;1999;Yellow;JN1AZ4FH8FM425131;ZKM-067;dízel;3;jobb;true
+Fiat;500;2012;Crimson;WAUAFAFL3EN230522;ZQG-502;elektromos;3;bal;true
+Mitsubishi;Cordia;1984;Yellow;KMHDB8AE2CU001437;LXS-870;benzin;3;bal;true
+Lamborghini;Gallardo;2004;Yellow;WVWAN7AN7EE043527;BWR-388;elektromos;5;jobb;true
+Toyota;4Runner;2003;Pink;WP0CA2A88AU065957;QPM-375;benzin;3;bal;false
+Chevrolet;HHR;2010;Orange;KNAGN4AD9F5440090;YDV-804;benzin;5;jobb;true
+Lexus;ES;2002;Yellow;WVGEF9BP0DD221028;YIP-505;elektromos;3;bal;false
+Lexus;GS;1994;Red;JTEBU4BF2BK906322;SOZ-779;benzin;5;bal;true
+Lexus;RX;2013;Red;JTHBK1EG2C2498675;STX-343;elektromos;3;jobb;false
+Pontiac;Bonneville;1996;Violet;5N1AL0MM0DC913009;SBO-556;benzin;5;bal;false
+GMC;3500;1993;Blue;3C63D2JL7CG287513;UNC-841;dízel;5;bal;false
+Merkur;XR4Ti;1985;Blue;KMHDB8AE7CU946447;IJZ-948;dízel;3;jobb;false
+Audi;Coupe Quattro;1991;Violet;5N1AT2ML9EC797720;CMH-027;dízel;3;jobb;true
+Mitsubishi;Eclipse;2012;Aquamarine;WBSBR93432E607932;NKA-575;dízel;5;bal;true
+Eagle;Summit;1993;Orange;WAUHF78P07A174471;ALH-093;dízel;3;jobb;false
+Kia;Sephia;2001;Violet;19UUA86279A127892;AOQ-542;dízel;5;bal;true
+Chrysler;Grand Voyager;2000;Green;JM1DE1HYXB0968483;VJV-737;dízel;3;jobb;true
+Dodge;Challenger;2009;Puce;2HNYD18244H352173;PGD-568;benzin;5;jobb;true
+Mazda;929;1991;Mauv;WAUEKAFB5BN286039;ZDZ-396;dízel;3;bal;true
+Dodge;Caravan;2000;Purple;WBADX7C57DP108235;SVH-565;benzin;5;bal;false
+Ford;Escort;2004;Indigo;KNAFT4A2XC5016896;TEN-256;elektromos;5;jobb;true
+Jeep;Compass;2011;Purple;WAUVC58E15A898164;JRO-170;benzin;5;bal;false
+Ford;Econoline E350;1995;Khaki;WBADN63413G363937;RVH-036;benzin;3;bal;false
+Chevrolet;3500;2000;Khaki;WBS3U9C53FJ237025;RRN-267;dízel;3;bal;false
+Buick;Skyhawk;1988;Teal;JH4KA96684C228563;GQC-051;dízel;3;bal;false
+Toyota;4Runner;2002;Aquamarine;JA32X2HU8EU969342;FFM-185;dízel;3;bal;false
+Toyota;Avalon;2005;Teal;5N1AA0NE2FN810274;MIT-668;elektromos;5;jobb;true
+Plymouth;Voyager;1999;Red;JH4CL96818C470486;YXN-020;elektromos;3;bal;true
+Dodge;Journey;2009;Teal;WAUJC68EX5A736859;AGR-648;elektromos;5;bal;false
+Pontiac;6000;1986;Purple;WDDEJ7EB3DA933466;JVV-320;dízel;5;bal;true
+Pontiac;Firebird;2001;Turquoise;1LNHL9DR3BG531609;XOI-563;benzin;3;jobb;false
+Dodge;Viper;2003;Khaki;SCBDR33W47C297679;SSU-954;elektromos;3;bal;false
+GMC;Suburban 2500;1993;Indigo;1GD12XEG6FF764627;QKV-045;elektromos;3;bal;true
+Toyota;Matrix;2005;Teal;5J6TF2H54DL765279;QPD-973;dízel;3;bal;false
+Honda;CR-V;1998;Maroon;5FRYD4H6XEB280797;KAX-773;elektromos;5;jobb;true
+Volkswagen;Jetta;1992;Goldenrod;2T1KE4EE7AC397851;VQD-700;elektromos;3;jobb;false
+Dodge;Monaco;1992;Green;2C3CCAAG0EH645843;RNK-468;benzin;3;bal;true
+Pontiac;G8;2008;Yellow;WBADW7C52CE570201;JAZ-780;dízel;3;bal;true
+Dodge;Dakota;2002;Yellow;WAUBFAFL4BA984973;UPH-531;elektromos;5;jobb;true
+Ford;F-Series;2007;Green;WBA3B5C52FF018580;PLP-369;dízel;3;bal;true
+Mercedes-Benz;190E;1992;Indigo;WAUMF78P06A977049;ZCH-641;dízel;5;jobb;true
+Ford;Transit Connect;2012;Blue;NM0KS9BNXDT809314;IMQ-460;benzin;5;bal;true
+Nissan;Rogue;2010;Puce;1G6KD57Y66U948784;RBR-958;dízel;5;jobb;false
+Bentley;Azure;2007;Khaki;19XFB2E56CE594531;QKP-986;elektromos;3;jobb;false
+Mercedes-Benz;E-Class;1988;Violet;1FTWW3B54AE729669;VZA-588;dízel;5;bal;false
+Ford;GT;2006;Crimson;1FAHP2DWXAG375675;TRI-506;elektromos;5;bal;false
+Honda;Pilot;2003;Crimson;5J6TF1H59FL603144;HDN-446;benzin;3;bal;true
+Buick;Regal;1989;Puce;WBAVB73527V615823;KCN-540;dízel;3;bal;true
+Oldsmobile;88;1996;Aquamarine;WBA3B9C57DF215491;MSB-910;dízel;3;bal;true
+Dodge;Ram Wagon B250;1992;Purple;1N6AF0LXXFN622240;UWQ-907;elektromos;5;bal;true
+BMW;M3;1995;Fuscia;WAUGFAFC7DN955338;GDQ-204;dízel;5;bal;false
+Pontiac;Grand Prix;1993;Pink;JTDJTUD32DD967408;FBE-635;elektromos;5;bal;true
+Suzuki;XL7;2009;Aquamarine;5GALVAED7AJ394092;YUB-425;benzin;3;jobb;true
+Ford;Windstar;2001;Turquoise;KMHGH4JH0FU257546;KWK-251;benzin;3;bal;true
+Lotus;Esprit;1992;Red;2HNYD28457H730075;OPJ-256;elektromos;3;jobb;true
+Chevrolet;Bel Air;1967;Blue;1GTG5AEA9F1127517;NVV-541;elektromos;3;jobb;true
+Toyota;Supra;1994;Mauv;WAU3GBFC2DN048028;FOA-304;elektromos;3;bal;false
+Mercury;Sable;1999;Orange;KNDPB3A20C7972087;NMB-547;benzin;3;jobb;true
+Toyota;Tacoma Xtra;1997;Aquamarine;1J4RG4GKXAC932332;AKX-799;elektromos;3;bal;false
+Saturn;Relay;2005;Khaki;WAULC68E03A203344;CVN-064;dízel;3;bal;true
+Land Rover;Defender 90;1995;Goldenrod;JN8AF5MR6DT849051;SQS-684;benzin;5;bal;false
+Dodge;Caravan;2009;Fuscia;4T3BA3BB0BU022875;JDQ-231;dízel;5;bal;false
+Acura;Integra;1996;Aquamarine;WAUTFAFH5DN942467;QBW-952;dízel;5;jobb;true
+Suzuki;Esteem;1996;Puce;JN1CV6EK5DM616659;WYK-973;elektromos;5;bal;false
+Acura;Integra;2000;Mauv;WAUJ2AFD0FN378116;QLB-567;dízel;5;jobb;true
+Jaguar;XJ;2011;Khaki;1FTSX2A57AE746067;BAU-281;benzin;5;jobb;true
+Mercedes-Benz;W201;1987;Aquamarine;1C6RD7KP6CS041506;POL-329;benzin;5;jobb;false
+Audi;A4;2002;Mauv;JM1CW2BL4E0687831;YYL-676;benzin;3;bal;true
+Plymouth;Grand Voyager;1996;Violet;2G4WD582461483020;QXW-271;elektromos;3;bal;true
+Saturn;S-Series;1993;Violet;NM0KS7DN1AT001687;AJO-985;dízel;3;jobb;true
+Honda;Prelude;1998;Mauv;2B3CA7CW9AH477186;GDP-278;benzin;5;bal;false
+Mercedes-Benz;R-Class;2008;Purple;WBANV13518C152378;LQS-986;benzin;3;jobb;false
+Dodge;Ram Wagon B350;1994;Violet;WAUMGAFL9CA806175;VTP-888;benzin;3;jobb;true
+Toyota;Supra;1998;Mauv;WAUFFAFL0DN353585;XVB-678;dízel;3;bal;false
+GMC;2500;1998;Crimson;WBA3A9C57DF676628;YLY-859;dízel;5;jobb;true
+Mercury;Monterey;2006;Puce;3VW8S7AT4FM942702;AQE-552;dízel;3;jobb;true
+Mercedes-Benz;G-Class;2007;Orange;JM1NC2JF5F0207861;YLE-115;benzin;3;bal;false
+Ford;E-Series;1992;Goldenrod;JH4DC54846S589796;KCI-215;benzin;3;jobb;false
+Mitsubishi;GTO;1997;Fuscia;4T1BK1EB6FU551016;GBE-677;elektromos;5;jobb;true
+BMW;X5;2001;Green;3GYFNKE68BS333878;UFC-424;benzin;5;jobb;true
+Honda;CR-V;2000;Purple;WBA3B3C53FJ354210;NKU-002;dízel;3;bal;true
+GMC;Vandura 1500;1993;Turquoise;1G6AB5SX2E0924620;FEK-508;dízel;3;jobb;false
+Spyker;C8;2005;Puce;WVWED7AJ3BW913264;HHM-065;elektromos;3;bal;false
+Chevrolet;Aveo;2004;Indigo;WBA3C1C54CA594721;TAV-680;benzin;3;bal;false
+GMC;Rally Wagon 1500;1992;Yellow;WAUKF78E35A284366;WHS-075;dízel;5;bal;false
+Ford;Mustang;1993;Goldenrod;JTHDU1EF5A5339980;OKE-731;elektromos;3;jobb;false
+Toyota;Prius;2007;Puce;3VW1K7AJ0BM825984;AXH-242;elektromos;5;jobb;true
+Honda;Civic;2003;Blue;3N1AB7AP6FL547470;JYC-622;dízel;5;bal;false
+BMW;7 Series;2008;Yellow;WAUVT54B73N185464;TFP-159;benzin;3;bal;false
+Mercedes-Benz;SL-Class;1985;Orange;19UUA9F29EA316897;LES-769;elektromos;3;jobb;false
+Hyundai;Elantra;2003;Khaki;3VW507AT7EM880395;ENQ-437;elektromos;3;jobb;false
+Nissan;200SX;1998;Red;WP0CA2A86BU099980;RKS-493;elektromos;5;jobb;false
+Aston Martin;Virage;2011;Aquamarine;2G4GT5GX6E9949602;MEU-549;dízel;5;jobb;true
+Ford;F-Series Super Duty;2012;Mauv;WBAVC93548K678630;CLI-006;elektromos;3;bal;true
+Smart;Fortwo;2010;Indigo;3VWKX7AJ9BM025156;LSD-300;dízel;3;bal;true
+Dodge;Ram Van 2500;1997;Goldenrod;WUARL48H59K749106;GKO-767;elektromos;5;jobb;true
+Suzuki;Grand Vitara;2008;Yellow;1G6KE57Y04U351172;ERQ-508;dízel;5;jobb;true
+Dodge;Ram Wagon B150;1992;Green;3C63D2CL0CG767874;QWF-900;elektromos;5;bal;true
+Mercedes-Benz;S-Class;2005;Yellow;WAUWFAFL2BA809459;RAP-317;benzin;3;jobb;true
+BMW;5 Series;2002;Goldenrod;1GYS3AEFXBR501635;RYY-055;benzin;3;bal;true
+Chevrolet;Corvette;2010;Purple;WBAKE3C57CE251279;IWN-444;dízel;3;jobb;false
+Chevrolet;S10;1999;Puce;2G4WB52K921850776;XMK-782;benzin;3;bal;false
+BMW;7 Series;1996;Goldenrod;5FNRL5H25FB855630;TNO-994;elektromos;5;jobb;true
+Aston Martin;DB9;2006;Violet;4JGDA0EB6FA974198;XCE-042;dízel;3;jobb;false
+Buick;LaCrosse;2012;Pink;JN8AF5MR4BT514223;KVT-546;dízel;3;bal;true
+Rolls-Royce;Ghost;2010;Puce;WVGEF9BP9DD907889;MAN-172;dízel;3;bal;true
+Subaru;Impreza;2009;Purple;WA1BV94L68D441813;UZT-692;benzin;3;bal;true
+Chevrolet;Impala;2004;Teal;2B3CJ5DT3AH343976;JVG-454;elektromos;3;jobb;true
+Mercury;Cougar;1984;Fuscia;1N6AA0CJ8EN294356;NZS-620;benzin;5;bal;false
+Mitsubishi;GTO;1996;Goldenrod;1FMJU2A51AE882677;DNH-542;benzin;5;jobb;true
+Lexus;RX;2003;Puce;2B3CA9CV1AH107594;UII-069;elektromos;5;bal;true
+Chevrolet;TrailBlazer;2009;Purple;1FTEX1E86AK747255;TNX-581;elektromos;3;bal;true
+Lotus;Elan;1990;Teal;2G4GR5GX6F9542184;WDC-026;dízel;5;bal;false
+Lamborghini;Gallardo;2011;Pink;JN8AZ1MU5CW623844;ZUZ-483;dízel;5;jobb;true
+Honda;Ridgeline;2012;Violet;3N1BC1APXBL148019;XRE-592;dízel;3;bal;false
+GMC;Sierra 3500;2011;Yellow;1G6KS54YX2U053660;FAQ-524;elektromos;5;jobb;true
+Toyota;Sequoia;2004;Puce;WA1WKAFP4AA336013;EJX-384;elektromos;3;jobb;false
+Mazda;Mazdaspeed 3;2011;Yellow;3GTU2YEJXDG038073;EJC-278;elektromos;3;jobb;true
+GMC;Yukon XL 1500;2013;Indigo;5FNRL5H23CB192604;GOQ-664;elektromos;3;jobb;false
+Ford;C-MAX Hybrid;2013;Pink;WA1CYBFE3AD125499;IQN-870;dízel;3;jobb;true
+Volkswagen;New Beetle;2004;Crimson;3VW507AT4FM457274;KVD-309;benzin;3;jobb;true
+Ferrari;599 GTB Fiorano;2008;Crimson;SCBET9ZA4F8330377;WJM-541;benzin;3;bal;false
+Dodge;Grand Caravan;2012;Purple;WBAFR9C50BD381319;MSZ-119;dízel;5;bal;true
+GMC;Yukon;2012;Green;WUARL48HX6K446396;LIM-708;dízel;3;bal;true
+Chrysler;200;2011;Pink;1G6DN57U470673539;DRV-106;benzin;5;bal;false
+Pontiac;Firefly;1991;Mauv;WAUVC58E33A927922;TWT-954;elektromos;5;bal;true
+Buick;Skylark;1998;Goldenrod;3D7JB1ET0BG820123;EUH-694;dízel;3;jobb;false
+Mercedes-Benz;C-Class;1998;Puce;KMHHT6KDXCU757753;PIQ-110;elektromos;3;jobb;true
+Volkswagen;Fox;1990;Crimson;WVWAB7AJ8DW821056;HLL-724;benzin;3;bal;false
+Lexus;RX;2010;Turquoise;5UXZV4C55CL679451;TRG-770;dízel;3;jobb;false
+Volvo;C30;2013;Khaki;WUARL48H46K725553;VVL-199;dízel;5;jobb;false
+GMC;Sierra 2500;2009;Turquoise;1FTEX1E82AF356063;YJY-231;elektromos;3;bal;true
+Jaguar;XK;2008;Yellow;1N6AA0CJ4DN785781;EHW-572;elektromos;5;bal;false
+Volvo;S60;2005;Indigo;WA1WMAFE6FD927748;RUB-689;elektromos;5;jobb;false
+Mitsubishi;Pajero;2005;Teal;W04G15GVXB1020323;JVD-287;dízel;5;bal;true
+Ford;Thunderbird;1958;Maroon;WUARU78E87N972983;UPV-791;benzin;3;jobb;false
+Lincoln;Continental;1986;Khaki;2HNYD18472H132458;QJD-064;elektromos;3;jobb;true
+GMC;Yukon;2012;Green;JHMZF1C67ES781976;PQV-048;elektromos;3;jobb;true
+Mercedes-Benz;SL-Class;1999;Maroon;1FTWW3A58AE347209;MOW-918;elektromos;5;bal;true
+Subaru;Baja;2005;Puce;WAULD64B82N442950;EOL-253;dízel;5;jobb;false
+Isuzu;Oasis;1998;Teal;TRUTX28N711340218;PZH-519;benzin;3;jobb;false
+Ford;Bronco;1985;Red;1G6DL8E39D0695369;AJE-342;dízel;3;jobb;true
+Mazda;B-Series Plus;2003;Fuscia;JTDZN3EU5FJ610226;QCF-101;benzin;5;bal;true
+Infiniti;G;2011;Puce;SCFFDABE6AG291157;QST-146;benzin;5;jobb;true
+Audi;RS 4;2008;Purple;3VW517AT2FM695055;IBN-075;dízel;5;jobb;true
+Honda;Civic;1989;Khaki;WBAPK5C58BF101376;MQO-086;dízel;5;jobb;false
+Suzuki;X-90;1997;Violet;3D73M4CL6AG840317;ZDF-446;elektromos;5;bal;false
+Chevrolet;Express 3500;2009;Turquoise;1G6DK5EV2A0693347;DQA-904;elektromos;5;jobb;true
+Jeep;Commander;2007;Fuscia;TRUVD38J391661429;WTL-786;elektromos;5;bal;false
+Mercedes-Benz;G55 AMG;2006;Violet;19XFB4F35EE509433;HTW-598;benzin;3;jobb;false
+GMC;Savana 3500;2002;Green;5J8TB3H75GL821342;YHB-238;elektromos;5;jobb;true
+Dodge;Viper RT/10;1995;Blue;JN1CV6EK7FM821841;BIJ-885;dízel;5;bal;true
+Mercury;Grand Marquis;2006;Turquoise;JM1NC2MF8D0150239;EEQ-295;dízel;5;bal;false
+Maserati;430;1991;Aquamarine;WAUDH94F07N227356;GQC-715;elektromos;3;jobb;true
+Hummer;H2;2009;Puce;SCFEDEAN2CG510171;XQU-179;dízel;3;bal;false
+Audi;A8;2011;Teal;1G6DV1EP1D0947779;TNI-298;dízel;5;jobb;false
+Jaguar;S-Type;2006;Blue;WBAVB73558V287038;FLO-441;benzin;3;jobb;true
+Mitsubishi;Pajero;2001;Maroon;1N6AA0CA4DN511187;YHT-057;benzin;5;jobb;true
+Cadillac;Seville;2002;Khaki;3GYFNCEYXAS576968;GAY-707;dízel;3;jobb;true
+GMC;Sonoma;1996;Turquoise;WBADX7C57DP756772;UZK-261;elektromos;3;bal;true
+Chevrolet;G-Series G20;1995;Puce;1FTSW2A55AE721171;FKD-173;elektromos;3;bal;true
+Lexus;LS;1994;Indigo;WAUDN94F98N182699;HSW-254;benzin;5;jobb;false
+Hyundai;Tucson;2005;Maroon;1G6KD57Y36U705191;EIH-181;elektromos;5;bal;true
+Ford;Contour;1996;Orange;1FTEX1CW8AF163160;NEE-787;dízel;3;bal;true
+Dodge;Grand Caravan;2008;Green;1YVHZ8BH6B5111436;NTX-272;benzin;5;bal;false
+Jaguar;XK Series;1998;Violet;5N1AT2ML0FC567436;QNS-017;benzin;5;jobb;false
+Chevrolet;Malibu;2004;Pink;1D7RV1CT4BS318463;LIF-503;dízel;5;bal;false
+Mazda;Protege;2003;Khaki;JM1NC2PF2E0393025;URF-704;benzin;3;jobb;true
+Hyundai;Elantra;2004;Indigo;WBAFB33401L932524;VMK-854;elektromos;5;jobb;true
+Volvo;S60;2011;Khaki;2T2BK1BA3FC033213;EBP-838;benzin;3;bal;true
+Lincoln;Navigator;2011;Pink;5GADX33L45D579127;BSC-650;dízel;3;jobb;false
+Ford;Econoline E250;1994;Violet;WBAHN83518D284217;HMK-350;dízel;3;jobb;true
+Porsche;911;1985;Fuscia;WAUMV94EX8N794739;APR-068;dízel;5;jobb;true
+Lexus;IS-F;2010;Goldenrod;WAUDF98E15A337148;CQN-091;benzin;3;jobb;false
+Ford;Windstar;1995;Purple;WAUBFAFLXFA108625;QPA-315;elektromos;3;jobb;true
+Nissan;Sentra;2007;Violet;JN1CV6EK3BM035075;CRL-915;dízel;3;jobb;true
+Volkswagen;New Beetle;1998;Khaki;SALWR2TF4FA217168;NUZ-726;elektromos;5;bal;true
+Buick;LeSabre;1991;Red;WAUR2AFDXDN095755;DSV-635;dízel;5;bal;false
+Acura;Legend;1989;Orange;SCFEBBCF1BG832857;VIS-368;benzin;3;bal;false
+Saab;9-3;2006;Green;WBA1M1C53FV886927;OKT-427;benzin;5;bal;true
+Mitsubishi;Outlander Sport;2012;Turquoise;WAUED54B11N080137;DEE-449;dízel;3;jobb;false
+Volvo;S90;1998;Indigo;5BZAF0AA8FN454423;VZC-038;dízel;3;jobb;true
+Ford;Windstar;2004;Yellow;WAULC58EX5A699072;JND-619;benzin;5;jobb;false
+Lamborghini;Diablo;1998;Aquamarine;WBAVD33586K294499;YWT-063;elektromos;3;jobb;true
+GMC;Vandura 3500;1994;Green;JH4CW2H57CC764842;OJV-125;benzin;3;jobb;false
+Suzuki;Swift;1992;Crimson;1N4AA5AP1CC908136;JNV-151;dízel;5;bal;true
+Plymouth;Reliant;1981;Turquoise;WAUMFAFL8DN352904;GMW-357;elektromos;3;jobb;true
+Jeep;Compass;2012;Green;19XFA1E36BE649408;TYH-236;elektromos;5;jobb;true
+Lexus;RX;2001;Khaki;WDDLJ7DB3EA562870;HTB-028;benzin;3;jobb;false
+Mercedes-Benz;C-Class;1996;Khaki;JM1BL1K50B1240824;TYK-842;elektromos;3;bal;true
+GMC;Suburban 1500;1996;Blue;5FNRL5H26EB256301;XTU-671;elektromos;5;jobb;true
+Lincoln;Navigator;2002;Green;WBADN53422G190907;ADE-063;benzin;3;jobb;true
+Land Rover;Defender;1993;Puce;WAUPN94EX8N290835;SEM-450;dízel;5;bal;false
+GMC;Savana 1500;2011;Crimson;WA1WMAFE6DD789626;RQV-249;dízel;5;bal;true
+Suzuki;XL-7;2008;Yellow;WA1DGAFE7BD238732;UDY-478;dízel;5;bal;false
+Mercedes-Benz;W201;1992;Fuscia;1FTEW1E89AK909060;LKR-495;benzin;3;jobb;false
+Lincoln;Continental Mark VII;1991;Violet;19UUA66238A796874;YZW-929;benzin;3;bal;false
+BMW;M3;1998;Violet;WBA3N5C53EK810301;PEW-837;dízel;5;bal;false
+Volkswagen;Eos;2011;Red;JH4CU2E60AC999499;UHL-330;benzin;5;bal;true
+Toyota;Camry;2008;Puce;WBAVB33536K856766;WKX-944;dízel;5;jobb;true
+Buick;Regal;1997;Red;WBA3A9C58DF119534;EMT-762;dízel;3;bal;true
+Peugeot;207;2007;Red;WBA4B3C55FD825163;LTQ-584;dízel;5;jobb;true
+Mazda;626;1983;Red;1GT01XEG1FZ872090;CAM-646;dízel;3;jobb;false
+Mitsubishi;Diamante;2002;Violet;2C3CDXGJ3FH875493;GRB-144;benzin;5;bal;false
+BMW;600;1959;Blue;JH4CU2F68CC984380;YMY-712;dízel;5;jobb;true
+Kia;Rondo;2009;Maroon;4T1BF3EK0BU725592;GMN-471;dízel;5;bal;false
+Audi;S6;2008;Goldenrod;5TDDCRFH5FS017814;SEQ-786;benzin;5;jobb;false
+Land Rover;Range Rover;2010;Pink;SCBLF44J87C941181;XBY-266;elektromos;3;jobb;true
+Chevrolet;Corvette;1975;Purple;WBALW3C50FC571335;WXH-227;elektromos;3;bal;true
+Toyota;Tercel;1995;Orange;KMHHU6KJ3FU119917;RZE-736;dízel;5;jobb;true
+Dodge;Neon;1998;Turquoise;WBAAV33451E079639;EWX-148;dízel;3;bal;true
+Ford;Escort;2004;Maroon;1FTEW1E86AK749008;ZVQ-935;benzin;5;bal;true
+Buick;Park Avenue;2003;Turquoise;1N4AL2AP4CN811364;VYM-426;dízel;5;bal;true
+Mitsubishi;Diamante;1998;Yellow;WBALY1C56ED315126;CXL-867;elektromos;3;jobb;true
+Buick;Riviera;1988;Orange;1D7RV1CT1AS570234;AUT-842;benzin;5;jobb;true
+Maybach;Landaulet;2010;Purple;1GYFC66828R432902;VNC-211;benzin;5;jobb;true
+Ford;E250;2008;Pink;WAULFAFH6BN067008;IFP-788;benzin;5;bal;true
+Chrysler;Town & Country;1993;Maroon;2G4GU5GX1E9001640;TEU-496;dízel;5;jobb;false
+Pontiac;Bonneville;1995;Pink;1FTWW3CY8AE079138;HAS-716;elektromos;5;jobb;false
+GMC;Savana 1500;1997;Aquamarine;19UUA56943A199328;KWJ-777;benzin;5;bal;false
+Honda;Prelude;1986;Aquamarine;WAUYP64B91N134505;LSL-577;elektromos;5;jobb;true
+Mercedes-Benz;SLR McLaren;2005;Aquamarine;WBAHN83526D001529;AIF-225;benzin;5;bal;true
+Pontiac;Sunbird;1993;Indigo;WAUBF78E66A974954;PVF-392;dízel;3;jobb;false
+Kia;Sportage;1996;Violet;WAULH64B81N745651;WXV-596;dízel;3;bal;true
+Toyota;Prius;2012;Teal;3D4PG4FB8AT810817;GZS-821;dízel;5;jobb;true
+Kia;Sportage;2012;Turquoise;5UXFH0C52BL509890;JED-878;elektromos;5;jobb;false
+Lexus;LS Hybrid;2012;Orange;1G6DJ8EY0B0323711;MSA-706;dízel;3;bal;false
+Toyota;Prius;2007;Goldenrod;1G4GC5GR0DF158831;NKM-340;dízel;5;jobb;false
+Ford;Ranger;1989;Mauv;3GYFNFEY3AS125950;BEY-485;benzin;3;bal;true
+Lincoln;Town Car;1997;Khaki;5J6TF1H35EL966103;ZJX-008;elektromos;5;jobb;true
+Mercury;Sable;1987;Aquamarine;WUARL48H65K667248;PNX-790;elektromos;3;bal;false
+Toyota;Land Cruiser;2002;Turquoise;4USFE43567L891781;HLA-961;benzin;5;bal;false
+Ford;F-Series;2002;Goldenrod;WA1VMBFE4ED209194;ECT-340;benzin;5;bal;false
+Porsche;Boxster;2010;Khaki;JN1AZ4EH0FM112155;TUK-095;dízel;5;bal;false
+Ford;Club Wagon;1996;Goldenrod;2C3CDXGJXDH004426;UWG-100;dízel;5;bal;false
+Lincoln;Mark VIII;1998;Fuscia;3C6JD6EP6CG893204;CTM-064;benzin;5;jobb;true
+Audi;90;1993;Turquoise;1B3CB2HA8AD248394;STA-318;benzin;5;bal;true
+Ford;Taurus;2010;Maroon;19UUA9F70EA756356;OWI-910;dízel;5;jobb;false
+Mazda;Mazdaspeed 3;2011;Pink;WAULFAFR4DA986900;HKW-757;dízel;5;jobb;false
+Ford;Taurus X;2009;Turquoise;JHMZF1C68ES562752;EXR-371;benzin;5;jobb;false
+Ford;Falcon;1966;Goldenrod;1G6DK8E37D0846678;BJZ-928;dízel;5;bal;false
+Toyota;Celica;1976;Fuscia;WAUKFBFL5AA494160;SLN-414;dízel;3;bal;true
+Dodge;Ram 3500;2001;Yellow;WBALL5C55EP822796;MZH-070;benzin;3;bal;true
+Suzuki;XL7;2008;Green;JN8AZ2KR1BT034178;WQI-177;elektromos;3;jobb;false
+Mercury;Grand Marquis;2007;Blue;3C6JD7BP7CG730507;PUI-264;elektromos;3;jobb;true
+Audi;A8;2005;Violet;19VDE1F34EE028434;JAR-147;benzin;5;jobb;true
+Lincoln;Continental;1987;Violet;3VW4S7ATXEM951479;GWJ-573;elektromos;3;jobb;true
+Mercury;Mystique;1997;Aquamarine;JN1BJ0HP7FM282729;UBS-386;elektromos;5;bal;false
+Ford;Mustang;1985;Crimson;5UXZW0C5XC0631211;BMW-765;benzin;5;jobb;false
+Jaguar;XJ Series;1998;Khaki;1GD12ZCG6BF061604;SRR-651;benzin;3;jobb;false
+Audi;A6;2007;Khaki;WAUML44D02N517413;UTN-585;elektromos;5;jobb;false
+Mercedes-Benz;CLS-Class;2011;Pink;4A37L3ET8AE218747;QCQ-608;dízel;3;jobb;true
+Mazda;Mazda6;2004;Yellow;1N4CL2AP4AC003789;QFO-684;dízel;3;jobb;true
+Chevrolet;Suburban 2500;2009;Turquoise;2G4WF521441589247;JGI-548;elektromos;5;bal;false
+Ford;E-Series;2004;Pink;WBAEJ13432A635750;KAG-164;dízel;5;bal;false
+Pontiac;Grand Prix;1991;Red;1N6BF0KM2FN435182;VHD-694;benzin;5;bal;false
+Porsche;968;1994;Khaki;1HGCR2E73EA383696;FKA-644;benzin;3;bal;true
+Buick;Park Avenue;2003;Indigo;2T1BPRHE3EC033127;CYT-821;dízel;3;jobb;false
+Mitsubishi;Eclipse;2012;Aquamarine;3N1CE2CP2EL969847;PCN-740;benzin;5;bal;false
+Ford;GT;2005;Indigo;WAUDFAFL2FN911916;JWN-573;dízel;3;bal;true
+Infiniti;EX;2008;Violet;2G4WC552761760802;TBD-481;dízel;3;jobb;true
+Lincoln;LS;2001;Fuscia;1GYFC362X9R348967;WRV-213;elektromos;3;bal;false
+Hyundai;Santa Fe;2004;Fuscia;YV126MFK7F2008210;GJA-132;elektromos;3;jobb;false
+BMW;5 Series;1995;Khaki;KNAFK4A60E5383279;QRQ-793;dízel;5;bal;true
+Volkswagen;GTI;1985;Goldenrod;YV140MAM0F1463490;ZHV-739;dízel;3;bal;true
+Maserati;Spyder;2003;Green;1N6AF0KXXEN037996;RNZ-750;dízel;3;bal;true
+Cadillac;XLR-V;2006;Blue;WAUVT68E35A486205;WUE-866;benzin;5;jobb;true
+Cadillac;Escalade EXT;2002;Fuscia;WUAW2BFC6FN057822;YIB-101;benzin;3;jobb;true
+Hyundai;Accent;1995;Yellow;2G4WY55J611999520;CCL-723;dízel;3;jobb;true
+Lincoln;Mark LT;2006;Goldenrod;JN1BY1AR0FM817302;HTU-192;dízel;5;bal;false
+Mazda;B-Series Plus;1994;Blue;4T1BF1FK5FU521377;VCM-997;benzin;3;jobb;false
+Volvo;S40;2011;Fuscia;WAUFFAFL6FN869002;NUK-365;elektromos;3;bal;false
+Nissan;Titan;2005;Maroon;3C6JD6EP5CG411368;AGV-234;elektromos;3;jobb;true
+Volkswagen;Eos;2011;Goldenrod;5NPE24AF0FH473337;RVT-384;dízel;5;jobb;true
+Mercedes-Benz;300D;1993;Orange;WAUFGAFC3FN591950;THQ-281;elektromos;3;bal;false
+Ford;Ranger;1999;Red;SCFFDABM9DG693444;HKR-662;elektromos;5;bal;true
+Ferrari;F430;2008;Teal;1N4AB7AP5DN071180;SRF-451;dízel;5;bal;false
+Mercury;Mountaineer;1999;Green;WAUDFAFL4BN246852;KWW-694;dízel;5;bal;false
+Bentley;Arnage;2005;Goldenrod;1FMCU9D77AK850493;XRN-757;dízel;5;bal;true
+Mercury;Topaz;1994;Blue;WAULT68E53A111422;BBY-276;dízel;3;bal;false
+Ford;Econoline E350;1995;Teal;WP0AA2A96CS317123;ZVW-943;elektromos;5;bal;false
+Subaru;Impreza;1994;Pink;1G6AH5R39E0605278;WIS-733;benzin;5;bal;false
+Dodge;Ram 2500 Club;1998;Pink;WDDEJ7EB3BA306540;TDV-895;benzin;5;bal;false
+Chrysler;Sebring;1996;Aquamarine;WAUD2AFD9DN923644;JFI-411;elektromos;5;bal;false
+Chrysler;300M;2002;Orange;WAUDF98EX8A035037;QHW-820;dízel;5;bal;true
+Mercury;Lynx;1987;Teal;SAJWA4DC6AM595399;PMT-515;elektromos;5;jobb;true
+Subaru;SVX;1993;Red;1FTWW3CY2AE408707;XLT-966;dízel;5;jobb;false
+Ford;Econoline E250;1994;Purple;WA1LGAFE6CD034727;TKC-845;benzin;3;bal;false
+Chrysler;300M;2003;Red;1D7RE3BKXAS706039;EAZ-707;benzin;5;jobb;false
+Audi;Q7;2010;Teal;JA4AS2AW1AZ338642;AWY-130;dízel;3;jobb;true
+Chevrolet;Camaro;1977;Indigo;4T1BF3EK7BU480144;LQA-402;dízel;5;jobb;true
+Dodge;Ram 1500;2010;Yellow;WBAYE4C54DD875354;LTV-025;dízel;5;jobb;false
+Toyota;Sequoia;2001;Purple;1G6AH5R30D0536043;KBT-093;benzin;3;bal;false
+Porsche;Cayenne;2006;Pink;KNAFU6A21B5701215;OVG-963;dízel;3;jobb;false
+Lexus;LS;2002;Green;WAUGU54D31N710895;MWC-193;benzin;5;bal;true
+Scion;xB;2004;Blue;WBAEN33444E177390;CVK-584;dízel;3;bal;false
+Acura;Integra;1999;Pink;WBAVM1C57DV464481;UPX-415;benzin;5;jobb;true
+Aston Martin;V8 Vantage;2006;Pink;WAUFFAFL5DN674621;HRK-186;benzin;5;jobb;false
+Toyota;Sequoia;2002;Mauv;1FTFW1E8XAF476362;UVP-635;dízel;5;bal;false
+Subaru;Baja;2006;Teal;3D7JV1EP6AG986638;LQC-936;benzin;3;jobb;true
+Mercedes-Benz;S-Class;1988;Goldenrod;KNADH4A31A6520083;JEB-578;benzin;5;jobb;true
+Toyota;Camry Hybrid;2011;Mauv;1C4SDHCT7CC332800;HFD-133;benzin;3;jobb;false
+Ford;Windstar;2002;Pink;WBAWL73527P726703;GXX-709;benzin;3;bal;true
+Oldsmobile;Aurora;2002;Turquoise;1FTMF1CW0AK175373;GQE-080;benzin;3;bal;false
+Mercedes-Benz;R-Class;2012;Fuscia;1N6AA0CC3DN813278;LWX-400;benzin;5;jobb;true
+Scion;tC;2007;Mauv;5UXZV4C57DL615008;JBE-076;elektromos;3;bal;false
+Suzuki;Sidekick;1996;Violet;JN8AZ2NC8B9846534;LTL-171;elektromos;5;jobb;false
+Volkswagen;Beetle;1967;Crimson;WAUAF48H19K218208;PTB-078;benzin;5;jobb;true
+GMC;3500 Club Coupe;1992;Purple;WAUVC58E43A170769;RJB-496;dízel;5;bal;true
+Honda;Fit;2010;Orange;5UXWX5C58BL646994;UVV-544;dízel;3;bal;false
+GMC;Vandura G3500;1995;Khaki;JTDKDTB37C1275658;GAO-449;benzin;5;jobb;true
+Jeep;Grand Cherokee;2006;Yellow;5UMDU93518L659664;LJI-788;dízel;3;jobb;true
+Toyota;Corolla;2004;Orange;2D4RN3DG5BR625846;IFE-050;elektromos;3;jobb;false
+Dodge;Dakota;1994;Orange;3GYFNDE34CS382143;NSY-930;elektromos;3;bal;true
+Ford;Edge;2011;Orange;WUADU78E28N039561;KHL-492;benzin;5;bal;false
+Dodge;Intrepid;1996;Turquoise;WAUSH74FX8N088138;ZWK-750;benzin;3;bal;false
+Honda;Civic;2009;Turquoise;5TFAW5F13FX967427;ESA-975;dízel;3;bal;true
+Honda;CR-X;1988;Blue;YV4940BZ5E1079719;ESE-671;elektromos;5;bal;true
+Mercedes-Benz;E-Class;2006;Orange;3D73Y3CL9BG286884;CIG-910;elektromos;3;jobb;false
+Mercedes-Benz;S-Class;1995;Indigo;19UUA8F51DA139474;DDR-081;elektromos;3;jobb;true
+Volvo;C70;2010;Aquamarine;WAUSGAFC8CN609224;HKM-530;dízel;5;bal;false
+Bentley;Continental Flying Spur;2008;Fuscia;JA32U2FU1EU050231;YXN-059;elektromos;3;bal;true
+Scion;iQ;2012;Maroon;1N6AA0EJ7FN258415;YGT-118;benzin;3;bal;false
+Chevrolet;S10 Blazer;1994;Red;SALVP2BG0FH275569;RKC-252;elektromos;5;jobb;true
+Chevrolet;Suburban 1500;2006;Aquamarine;SAJWA4EC6BM647193;WTG-491;elektromos;5;bal;true
+BMW;Z4;2005;Fuscia;3N1BC1CP3CK163093;ZFL-034;benzin;3;jobb;true
+Subaru;Legacy;2007;Puce;4A4JM2AS7AE988721;QNZ-941;benzin;3;jobb;true
+Mercury;Tracer;1995;Violet;2T1BPRHE8EC077804;YUW-605;elektromos;3;jobb;true
+Suzuki;Swift;1993;Orange;4T1BD1EB1EU232728;GZD-339;benzin;3;jobb;true
+GMC;Yukon;2011;Green;WAULC58E95A848135;VRT-119;benzin;5;jobb;false
+Subaru;XT;1986;Aquamarine;2G4WF521331998807;NME-871;elektromos;3;jobb;false
+Chevrolet;Blazer;1992;Violet;1N6AA0ED2FN875828;ZOC-191;benzin;3;bal;true
+Chrysler;Cirrus;1995;Red;JH4NA12694T590860;FEB-561;benzin;3;jobb;false
+Honda;CR-V;1997;Mauv;NM0KS9BN3CT597676;BWV-648;benzin;5;bal;false
+Honda;Prelude;1994;Pink;1C3BCBEB2CN763994;DTH-522;elektromos;5;jobb;false
+GMC;Vandura 1500;1992;Puce;2HNYD2H67DH452261;VVY-352;benzin;5;bal;true
+Infiniti;G;1994;Mauv;WAUKH74F38N377121;NTP-292;dízel;5;bal;true
+GMC;Sonoma;1997;Aquamarine;3C3CFFAR3CT239632;HCV-936;benzin;3;jobb;false
+Subaru;Legacy;2009;Yellow;2C4RDGDG8FR550024;ASK-182;benzin;5;bal;true
+Toyota;Celica;1997;Indigo;1N6AA0CA4EN689618;ZUR-943;elektromos;5;jobb;false
+Jeep;Cherokee;1999;Blue;WAUNG74F09N704415;FDF-320;elektromos;5;bal;false
+Volkswagen;Passat;2004;Crimson;2C3CCAAG1CH746046;EGJ-090;elektromos;3;bal;true
+Land Rover;Defender;1994;Yellow;JH4DC53874S164457;TLJ-442;benzin;5;jobb;true
+Oldsmobile;LSS;1998;Fuscia;2C3CDYAG9DH984797;LGI-473;elektromos;5;jobb;true
+Volkswagen;riolet;1993;Khaki;JN8AE2KP9D9895506;MPL-145;elektromos;3;jobb;true
+Mazda;B-Series Plus;1994;Indigo;1GD22ZCG0DZ336387;PMZ-050;dízel;5;bal;true
+Mitsubishi;Excel;1989;Yellow;WAUPL58E14A749826;ZJF-087;benzin;5;bal;true
+GMC;Safari;1992;Yellow;WBA3A5C53CF477552;LYQ-673;dízel;3;bal;true
+Pontiac;Montana;2004;Indigo;1FADP5CUXEL516158;BKB-684;dízel;3;jobb;true
+Ford;Fairlane;1965;Crimson;1G6AA5RX5D0742305;BYC-103;dízel;3;bal;true
+Mercedes-Benz;E-Class;1989;Teal;KNADM4A31F6722537;QNJ-836;benzin;3;bal;true
+Hummer;H3;2008;Puce;1GYS4CEF9ER842862;YMB-006;dízel;3;bal;true
+Pontiac;Sunfire;1998;Khaki;WA1DGBFE7CD431714;WPL-788;elektromos;3;jobb;true
+Chevrolet;Silverado;2009;Indigo;WBA5A7C56FD803820;NQA-548;benzin;3;bal;false
+Buick;Century;2000;Violet;JH4DC54886S149077;EAM-647;dízel;5;bal;true
+Kia;Rio;2002;Orange;3C6JD7CT9CG666644;ORG-523;dízel;5;bal;true
+GMC;Yukon XL;2006;Yellow;1FTMF1E86AK251838;XER-295;benzin;3;jobb;true
+Buick;Coachbuilder;1994;Goldenrod;3VWML7AJ1DM331226;JQC-483;dízel;5;bal;false
+Audi;A4;2003;Maroon;WAUAF98E26A304597;FMI-237;elektromos;3;jobb;false
+Volvo;240;1993;Yellow;1G4PT5SV9E4913332;FGL-629;benzin;5;jobb;true
+Suzuki;Sidekick;1989;Blue;1GD22XEG8FZ881466;OYE-392;elektromos;3;bal;true
+Mitsubishi;Challenger;2003;Turquoise;1N6AF0LXXEN784335;BDK-139;dízel;5;jobb;false
+Ford;Mustang;2000;Pink;WA1AM94L99D444317;BFF-944;dízel;3;jobb;false
+Mitsubishi;Eclipse;2002;Pink;SAJWA1CBXBL389517;IIN-670;elektromos;5;jobb;true
+Buick;Electra;1989;Khaki;WAUKF98E47A847441;XLU-738;elektromos;5;jobb;true
+Toyota;Venza;2013;Mauv;WUADUAFG9CN543387;CDF-479;benzin;3;jobb;false
+Audi;A3;2011;Indigo;1GYEC63868R339381;SKS-712;dízel;3;jobb;true
+Honda;Odyssey;2002;Blue;WBAAV53491J208761;VZF-693;dízel;5;jobb;true
+Hyundai;Accent;2013;Indigo;4F2CY0C75BK917473;EUK-394;elektromos;5;bal;false
+Mercury;Capri;1992;Orange;5UXFE43567L447255;PHV-896;dízel;3;bal;true
+MINI;Cooper Countryman;2012;Maroon;SCFAD01A77G865499;ZPW-614;benzin;3;jobb;true
+Isuzu;Rodeo;2002;Violet;2C3CCAKG1FH110620;ASW-442;elektromos;3;bal;false
+Mercedes-Benz;SL-Class;1998;Green;3D4PG3FG6BT655546;QKC-513;benzin;5;jobb;false
+Chevrolet;Silverado 2500;2009;Orange;WBAUU3C57BA708075;KAR-905;benzin;5;jobb;false
+Infiniti;FX;2005;Red;JN1BY1PP4FM047532;FKB-599;benzin;3;jobb;true
+Ford;Escape;2013;Indigo;1FMNE1BW6AD483009;SLH-827;benzin;5;jobb;false
+Plymouth;Breeze;2000;Green;JTEBU5JR2F5334982;NWO-134;benzin;3;bal;true
+Bentley;Azure;2008;Maroon;1G6AL5SX9E0637207;XDN-814;elektromos;5;jobb;false
+Aston Martin;DB9;2008;Goldenrod;1FTWF3B5XAE750526;BEH-932;elektromos;3;jobb;false
+Dodge;Ram 2500 Club;1997;Puce;3D73M3CL2BG093830;JQR-693;elektromos;5;bal;false
+Honda;Odyssey;2001;Puce;1FMJU1J56AE602214;JVD-853;dízel;3;bal;true
+Lincoln;Town Car;2006;Mauv;1FTEX1EWXAK577528;DZC-071;dízel;3;bal;true
+Daewoo;Leganza;1999;Orange;1D4RE2GG3BC445893;LWC-515;dízel;3;jobb;true
+BMW;M5;2008;Green;SCBDP3ZA1BC070993;FIL-487;benzin;3;jobb;false
+Dodge;Ram 2500;1997;Teal;1C3BCBFG2CN122094;QCK-430;benzin;5;jobb;true
+Hyundai;Santa Fe;2009;Yellow;WBAAZ334X4K540473;CJR-217;elektromos;3;jobb;false
+Mercury;Sable;1987;Fuscia;SCFEBBBK9DG361915;MNR-178;benzin;3;jobb;true
+Dodge;Viper RT/10;1995;Violet;1G6AH1RX3F0594338;TDY-333;dízel;5;bal;false
+Jaguar;XK Series;1998;Khaki;WBA3V5C5XFP787832;NQP-952;benzin;3;bal;true
+Honda;Insight;2006;Turquoise;JN1AZ4EHXFM206429;KCT-479;elektromos;3;bal;true
+Suzuki;Verona;2005;Red;WBAVB77518N348864;VRV-735;benzin;5;jobb;true
+Audi;A6;2010;Crimson;SCBFT7ZA2DC576069;OHZ-814;dízel;3;jobb;true
+Audi;Quattro;1992;Teal;2HNYB1H62DH480274;AWV-351;dízel;3;bal;false
+Oldsmobile;Cutlass Supreme;1992;Red;2C3CCABG1DH189333;QNH-553;benzin;5;bal;true
+Mazda;RX-8;2008;Mauv;WBA3V9C51FP735514;TWM-280;benzin;3;jobb;true
+Ford;Probe;1989;Goldenrod;1G6AA5RX1D0499074;TDK-270;dízel;3;jobb;false
+Toyota;Solara;1999;Yellow;3TMJU4GNXFM725211;KBK-904;dízel;3;jobb;false
+Chrysler;Sebring;1995;Turquoise;19UUA96259A375838;PFG-254;benzin;3;bal;false
+Lincoln;MKS;2010;Maroon;JN1AJ0HP7BM970431;OOK-371;dízel;5;jobb;false
+Mercedes-Benz;Sprinter 3500;2011;Purple;WBAKG1C54CJ420194;UPE-711;benzin;3;jobb;true
+Infiniti;Q;1993;Crimson;WVGAV3AX8EW100883;FNA-030;dízel;3;bal;false
+Volkswagen;Jetta;2002;Yellow;3C63D3DL9CG210966;OKH-368;elektromos;3;jobb;true
+Infiniti;M;2007;Khaki;SCFEBBAK1BG657977;QHV-561;dízel;5;bal;false
+Volvo;V70;2008;Violet;WBAEN33455E303581;BRE-334;elektromos;5;jobb;true
+Toyota;Camry;2001;Crimson;3C63D3NL8CG411076;XLV-974;elektromos;3;bal;false
+BMW;3 Series;1995;Turquoise;1G6DP1ED6B0574462;QBJ-785;benzin;3;bal;false
+Mazda;Mazda6;2013;Indigo;5TDBW5G16FS546729;VJV-369;benzin;3;bal;false
+Dodge;Ram Wagon B150;1994;Aquamarine;WAUVT54B32N865425;VEP-413;benzin;5;bal;false
+Mercedes-Benz;CLK-Class;2006;Puce;KMHCM3AC1AU210530;UYD-081;elektromos;5;bal;true
+Porsche;911;2002;Yellow;WAUVC68E65A945629;VRZ-496;elektromos;3;jobb;true
+GMC;Sonoma Club Coupe;1993;Maroon;JTHKD5BH4C2150262;JNG-629;benzin;5;jobb;true
+Audi;RS 4;2007;Purple;3FAHP0JA3AR215823;TKX-776;benzin;3;bal;true
+Volkswagen;rio;1996;Crimson;4T3BA3BB3BU453159;LGW-970;dízel;3;jobb;false
+Mercedes-Benz;S-Class;1985;Crimson;3N1CN7AP8EL364960;LZX-540;benzin;5;bal;true
+Honda;Civic;2005;Purple;19UUA9F22AA474749;FIY-505;benzin;3;bal;false
+Lexus;ES;1993;Goldenrod;WA1LFAFP9DA047222;GQM-455;dízel;3;jobb;false
+Mercury;Mountaineer;2002;Crimson;1G6KD57Y99U417258;NRU-048;dízel;3;bal;true
+Nissan;Quest;2012;Pink;JTDKTUD39ED787851;AKQ-077;dízel;3;jobb;true
+Ford;LTD Crown Victoria;1990;Aquamarine;1N6AA0CC7BN533182;TQY-275;elektromos;3;jobb;false
+Audi;200;1990;Indigo;KNDJN2A26E7558581;AIS-002;benzin;5;bal;true
+Aston Martin;DBS;2010;Violet;WAUSG78E76A979027;OEE-119;dízel;3;jobb;true
+Saab;9-3;2003;Goldenrod;WBA3N3C56EF619209;LPL-764;benzin;5;jobb;false
+Mitsubishi;Diamante;1993;Yellow;JHMFB4F27CS265252;AIH-212;elektromos;5;jobb;true
+GMC;Envoy;2007;Fuscia;1GYS3BEF6CR915549;WBJ-408;elektromos;3;jobb;true
+GMC;Suburban 2500;1996;Turquoise;WAUEG98E66A235640;QCZ-085;elektromos;5;jobb;false
+Nissan;Sentra;2004;Violet;WAUEH78E06A988078;WPN-740;elektromos;5;jobb;false
+Chevrolet;Camaro;1996;Aquamarine;1G4PR5SK8E4823223;YON-320;elektromos;5;jobb;true
+Aston Martin;Vantage;2010;Puce;JTDBT4K32B4044222;LXR-350;elektromos;3;bal;false
+Chevrolet;Silverado;2006;Crimson;KMHCT4AE3EU833566;TXH-944;benzin;3;bal;true
+Cadillac;Escalade;2000;Khaki;WBAVS13548F524075;CIY-169;benzin;5;bal;false
+Lexus;SC;1996;Khaki;1GD12ZCG8CF261689;KAZ-359;benzin;5;jobb;false
+Land Rover;Discovery;1994;Yellow;ML32A3HJ2FH553444;ILW-478;dízel;3;jobb;true
+Chevrolet;Equinox;2007;Indigo;5FNYF3H37FB708385;EEH-252;dízel;5;jobb;true
+GMC;Jimmy;1999;Maroon;WAUAF98E46A549126;HBH-511;dízel;5;bal;true
+Chevrolet;Tahoe;2009;Mauv;WAUJC68E75A218109;WTA-667;dízel;5;jobb;false
+Lotus;Esprit;1991;Turquoise;SCFEFBBC2AG726556;MOT-280;benzin;3;bal;true
+Honda;Accord;1991;Maroon;1FADP5AUXDL596420;DJD-363;elektromos;3;jobb;true
+Toyota;Prius;2004;Maroon;SAJWA4GB0FL228921;TPU-863;benzin;3;bal;true
+Ford;Fusion;2011;Red;1FTEW1E87AF781989;ZPA-467;dízel;5;bal;false
+Mercury;Sable;1991;Purple;JN1CV6EL9EM582140;DOD-768;benzin;5;bal;false
+Mazda;Navajo;1993;Puce;WBAEN334X3P966971;ZVR-917;dízel;3;bal;true
+Ford;Crown Victoria;1997;Purple;WP0CA2A8XFS928373;BFZ-641;elektromos;5;jobb;true
+Volvo;C70;2007;Aquamarine;3VW8S7AT6FM834033;BLM-575;benzin;5;bal;false
+Lexus;GX;2009;Crimson;WAU3VAFR6CA677107;OPA-712;dízel;3;jobb;true
+Bentley;Azure;2009;Khaki;1G6YV36A465618426;DTC-229;benzin;3;jobb;true
+Dodge;Grand Caravan;1999;Teal;1GTC5LF94B8512371;UZP-075;dízel;5;bal;true
+Subaru;Impreza;2003;Puce;1GD010CG3BF560497;VLJ-253;dízel;5;bal;true
+Subaru;Tribeca;2011;Crimson;JHMZE2H56ES482617;VIX-416;elektromos;3;bal;true
+Isuzu;Space;1992;Turquoise;1FTEX1CM0BF434535;EAP-985;elektromos;5;bal;true
+BMW;3 Series;2012;Goldenrod;JN8AZ1MU0EW976091;JHQ-118;dízel;3;jobb;true
+Mercedes-Benz;SLK-Class;2000;Yellow;WDDGF5EB8BR457356;AXG-477;benzin;5;bal;false
+Plymouth;Roadrunner;1969;Turquoise;3G5DA03L47S236505;TKW-981;dízel;5;jobb;true
+Hyundai;Azera;2009;Turquoise;4T1BF1FK7EU925070;UPB-891;dízel;5;bal;false
+Ford;E-Series;2012;Puce;1GYS4UKJ3FR749142;FIR-077;benzin;3;bal;true
+Volvo;V70;1999;Violet;WBAKX6C54BC535426;WMN-670;dízel;3;jobb;false
+Chrysler;Imperial;1993;Indigo;1B3CB1HA0AD813120;OBV-286;elektromos;5;bal;false
+Honda;Element;2011;Red;1FTEW1C80AF742874;BMM-937;elektromos;5;jobb;true
+Volvo;850;1997;Indigo;2C3CCADG6EH185650;GEX-374;dízel;5;bal;true
+Audi;A8;2001;Orange;WAUDGAFL8EA051653;FQK-635;elektromos;3;bal;false
+Mitsubishi;Truck;1995;Turquoise;1C3ADEAZ0DV898826;SUF-924;dízel;5;bal;false
+Ford;Explorer;2012;Goldenrod;3GTU2YEJXCG308711;AJS-528;elektromos;3;bal;false
+Mitsubishi;Eclipse;2004;Goldenrod;1GYEE437890394877;YYR-646;elektromos;5;bal;true
+Porsche;911;1996;Puce;JHMZF1C67DS232714;BNQ-667;dízel;5;bal;false
+Audi;A6;2010;Green;1FTSW2A59AE707709;UCM-575;benzin;3;jobb;false
+Subaru;Loyale;1990;Fuscia;1C4RDJAG4FC085350;JFV-732;benzin;5;jobb;false
+Ford;Falcon;1967;Purple;WBAUP9C52DV425735;LGG-108;dízel;3;bal;false
+Honda;S2000;2002;Blue;3VWKP7AJ3CM743027;KTZ-915;benzin;5;jobb;false
+Dodge;Dakota Club;2001;Puce;WAU3FAFR6CA547146;CFI-462;benzin;3;bal;true
+Ford;Explorer Sport Trac;2006;Aquamarine;1GD22XEG9FZ751082;AMC-541;dízel;3;jobb;false
+Mitsubishi;Chariot;1992;Teal;JHMGE8G28AS780596;GPL-124;elektromos;5;bal;false
+Land Rover;LR2;2010;Turquoise;3VW4T7AT2EM754173;ZSJ-977;dízel;5;jobb;false
+Mazda;Familia;1988;Fuscia;KMHHU6KJ9FU569605;RAF-505;benzin;3;bal;false
+Volkswagen;GTI;1996;Turquoise;JN8AS1MU2AM378756;VJO-513;benzin;3;bal;false
+Toyota;Tundra;2010;Blue;1FMJU1F51AE851416;WIP-109;benzin;3;bal;false
+BMW;Z4;2003;Turquoise;1GTN2TEH5FZ233473;XKX-219;dízel;3;jobb;true
+Volkswagen;Corrado;1993;Crimson;WVWBB7AJ7DW267254;VFP-685;benzin;3;jobb;false
+Pontiac;Aztek;2004;Blue;JN8AE2KP7D9484041;UTL-381;elektromos;5;bal;true
+Mitsubishi;Mirage;1995;Violet;2T1KU4EE2CC925432;HXT-356;benzin;3;bal;true
+Volkswagen;Cabriolet;1992;Fuscia;JTHBW1GG1D2195230;BWY-840;dízel;5;jobb;true
+BMW;5 Series;2005;Turquoise;5N1BA0ND2FN166755;AVK-708;elektromos;3;bal;false
+Mercedes-Benz;M-Class;2006;Pink;1C6RD7JT6CS475889;ELM-421;benzin;5;bal;false
+Pontiac;Montana;2003;Indigo;JHMZF1D45CS360137;KZO-782;dízel;3;bal;true
+Kia;Forte;2010;Yellow;SCBDR33W97C273488;IMQ-718;benzin;5;jobb;false
+Mazda;B-Series Plus;2001;Indigo;WBAYE4C57FD902579;CXN-479;elektromos;3;bal;false
+Ford;Econoline E150;1994;Turquoise;KNAGM4AD8D5284883;PYL-208;benzin;3;jobb;false
+Ford;E350;2010;Indigo;WBALZ3C55CD296333;MMZ-180;elektromos;5;jobb;true
+Chevrolet;Suburban 1500;1998;Orange;1G6DJ1ED3B0256123;ZUR-044;elektromos;3;jobb;false
+Chrysler;Sebring;2003;Maroon;WBA3C3G50EN797428;KLC-622;benzin;5;jobb;true
+Jeep;Liberty;2008;Pink;5GADX23L55D390870;YZM-507;benzin;3;jobb;false
+Dodge;Intrepid;1995;Aquamarine;1FMJU1J57AE443610;YCG-328;benzin;3;bal;false
+Jaguar;XF;2010;Yellow;JHMZE2H35CS227226;OSB-820;elektromos;5;bal;false
+Cadillac;Seville;2000;Green;1G6AB5RA4F0571526;PXP-912;benzin;5;bal;true
+Volkswagen;Eurovan;1995;Violet;1N6AA0CJ4DN142329;WRC-966;dízel;5;bal;true
+Dodge;Ram 3500;2001;Red;2G4WC582971687073;ACQ-550;elektromos;3;bal;true
+Lincoln;Continental Mark VII;1989;Yellow;3D4PG4FB9BT491509;MGZ-666;elektromos;5;jobb;false
+Chevrolet;G-Series 3500;1997;Pink;WAUGL78E67A652525;JPB-216;dízel;3;bal;true
+Lincoln;Town Car;2006;Violet;1G4GD5G3XFF178340;FIP-347;elektromos;5;jobb;true
+Ford;Ranger;1990;Fuscia;WBANF33577B704799;MNK-538;dízel;3;jobb;true
+Jaguar;XF;2010;Red;JTHFE2C28D2068950;CAO-310;benzin;3;jobb;false
+Chevrolet;Corvette;1986;Puce;WAUNF98P98A428047;QDA-567;benzin;3;bal;true
+Chevrolet;Malibu;1998;Violet;2T1KE4EE1AC117065;DDO-832;dízel;5;jobb;true
+Acura;MDX;2012;Indigo;1VWAH7A3XDC236199;CQD-136;elektromos;3;jobb;true
+Cadillac;Eldorado;2001;Blue;JM1GJ1T53E1860596;QEU-914;elektromos;3;jobb;false
+Ford;F350;1992;Maroon;1N6AD0CWXEN276430;ETO-363;elektromos;3;jobb;true
+Cadillac;Catera;2001;Puce;1N6BF0KX7FN368928;ICK-535;dízel;3;jobb;true
+Ford;Tempo;1987;Blue;3N1CN7AP1EL300520;QDP-105;benzin;3;bal;true
+Buick;Reatta;1990;Blue;2G4GU5GC0B9949620;QFG-137;dízel;3;jobb;true
+Mazda;RX-7;1995;Goldenrod;WVWAB7AJ3DW910324;TNY-244;benzin;5;jobb;true
+Mazda;Miata MX-5;1999;Fuscia;3G5DA03E12S267558;KHB-122;benzin;3;jobb;false
+Subaru;Impreza;1997;Maroon;2HNYD28428H319802;CWF-134;elektromos;3;bal;true
+Volvo;850;1997;Aquamarine;3GYFNAEY1AS189228;EBW-279;benzin;5;bal;true
+Dodge;Dakota Club;2002;Indigo;YV4902BZ9D1914811;YQW-505;dízel;3;jobb;true
+Cadillac;Sixty Special;1993;Puce;WP1AE2A26CL124015;BCZ-380;elektromos;5;bal;true
+GMC;Sonoma Club Coupe;1997;Blue;1GYFK468X8R280133;IDE-404;benzin;3;jobb;true
+Chevrolet;Impala;1994;Green;1G6DM5EY9B0255513;DMR-459;elektromos;3;jobb;true
+Ford;E350;2007;Fuscia;1G4HJ5EM3AU237838;JLZ-830;benzin;5;bal;true
+Volkswagen;Touareg;2004;Pink;WAU3GAFR6EA634187;LEZ-803;dízel;5;jobb;false
+Chevrolet;2500;1999;Fuscia;1G4GA5EC1AF879918;QVD-259;dízel;3;jobb;true
+Porsche;Cayenne;2008;Yellow;2HNYD18906H341185;SLM-902;elektromos;3;jobb;false
+Mitsubishi;Mirage;1990;Khaki;WAUKFAFL1DA460599;ZIQ-560;benzin;3;bal;false
+Volkswagen;Golf III;1993;Yellow;WAUVF98K89A701579;OVO-374;benzin;3;bal;false
+Mitsubishi;Cordia;1987;Pink;WVGFG9BP0BD869144;ORU-354;dízel;3;bal;false
+Mercedes-Benz;E-Class;2007;Red;WA1WGBFP9EA700570;WSO-251;elektromos;5;bal;false
+GMC;Sierra 1500;2004;Violet;WBAXG5C54CC696666;TPN-875;benzin;5;bal;true
+Dodge;Grand Caravan;2007;Yellow;3N1AB6AP7CL258345;VIK-981;dízel;3;jobb;true
+Lexus;IS-F;2010;Fuscia;1GYUCDEFXAR880399;BOR-855;elektromos;3;bal;false
+Audi;riolet;1996;Blue;1C4AJWAG1FL992978;JAD-173;elektromos;3;jobb;false
+Subaru;Justy;1994;Orange;JH4CU4F48BC121538;NMW-767;benzin;5;jobb;true
+Lotus;Esprit Turbo;1984;Indigo;WAUHFBFLXCN957013;YKS-961;dízel;5;jobb;false
+Ford;Edge;2011;Red;W04G15GV5B1481199;JXZ-610;elektromos;5;bal;false
+Mazda;Miata MX-5;1995;Fuscia;1GYS4SKJ6FR265941;AHQ-634;benzin;3;bal;true
+Toyota;Solara;2002;Orange;WAUUFAFH4AN591552;RSU-178;dízel;3;bal;false
+Chevrolet;Monte Carlo;1973;Maroon;1FAHP3ENXAW551688;QAM-300;dízel;5;jobb;false
+Mazda;MX-5;2009;Violet;WAUPN94E09N351417;PFV-496;elektromos;5;bal;true
+Ford;Fairlane;1967;Violet;1GYS4SKJ5FR630481;ILO-161;benzin;5;bal;true
+Maserati;Quattroporte;1984;Maroon;5UXZV4C50CL145225;NLG-724;dízel;5;jobb;true
+Mercedes-Benz;300SE;1993;Puce;JTDKDTB38E1357434;RPJ-284;elektromos;5;bal;true
+Infiniti;IPL G;2012;Indigo;WBAWB33529P749591;IKN-233;elektromos;5;bal;false
+Chevrolet;Silverado 3500;2005;Indigo;JH4NA21641T976637;DHD-331;benzin;5;jobb;false
+Chevrolet;HHR;2010;Purple;1D7RB1CP5AS246506;CXG-756;dízel;5;jobb;false
+Audi;S8;2001;Crimson;2G4GP5EX3F9526436;JQR-410;benzin;3;jobb;true
+Ford;E-Series;2011;Mauv;2C4RDGCGXFR007615;SIJ-262;dízel;5;jobb;true
+Honda;Element;2004;Goldenrod;3D7JV1EPXBG358664;QFG-369;elektromos;3;jobb;false
+BMW;X6;2008;Indigo;WAUSH78E96A131082;TXJ-281;elektromos;3;bal;true
+Volkswagen;Jetta;1988;Blue;1N6AF0LY7FN933195;KZW-311;benzin;3;bal;false
+Pontiac;Sunbird;1994;Maroon;WAUBH54B61N610111;AIY-451;elektromos;3;jobb;false
+Chevrolet;Express 3500;2001;Aquamarine;1FTSW2B51AE018407;JSK-551;elektromos;5;jobb;false
+Chevrolet;2500;1996;Purple;WBA3B3G56FN592782;QOD-669;elektromos;3;jobb;false
+Buick;Century;2004;Crimson;WAULC58E23A336875;LMP-267;dízel;5;bal;true
+BMW;7 Series;1994;Goldenrod;WAUCFAFR9EA216306;MPO-404;elektromos;3;jobb;true
+Volkswagen;New Beetle;2001;Maroon;WBAFU9C58CC883498;VMG-567;elektromos;3;bal;true
+Volkswagen;Passat;2006;Mauv;1G6AJ1RX9F0003028;MQT-358;elektromos;3;bal;false
+Toyota;Tundra;2005;Pink;WBA3V5C55FP981989;GXW-508;dízel;3;bal;true
+Ford;F250;2007;Violet;3C3CFFCR5FT192315;OID-495;benzin;5;jobb;true
+Lincoln;Town Car;2008;Aquamarine;2D4RN5DG6BR711923;MUZ-646;dízel;5;jobb;false
+Subaru;Tribeca;2012;Crimson;1C6RD6MTXCS490384;SSS-230;elektromos;3;jobb;true
+Toyota;Camry;1995;Red;WUAAU34219N272940;DQV-371;benzin;5;bal;false
+Mercedes-Benz;CLS-Class;2006;Blue;1G6DN57U870998064;ITZ-999;dízel;5;jobb;false
+Pontiac;Firebird Trans Am;1986;Aquamarine;2G4GU5GV0D9900597;QYP-726;benzin;3;bal;true
+Toyota;Sequoia;2011;Mauv;WBAYE0C53DD577953;DGQ-554;dízel;3;bal;true
+Mitsubishi;Lancer;2010;Mauv;WBAWC33587P286009;GRS-453;elektromos;3;jobb;false
+Porsche;Cayman;2012;Red;WVGFG9BP2CD772447;IMC-643;elektromos;5;jobb;true
+Mercedes-Benz;S-Class;2003;Khaki;5UXFH0C59AL524448;BMS-447;benzin;3;jobb;true
+Cadillac;Seville;2001;Goldenrod;WA1CV94L87D026169;RLW-719;elektromos;3;jobb;false
+Chrysler;300;2011;Khaki;WAUNF68P16A989080;FTY-333;benzin;3;bal;true
+Eagle;Summit;1996;Goldenrod;1FTEX1CMXBF284823;KFG-094;benzin;5;bal;true
+Lexus;GS;1995;Fuscia;SAJWA1CB8CL869251;WPA-969;benzin;5;bal;false
+Dodge;Grand Caravan;1994;Maroon;KMHFH4JG9FA815866;YNI-874;dízel;5;jobb;true
+Bentley;Arnage;2006;Aquamarine;WBAPK5C5XBA052999;ZGL-312;elektromos;5;bal;false
+Volvo;S40;2009;Red;1G6YV36A995391884;WIM-357;dízel;5;bal;false
+Land Rover;Defender;1997;Maroon;JN8AE2KP4F9056852;STF-272;elektromos;3;bal;true
+Chrysler;LeBaron;1993;Blue;WBAAN37421N575265;FAA-896;dízel;3;bal;false
+Audi;A4;2006;Teal;WA1WMBFE5AD217853;ZKF-376;benzin;3;bal;true
+Infiniti;FX;2007;Goldenrod;2G4WF551741957934;BBN-520;elektromos;5;jobb;true
+Dodge;Ram Van B350;1994;Khaki;SCBDC47L67C525236;YZK-987;elektromos;3;jobb;true
+Lexus;LX;1999;Goldenrod;WAUVT64B84N554341;ZSH-837;dízel;5;jobb;true
+Buick;Century;2003;Turquoise;2C3CCAKG9EH825143;HGU-335;benzin;3;jobb;false
+Aston Martin;DB9;2007;Fuscia;2FMDK3GC9AB601798;UUG-418;benzin;5;jobb;false
+Chrysler;Town & Country;2007;Maroon;3VWF17AT5FM110814;ZBB-582;elektromos;3;jobb;false
+Toyota;RAV4;1998;Maroon;WBAKF9C55CE408646;YXD-692;dízel;5;jobb;false
+Chevrolet;Silverado 2500;2003;Blue;WA1CGAFEXED877655;DMC-896;dízel;5;jobb;false
+Mercedes-Benz;C-Class;1998;Orange;1GD21ZCG8DZ046000;YVV-534;benzin;3;jobb;true
+Toyota;Matrix;2006;Turquoise;3GYFNFEY7BS729650;SYZ-315;dízel;5;jobb;true
+GMC;Suburban 2500;1998;Indigo;VNKKTUD32FA894069;SXP-157;elektromos;3;jobb;false
+Dodge;Ram 2500;1994;Indigo;1C4RDHDG9DC134382;WKK-948;benzin;5;jobb;false
+Porsche;Cayman;2012;Violet;1GYS4JKJ0FR936630;GNB-627;benzin;3;bal;false
+Honda;Civic Si;2003;Khaki;2GKALMEK1D6151301;HQA-148;benzin;5;bal;true
+Mitsubishi;Galant;1990;Crimson;2V4RW3D16AR468192;VCR-645;elektromos;5;bal;false
+Cadillac;DeVille;2003;Puce;JA4AS2AW9DU123866;SUL-686;elektromos;3;bal;false
+Mercedes-Benz;400E;1992;Mauv;3VW4A7AT7CM822986;NAY-723;elektromos;5;jobb;true
+Mercury;Sable;1995;Fuscia;1G6KS54Y34U099950;EEH-509;benzin;5;bal;false
+Chevrolet;Astro;1993;Mauv;1G6AX5SX1E0299421;KHK-799;dízel;3;bal;true
+Pontiac;Grand Prix Turbo;1990;Pink;1FTSW3B59AE239758;XYF-784;dízel;3;bal;true
+Chevrolet;Cruze;2013;Green;1GTN1UEH2FZ070337;WJU-498;benzin;5;bal;true
+Mercedes-Benz;500SL;1992;Crimson;WBA3B3G5XEN380319;DCP-410;dízel;5;bal;true
+Nissan;GT-R;2011;Blue;4T1BF1FK9FU444674;IWH-899;benzin;3;bal;true
+Chevrolet;Monte Carlo;1996;Mauv;1G6AF5S38D0097125;KOO-752;benzin;5;jobb;false
+Maybach;62;2011;Pink;1C6RD6GP5CS986689;LUG-121;benzin;3;jobb;false
+Toyota;Highlander;2005;Red;19UUA9E59CA663381;QTV-786;elektromos;3;bal;true
+Pontiac;Firebird;1992;Maroon;KNADH4A39A6275078;MFE-612;dízel;3;bal;true
+Nissan;Armada;2012;Fuscia;WBAUT93539A672546;VGG-494;dízel;3;bal;true
+Audi;A6;2004;Violet;1D7RE3BK6AS756548;GYW-844;dízel;3;bal;true
+Mercury;Sable;1996;Purple;WVWAA7AJ9CW657494;FEU-547;dízel;3;bal;true
+Mitsubishi;3000GT;1998;Fuscia;WAUDK78T28A722494;YNT-835;elektromos;5;bal;false
+Jeep;Liberty;2012;Crimson;1FMHK7B8XCG196672;ZGX-820;elektromos;3;jobb;false
+Buick;Roadmaster;1991;Purple;1N6AA0EC6EN594184;KSY-223;dízel;5;bal;true
+Buick;Park Avenue;1997;Teal;3C3CFFHH0DT387235;LMJ-396;benzin;5;bal;true
+Mitsubishi;Eclipse;2011;Goldenrod;JTDBT4K35B1897652;EFG-720;benzin;5;jobb;true
+Chevrolet;Suburban 2500;1996;Khaki;JN1CV6EK7CM198507;OOT-658;elektromos;3;jobb;false
+Porsche;Cayman;2009;Fuscia;4T1BD1EB4FU959492;XUT-788;dízel;3;bal;true
+Porsche;928;1990;Purple;JTHDL5EF3F5520660;IXO-525;dízel;5;bal;true
+Chevrolet;Suburban 2500;1999;Pink;WBA3B9C50FJ305145;TPO-070;benzin;5;jobb;false
+BMW;Z4;2009;Crimson;WAUEFBFL1AN888258;IIE-983;dízel;3;jobb;true
+Mitsubishi;Galant;2008;Khaki;SAJWA0JH3EM698181;UYV-302;dízel;5;bal;true
+Subaru;Alcyone SVX;1994;Maroon;1FTEX1E88AK244147;XXT-010;dízel;3;jobb;true
+Saturn;VUE;2010;Green;3CZRE3H32BG569501;OKX-878;dízel;3;bal;false
+Toyota;Yaris;2008;Indigo;1FTEW1CM5DK152629;RZR-170;elektromos;5;jobb;false
+Jaguar;XJ Series;1998;Maroon;WAUEH98E17A916903;JLJ-424;elektromos;3;jobb;false
+Mitsubishi;3000GT;1996;Yellow;SCBEC9ZA4EC546936;SAP-373;elektromos;3;bal;false
+Mazda;RX-7;1988;Pink;WA19FAFL8DA688529;IDG-810;elektromos;3;bal;false
+Aston Martin;V8 Vantage;2012;Mauv;WBANU53519C846046;ILQ-734;benzin;3;bal;false
+Bentley;Continental Flying Spur;2008;Pink;1VWAS7A39FC973799;JJQ-450;dízel;5;jobb;false
+Ford;Windstar;2000;Purple;JTEBU5JR0B5310223;BCH-880;dízel;3;jobb;true
+Toyota;Camry;1994;Aquamarine;WAUEH98E18A998973;YGF-782;elektromos;5;jobb;true
+Mitsubishi;Outlander Sport;2011;Crimson;1G6DM1E32C0546109;DAH-439;elektromos;3;jobb;false
+Geo;Prizm;1995;Orange;1G6KD54Y52U457010;RFD-771;elektromos;5;bal;true
+Mitsubishi;Pajero;2006;Pink;2T2BK1BA9DC774382;TCO-330;benzin;5;bal;true
+Jaguar;XK Series;2013;Fuscia;1HGCR2E51DA927593;VXJ-022;elektromos;5;jobb;false
+Ford;Club Wagon;1997;Turquoise;1FTNF2B58AE891665;CWX-251;dízel;3;bal;false
+Ford;E-Series;2011;Turquoise;1GD01XEG8FZ641554;TRT-046;elektromos;5;bal;true
+Mazda;Protege;2003;Pink;WAUYGBFC3CN997608;WJC-492;benzin;5;bal;true
+Kia;Amanti;2005;Puce;WP0CB2A89CS117592;KYR-148;elektromos;3;jobb;true
+Mercury;Mystique;1998;Red;5J8TB4H30EL508246;JUV-811;elektromos;5;bal;false
+Ford;Escape;2004;Crimson;1N6AD0CU5DN461921;QLB-340;dízel;5;bal;true
+Mercedes-Benz;E-Class;1986;Blue;1G6YX36D095224494;CQS-303;elektromos;3;jobb;false
+Scion;tC;2008;Crimson;1GYS3JEF6CR099260;JOV-609;dízel;3;jobb;true
+Subaru;Alcyone SVX;1994;Orange;JTJBC1BA1D2865983;UYZ-781;dízel;5;bal;false
+Volkswagen;GTI;2000;Indigo;JN1CV6FE2BM646997;GME-863;benzin;3;bal;true
+Ford;E150;2007;Green;KNADM4A33D6391151;OAJ-398;benzin;3;bal;true
+Lincoln;Navigator;2009;Maroon;NM0KS6BNXAT032840;EPU-356;dízel;3;bal;true
+Toyota;Sienna;2010;Purple;WBANW13589C119442;AQS-008;dízel;5;jobb;false
+Mercury;Montego;2007;Khaki;WBSKG9C52CE604472;XJA-876;dízel;5;jobb;true
+Infiniti;EX;2012;Khaki;WDDGF5EBXAF048453;MUD-280;dízel;5;jobb;true
+GMC;Safari;2004;Purple;KNAFU6A26D5381456;JRT-434;elektromos;5;jobb;false
+Buick;Riviera;1987;Turquoise;1FBNE3BL0ED453665;GTM-608;benzin;3;bal;true
+Chevrolet;TrailBlazer;2007;Indigo;1FMCU0D74AK298155;VXK-348;benzin;3;bal;true
+Volkswagen;Type 2;1990;Blue;1GYFK26299R119824;SVW-398;benzin;3;bal;true
+Oldsmobile;Achieva;1997;Khaki;WA1DGBFE3DD287838;HXK-771;benzin;5;jobb;true
+BMW;X6;2011;Violet;1G6DU6EV8A0339526;FGZ-187;dízel;5;bal;true
+Ford;F-Series;1990;Purple;JN1CV6FE0FM534463;NBN-470;benzin;3;jobb;false
+Mercedes-Benz;500SL;1993;Violet;WBABD334X5J074781;NJP-016;dízel;3;bal;true
+Ford;Escape;2008;Violet;1G6AS5S36F0303511;QNY-541;elektromos;5;bal;true
+Mercury;Tracer;1996;Puce;SAJWA0EX0E8743328;OKO-354;benzin;5;bal;false
+Mercedes-Benz;CLS-Class;2007;Pink;WA1YD64B25N958891;XMI-674;benzin;5;jobb;false
+Dodge;Durango;2009;Turquoise;JN8AE2KP6C9214538;DYZ-350;elektromos;5;bal;true
+Dodge;Dakota;2002;Violet;WAUKFBFL5EA107340;SGC-923;elektromos;3;bal;false
+Jeep;Grand Cherokee;1994;Aquamarine;JHMZE2H37DS613227;UTI-776;elektromos;3;jobb;false
+Volkswagen;GTI;1988;Green;1C3CCBCG6EN476793;ISV-383;elektromos;3;jobb;false
+Volkswagen;Jetta III;1995;Blue;3C6JD6EP6CG923818;WET-607;elektromos;3;jobb;true
+Ford;LTD;1986;Blue;1FM5K7B84EG092877;UVE-453;dízel;3;bal;false
+GMC;Rally Wagon 1500;1992;Green;3GYFK22229G767611;RYV-468;dízel;5;bal;false
+Land Rover;Range Rover Sport;2009;Orange;JN1CV6AP5AM503971;KEU-926;elektromos;5;bal;true
+Kia;Rondo;2010;Yellow;WAURFAFR4EA382128;ZEC-144;dízel;5;jobb;false
+Ford;GT500;2008;Goldenrod;1GYFC16229R502110;NCR-355;dízel;5;jobb;true
+Aston Martin;DBS;2012;Pink;JA32U2FU1DU819759;KPF-622;dízel;5;jobb;true
+Jaguar;X-Type;2004;Yellow;WBAUC73589V655559;LGO-695;elektromos;5;bal;false
+Dodge;Dakota;2002;Purple;WAUFFAFL1BA245349;DYY-407;dízel;3;bal;true
+Ford;Mustang;2006;Purple;WVWAP7AN7DE349524;ZIQ-041;elektromos;5;jobb;false
+MINI;Cooper Clubman;2012;Mauv;1VWAH7A30DC439215;SKT-060;dízel;3;bal;true
+Dodge;Grand Caravan;2011;Goldenrod;JM1CW2BL5F0953200;JAO-008;benzin;5;bal;true
+Plymouth;Grand Voyager;1993;Crimson;WAUKFBFL2CN391726;KNN-542;dízel;3;bal;true
+Cadillac;CTS;2010;Blue;2C3CCAGG8EH899856;IJR-933;benzin;3;bal;true
+Volkswagen;Touareg;2011;Turquoise;KNDJN2A26E7244249;EUV-870;benzin;5;bal;false
+Ford;Econoline E250;1996;Turquoise;WBSDX9C55DJ370703;CDI-355;elektromos;5;jobb;true
+GMC;Sierra;2012;Teal;3D73Y4EL7BG761645;SOY-775;dízel;5;jobb;true
+Saturn;S-Series;2001;Indigo;WBANN73596C972269;CJN-467;elektromos;5;bal;false
+Bentley;Continental GT;2010;Fuscia;WAUFFBFLXBN676223;HVZ-377;benzin;5;jobb;false
+Suzuki;Grand Vitara;2002;Fuscia;1G6DS1E32C0208621;PCV-095;elektromos;3;bal;false
+Dodge;Dakota Club;2004;Goldenrod;WBAYM1C52DD011470;SRI-715;benzin;3;bal;false
+Jeep;Patriot;2008;Mauv;WBANN73576C370907;EIM-612;benzin;3;bal;true
+Mercury;Marquis;1985;Violet;3C3CFFJH4ET887068;ZTO-818;dízel;3;bal;true
+Chevrolet;Malibu;2006;Green;1GD21XEG4FZ174576;JMU-807;dízel;3;jobb;false
+Ford;Mustang;2007;Green;WAUWFBFL2AA358974;OCB-775;elektromos;3;bal;false
+Mercedes-Benz;G-Class;2009;Khaki;2C3CDXDT8DH100819;XCV-346;benzin;3;jobb;true
+Ford;Fusion;2009;Indigo;3VW517AT3EM316627;JRN-544;elektromos;3;jobb;true
+Suzuki;Esteem;2002;Blue;JN1AZ4EH9EM255247;KFD-028;benzin;3;bal;true
+GMC;3500 Club Coupe;1993;Violet;WBAPT73508C855231;RXJ-021;dízel;3;jobb;true
+Porsche;Boxster;2007;Green;JM1DE1KY7E0138475;WJP-997;elektromos;3;jobb;true
+Mercedes-Benz;SL-Class;2005;Turquoise;WA1CFBFP3CA900329;DTA-428;dízel;3;jobb;false
+Hyundai;Sonata;2003;Blue;WBALW3C56DC459619;HOC-302;dízel;3;jobb;false
+Nissan;Maxima;1996;Blue;2LMHJ5AT5CB550643;ZZN-318;elektromos;5;jobb;false
+Jeep;Grand Cherokee;1994;Blue;WBABW33444P712545;LXK-028;elektromos;5;bal;true
+Rolls-Royce;Phantom;2009;Red;1G6DA8EG3A0354828;GIC-213;elektromos;5;jobb;false
+Buick;Riviera;1990;Green;2G4GT5GV6D9297853;JXW-636;elektromos;5;bal;true
+Nissan;240SX;1997;Turquoise;WBAFR1C58BD014671;MRO-788;dízel;3;bal;false
+Audi;90;1993;Orange;WDCYC3HF5CX912696;LLS-208;dízel;5;jobb;true
+GMC;Savana 1500;2007;Pink;3D7TT2CT5BG408892;JZI-400;benzin;5;jobb;true
+Isuzu;Hombre;2000;Turquoise;1GYFK53209R283047;PJU-557;elektromos;3;bal;false
+Chrysler;Crossfire;2008;Turquoise;JM1CW2BL6E0903873;VOT-607;benzin;3;jobb;true
+BMW;545;2005;Indigo;JM1BL1L33C1819756;ZGV-376;dízel;5;jobb;false
+Chevrolet;LUV;1979;Crimson;2HNYD18626H830970;HZN-619;benzin;5;bal;true
+Chevrolet;Colorado;2007;Pink;1C3CCBABXDN290535;KFY-181;elektromos;3;bal;false
+MINI;Cooper;2004;Blue;JTHFN2EYXA9786259;KHX-619;benzin;5;bal;false
+Chevrolet;Suburban 1500;2000;Yellow;5NPEB4ACXCH468308;FYK-995;dízel;3;bal;false
+Infiniti;I;1998;Fuscia;WA1VMBFE2BD107470;UOD-363;benzin;5;bal;false
+Jeep;Wrangler;2001;Indigo;WAUDV74F89N550280;JRO-970;elektromos;3;bal;false
+Ford;E150;2007;Aquamarine;3D73M3HL6BG974572;PLZ-459;benzin;3;bal;true
+Toyota;Tacoma;2011;Violet;3GYEK62N46G689972;OUQ-680;dízel;5;jobb;false
+Ford;Crown Victoria;2001;Puce;3FAHP0GA4AR691313;LIB-134;elektromos;3;jobb;true
+Mercury;Mountaineer;1998;Green;5UXFA53573L145730;IWP-202;dízel;5;bal;true
+Lexus;IS F;2009;Aquamarine;WBAPH5G59AN421478;MOO-339;benzin;5;jobb;false
+Chrysler;Concorde;1994;Mauv;WBSCL93451L609519;XRE-491;dízel;3;bal;true
+Mazda;MPV;2003;Yellow;WVGAK7A95AD778238;SGV-107;dízel;5;jobb;true
+GMC;Savana 2500;2000;Turquoise;1G6AE1RX7F0633196;EAZ-263;dízel;5;jobb;false
+Ford;E-Series;2011;Fuscia;3D73Y3CL5AG363975;RCR-600;elektromos;5;jobb;true
+Kia;Spectra;2003;Mauv;WUADUAFG3F7997143;OUI-424;benzin;3;bal;true
+Porsche;911;2013;Teal;TRURD38J191341236;GFI-008;benzin;3;jobb;true
+Volkswagen;Passat;2001;Puce;WBAYB6C59ED980493;LHT-979;elektromos;3;jobb;true
+Hyundai;Equus;2011;Crimson;1G6DJ8E34C0773058;BDI-605;benzin;5;jobb;true
+Subaru;Brat;1984;Crimson;5J6TF1H3XBL061187;PJL-014;benzin;3;bal;false
+Pontiac;Bonneville;2000;Teal;JN1CV6FEXDM823024;NLS-322;elektromos;3;bal;false
+Honda;Insight;2012;Blue;WAUSF78K19N616762;SDM-554;benzin;5;bal;true
+Volvo;240;1993;Aquamarine;WUADUAFG0AN995371;RAP-596;dízel;5;bal;true
+Chevrolet;Blazer;1999;Turquoise;1G6DM1E35C0462320;IPU-233;elektromos;3;bal;false
+Honda;Civic;2010;Goldenrod;1FTEW1CM2CK310066;RMJ-928;dízel;3;bal;false
+BMW;Z4;2006;Goldenrod;1FTEW1CM7CK368304;ARY-023;dízel;3;jobb;true
+Mitsubishi;Galant;1994;Violet;4T1BF1FK4EU341144;VDP-415;elektromos;5;bal;true
+Toyota;RAV4;2011;Aquamarine;KMHTC6AD6CU710263;ZKK-780;dízel;3;jobb;false
+Ford;Fiesta;2012;Green;WBASP2C55BC350889;UPL-627;benzin;3;bal;false
+Honda;CR-V;2000;Purple;3N1AB6AP0CL114894;CSY-107;dízel;3;jobb;true
+Ford;Mustang;2005;Yellow;1FTWW3B57AE374545;CIQ-082;benzin;3;jobb;true
+GMC;Rally Wagon 1500;1992;Yellow;WA1VMAFP2FA726590;ORK-288;elektromos;3;bal;false
+Nissan;Quest;1999;Pink;WUAPV54B23N391851;UEY-908;benzin;3;jobb;false
+GMC;Sierra 2500;2004;Crimson;2C3CDXCT2FH040413;SQA-995;elektromos;5;bal;true
+Suzuki;XL7;2008;Maroon;WAULC68E03A931150;USQ-938;dízel;3;jobb;false
+Dodge;Nitro;2009;Blue;WBAEV53462K041627;IPL-033;dízel;3;bal;false
+Audi;TT;2002;Maroon;3VW517AT3FM868095;VJL-977;dízel;5;jobb;false
+Ford;Windstar;2003;Orange;JTHBF5C29D5679064;XGG-936;dízel;3;jobb;false
+Lincoln;Town Car;1998;Orange;5UXFG8C57BL251853;LIR-527;elektromos;5;bal;true
+Lotus;Elise;2008;Indigo;WBANE53566B338346;EUN-715;elektromos;3;jobb;false
+Nissan;Pathfinder;1997;Maroon;WBAYF4C57FG583535;EZM-340;elektromos;5;jobb;true
+Honda;Ridgeline;2006;Orange;1FTEX1C8XAK206177;VNS-046;benzin;3;jobb;true
+Chevrolet;Corvette;1966;Blue;2LMHJ5AR3AB509543;LJL-592;dízel;5;bal;true
+Jeep;Wrangler;2000;Turquoise;5FNRL5H20FB918147;HHO-663;elektromos;3;bal;false
+Chevrolet;G-Series 1500;1996;Red;ZHWGU5AU9CL265530;ERM-751;elektromos;5;jobb;false
+Nissan;Frontier;2007;Turquoise;5N1AZ2MG0FN315109;BRH-546;benzin;5;bal;true
+GMC;3500;1997;Khaki;WAUFEAFMXDA670180;SFA-690;benzin;3;jobb;false
+GMC;Vandura 2500;1994;Pink;WBALM5C54BE506410;QQP-810;benzin;5;bal;true
+Chevrolet;Tracker;2003;Indigo;3D7JB1EK8AG261216;ISL-370;benzin;3;jobb;true
+Toyota;Celica;1983;Khaki;WA1LGBFE1ED748385;PLI-270;benzin;3;jobb;true
+Plymouth;Acclaim;1994;Teal;3D7TP2CT6BG086154;EIQ-430;benzin;3;jobb;true
+BMW;5 Series;1992;Crimson;WBA3C1C54FK788552;QEO-204;elektromos;3;jobb;false
+Pontiac;Montana;2003;Red;5TDBKRFH8FS416470;CBR-498;benzin;3;jobb;true
+Ford;E-Series;2010;Puce;5GAKVCKD7DJ315424;YJE-158;dízel;5;bal;false
+Buick;Regal;1991;Turquoise;WAUEH78E18A185637;WAK-853;elektromos;5;jobb;false
+Chevrolet;G-Series 3500;1997;Pink;WAUEH74F37N529670;KCF-792;elektromos;3;jobb;true
+Ford;Courier;1989;Orange;WAULC58EX5A572970;QKE-602;dízel;5;jobb;false
+Ford;Aspire;1996;Blue;2G4GR5ER9D9121156;AZI-321;benzin;3;bal;false
+Ford;E150;2011;Indigo;WAUJC58E53A963156;VNG-422;elektromos;5;jobb;true
+Mercury;Villager;1998;Aquamarine;WUARL48H89K691735;POL-820;elektromos;3;jobb;false
+Pontiac;Grand Am;2001;Maroon;3VW4A7AT7DM976468;GSP-696;elektromos;5;bal;false
+Audi;A8;1998;Fuscia;5UXFB93542L713841;MGV-979;elektromos;5;jobb;true
+Infiniti;G;2007;Blue;TRUUT28N421464867;MQS-695;elektromos;5;jobb;true
+Ford;E-Series;1996;Fuscia;SCFAB22321K700661;CMI-002;dízel;3;bal;false
+Mercury;Capri;1991;Goldenrod;WBA3V7C52F5488651;KAV-988;benzin;5;bal;true
+Volvo;940;1994;Crimson;WAUVT68E14A781852;NLN-822;elektromos;3;bal;true
+Volvo;XC60;2011;Purple;JN8AZ1MU4CW089512;XNL-348;elektromos;3;bal;true
+Ford;Aerostar;1988;Khaki;5LMJJ2H5XCE215379;MTG-715;dízel;3;bal;false
+Volkswagen;GTI;2007;Puce;SCFEBBAC4AG104408;UOY-723;benzin;3;jobb;true
+Pontiac;Sunbird;1992;Yellow;SCBCR73W97C002580;USC-360;elektromos;3;bal;false
+Infiniti;QX;2000;Khaki;3C63D3KL9CG773860;AQG-119;dízel;5;bal;false
+Dodge;D350;1993;Purple;WAUFMAFC5FN586435;XEW-350;dízel;5;jobb;true
+Cadillac;Seville;2004;Mauv;WAUNF68PX6A307801;CIJ-137;benzin;5;jobb;true
+Chrysler;300M;1999;Indigo;W04GS5EC8B1281139;JGO-389;elektromos;5;jobb;true
+GMC;1500 Club Coupe;1993;Blue;1D7RW3BKXBS617442;GLH-852;elektromos;5;jobb;false
+Chevrolet;Corvette;1998;Aquamarine;JTEBU4BF9BK836849;DWU-647;benzin;5;jobb;true
+Lexus;GS;2009;Red;WAUHE78PX9A908474;NLO-587;elektromos;3;bal;true
+Pontiac;Grand Am;1999;Crimson;1G6DK5E34D0189367;JMN-958;benzin;3;bal;true
+Nissan;Sentra;2000;Pink;JA32U2FU4DU809226;SHH-069;benzin;5;bal;false
+Kia;Sorento;2007;Puce;2HNYD18895H184424;TWK-808;elektromos;5;bal;false
+Chevrolet;Impala SS;1995;Goldenrod;1G6DA8E57C0121133;QRP-464;dízel;3;bal;true
+Nissan;240SX;1997;Red;1FTEW1E8XAF574142;OWD-318;benzin;3;bal;false
+Audi;riolet;1996;Yellow;1G4HR54K134154579;CGN-747;elektromos;3;bal;false
+Volvo;XC90;2005;Purple;WAUVT68E15A236736;NAS-733;elektromos;3;jobb;true
+GMC;Yukon XL 1500;2007;Fuscia;WAUGL58E45A013495;TZN-386;dízel;5;jobb;false
+Subaru;Tribeca;2007;Crimson;WBANU5C59AB235482;TGT-648;benzin;5;jobb;true
+Jaguar;XJ;2009;Fuscia;WA1C8BFP9DA327965;OAY-504;elektromos;3;jobb;true
+Nissan;Altima;2006;Khaki;5FRYD3H45GB317542;NME-030;elektromos;5;bal;true
+Mercury;Mountaineer;2010;Mauv;WVWAP7AN4DE192891;HCL-490;elektromos;5;bal;false
+Ford;GT500;2007;Aquamarine;1FBNE3BL8DD481938;NET-974;benzin;3;jobb;false
+Dodge;Sprinter;2008;Puce;1FMJK1HT7FE971973;JXJ-619;elektromos;3;bal;true
+Chevrolet;Classic;2004;Teal;WP0CB2A85FK246028;AMT-768;benzin;3;jobb;true
+Hyundai;Elantra;1999;Maroon;WBA3A5C56EJ043948;SFX-037;elektromos;5;bal;true
+Ford;Thunderbird;1984;Yellow;1G6KF54984U341788;HDC-470;elektromos;5;jobb;true
+Kia;Sedona;2003;Yellow;3GYFNBE30ES242405;CJF-432;dízel;3;jobb;true
+Ford;Bronco;1985;Yellow;WBAXG5C57DD967697;ETG-071;dízel;3;jobb;false
+Dodge;Caravan;1985;Indigo;TRURD38J081035112;BEE-063;elektromos;5;bal;true
+Subaru;Outback;2005;Teal;WAUHF98P48A509003;QKU-829;benzin;3;jobb;false
+Honda;S2000;2004;Blue;5NPEB4AC3EH741768;EHF-252;elektromos;3;bal;true
+Cadillac;Eldorado;1993;Indigo;WP0AA2A98CS171713;EFM-569;benzin;5;jobb;false
+Pontiac;Firebird;2001;Yellow;4T1BD1FK6DU109729;GTX-932;benzin;5;bal;false
+Mitsubishi;Truck;1990;Blue;JTHBE1D21E5386965;PYV-216;benzin;3;jobb;false
+Chrysler;200;2012;Orange;WBAKG7C59BE828619;UTC-227;dízel;5;jobb;true
+Jeep;Cherokee;1999;Pink;1D4PT2GK2AW655724;XZQ-301;dízel;3;jobb;false
+Pontiac;Bonneville;1996;Puce;1N6AA0CC8CN163555;ZAR-748;elektromos;3;bal;true
+Buick;Skyhawk;1987;Crimson;JTHBE1KS7B0917002;JOF-350;dízel;5;bal;false
+Lincoln;Navigator;2009;Orange;1G4HD57277U506659;RFD-612;dízel;3;bal;false
+Lexus;RX;2006;Puce;JTHFE2C23F2120178;IVO-850;elektromos;3;bal;false
+Chevrolet;Monte Carlo;1997;Yellow;WAUWFAFH4AN530047;XNJ-929;elektromos;3;bal;false
+Mercedes-Benz;G-Class;2003;Indigo;JH4CU4F40CC189964;DEJ-360;benzin;5;jobb;true
+Subaru;Forester;2000;Green;1C4AJWAGXFL597505;LEM-205;dízel;3;bal;false
+Lotus;Esprit;1992;Pink;WBA6A0C56DD053442;DRV-669;benzin;5;bal;true
+Dodge;Sprinter;2006;Goldenrod;WBAVM1C50FV020829;TIG-206;benzin;3;bal;true
+Mercedes-Benz;SL-Class;2007;Khaki;WAUDH98E28A641538;GWE-681;dízel;3;bal;true
+BMW;7 Series;1996;Fuscia;2C3CDYAG9CH987729;RXO-053;elektromos;5;jobb;true
+Saab;9000;1996;Maroon;WBALZ5C54CC245259;OTF-648;benzin;5;bal;true
+Pontiac;Daewoo Kalos;2005;Blue;1GYUKHEF6AR378838;LMA-182;benzin;3;bal;true
+Dodge;Dakota;2000;Mauv;WBA3A9C59FK379919;CCX-766;dízel;5;bal;false
+Dodge;Durango;2007;Teal;TRUDD38J191140172;BNJ-176;benzin;3;jobb;true
+Acura;RL;1997;Blue;WVWGU7ANXAE961246;IOJ-119;elektromos;3;jobb;false
+Subaru;Alcyone SVX;1994;Mauv;WVGEF9BP4DD717983;HJH-415;benzin;3;jobb;false
+Chevrolet;Express 1500;2009;Teal;WBAUL7C54DV957410;GZD-227;elektromos;5;bal;true
+Mitsubishi;Galant;1989;Crimson;3D4PH6FV6AT490478;OFE-159;dízel;5;bal;true
+Volkswagen;Jetta;2012;Blue;1B3CB8HB6BD861546;LKW-336;benzin;3;bal;false
+BMW;7 Series;2003;Aquamarine;1G6AT5S34F0989321;EAU-709;benzin;5;jobb;true
+Pontiac;Grand Prix;1990;Turquoise;KNDJN2A2XE7581488;QBQ-554;elektromos;3;jobb;true
+Mercedes-Benz;SL-Class;1984;Pink;JTDKDTB35E1644231;JOD-107;dízel;5;bal;true
+GMC;Sierra 1500;2013;Khaki;JM1NC2LF8C0338470;ASG-891;elektromos;3;bal;true
+Bugatti;Veyron;2009;Turquoise;WBAKB4C5XBC684376;SVB-442;benzin;5;jobb;false
+Nissan;Maxima;2004;Pink;JN1CV6EK4DM599675;MBH-194;elektromos;3;bal;true
+BMW;3 Series;2011;Puce;1FTEW1CM0EK087609;JFZ-277;dízel;3;bal;false
+Volvo;S70;1999;Indigo;WA1MKBFP8AA777978;EFO-654;dízel;3;jobb;true
+Chevrolet;Express 3500;2002;Fuscia;WBA1J7C52EV333079;IGA-135;benzin;5;jobb;false
+Mercedes-Benz;CL-Class;2005;Mauv;JN8AF5MR9BT156102;NTN-163;dízel;5;jobb;true
+Nissan;Quest;2012;Blue;5FPYK1F24EB674535;QOC-549;dízel;3;bal;true
+Honda;CR-V;2004;Mauv;3VWKP7AJ0EM472348;VQC-143;elektromos;3;bal;true
+Oldsmobile;Intrigue;2000;Mauv;WDDHH8JB3FB595312;TUT-657;elektromos;3;jobb;true
+Ford;Econoline E350;1995;Goldenrod;1GYS3KEF4CR871180;CXV-110;elektromos;3;bal;true
+Lexus;LX;2002;Purple;2G4GS5GX5E9641050;BCI-139;elektromos;3;jobb;false
+Toyota;Echo;2004;Yellow;WDDGF4HB0ER169440;IDM-012;benzin;5;jobb;true
+Bentley;Continental Flying Spur;2006;Indigo;WBA6B8C5XFD963173;DPY-942;dízel;5;jobb;true
+Volkswagen;Touareg;2007;Fuscia;19VDE1F51DE081348;UYZ-491;elektromos;5;bal;true
+Lexus;GS;2007;Pink;1G6KD5E68BU384809;AYC-663;elektromos;3;bal;true
+Mazda;CX-9;2009;Crimson;JH4CL96916C438692;IKA-219;benzin;5;jobb;true
+Ford;F-Series;2011;Violet;JTDKN3DU3A0488631;YCN-993;elektromos;3;jobb;false
+GMC;Savana 3500;2004;Pink;WAUFGAFC0FN361332;PXL-869;dízel;3;jobb;false
+Saab;9-3;2006;Turquoise;WBASN2C54DC005393;NUH-116;dízel;5;jobb;false
+Subaru;Impreza;2007;Puce;2G4GV5GV6C9507473;QLR-818;dízel;3;bal;false
+Acura;RSX;2006;Crimson;WA1YD64B53N139273;BJO-168;benzin;3;bal;false
+Plymouth;Grand Voyager;1993;Mauv;1G6DP8E39C0889435;SPN-542;benzin;5;jobb;true
+Audi;A3;2006;Violet;2HNYD18934H853682;XVY-374;benzin;3;jobb;false
+Land Rover;Defender Ice Edition;2010;Mauv;3D7TP2CT0BG900122;RGD-359;dízel;3;bal;false
+Land Rover;Freelander;2009;Goldenrod;JTDKN3DU0F0296669;UCF-765;elektromos;3;jobb;false
+BMW;3 Series;2012;Fuscia;1FMJU1K59AE764465;PPS-368;benzin;3;jobb;true
+Honda;Odyssey;2003;Violet;WAUDF78E38A989827;LSJ-280;dízel;3;jobb;false
+Infiniti;QX;2002;Fuscia;1G6DJ577290384183;PLB-553;dízel;5;jobb;true
+Bentley;Continental GT;2008;Goldenrod;WAUAF78E78A941136;ASV-545;benzin;3;bal;true
+Volkswagen;New Beetle;2004;Khaki;5J8TB4H51DL654283;RHV-085;dízel;5;jobb;true
+Chevrolet;Astro;1996;Crimson;2G61P5S34F9204953;NPP-773;elektromos;5;bal;false
+Hyundai;Tiburon;2009;Blue;TRUWC28NX21458435;SLT-193;benzin;3;jobb;false
+Porsche;944;1987;Red;KMHHT6KD3DU141457;FBB-201;benzin;5;bal;true
+Ford;Crown Victoria;1999;Violet;4T1BK3DB8BU826134;BYF-461;dízel;3;jobb;false
+Pontiac;Grand Am;1990;Mauv;WAUVC58E92A820842;KCY-302;elektromos;5;jobb;true
+Chevrolet;Camaro;1979;Yellow;WBADN63421G187073;FAK-001;dízel;3;jobb;false
+Suzuki;Equator;2012;Khaki;WBA3B5C53FP849743;LKG-141;elektromos;3;jobb;true
+BMW;M6;2010;Orange;1G6YV36A575446456;QQH-877;dízel;3;bal;true
+Subaru;Outback Sport;2002;Orange;WBAKN9C53FD820688;XDP-016;dízel;5;jobb;true
+Isuzu;Rodeo;1995;Teal;5J6TF2H58EL267992;LQT-445;elektromos;3;jobb;false
+Dodge;D150 Club;1992;Puce;SAJWA0HP0EM551328;IQW-261;dízel;3;jobb;true
+Toyota;Avalon;2011;Purple;4JGDA2EBXDA784834;FVV-201;dízel;3;bal;false
+Honda;Accord;2000;Teal;WAUBC48H26K255048;PWW-043;benzin;5;bal;true
+Mazda;626;1984;Mauv;SALSF2D4XDA622145;KPG-188;dízel;5;bal;false
+Oldsmobile;Silhouette;1996;Orange;WAUMF78K19A850366;IOQ-349;benzin;3;jobb;false
+Chevrolet;Bel Air;1967;Mauv;WBAKF9C50DE596526;RMG-109;dízel;5;jobb;false
+Volvo;S80;2005;Orange;WAUKF78E86A535982;NVY-424;benzin;3;bal;true
+Dodge;Grand Caravan;2005;Aquamarine;JM3ER2A52B0206643;MDC-788;benzin;3;jobb;true
+Nissan;Armada;2011;Maroon;1FTNS2EW3AD251255;NCZ-681;elektromos;3;bal;true
+Toyota;Solara;1999;Khaki;5J8TB3H75GL762213;MTK-471;dízel;3;jobb;false
+Mercury;Grand Marquis;1984;Red;WAUEKBFB9AN534670;BHI-442;elektromos;5;jobb;true
+Saab;9-7X;2006;Pink;JN8AE2KP7C9504576;AGB-283;benzin;5;jobb;false
+Ford;Taurus;2005;Pink;WBA3N7C57EK212515;SJF-408;dízel;3;bal;true
+Pontiac;Firebird;1999;Violet;4T3BA3BB0FU078000;FNS-723;dízel;3;bal;false
+Mitsubishi;Diamante;1999;Teal;WA1BY94LX8D895926;ISF-338;benzin;3;jobb;false
+BMW;Z4;2009;Pink;WAU2GBFC6CN908846;CVL-189;elektromos;5;jobb;false
+Ford;Escape;2013;Blue;5FRYD4H48GB497475;OJG-262;elektromos;5;bal;false
+Ford;Laser;1986;Khaki;WBAPH5C59AA748332;LVV-623;elektromos;5;jobb;true
+Honda;Odyssey;2011;Teal;1N4AA5APXEC242252;LQL-359;elektromos;5;bal;false
+Toyota;RAV4;2012;Puce;5N1AZ2MH9FN328675;GFG-255;benzin;3;bal;true
+Honda;Fit;2007;Purple;2HNYD28298H871103;ANM-049;dízel;5;jobb;false
+Mitsubishi;Starion;1984;Goldenrod;WAUHF98P57A250195;AIL-505;elektromos;5;bal;false
+Toyota;Land Cruiser;2010;Violet;4T1BF1FK0DU386600;UFO-391;benzin;3;bal;false
+Buick;LeSabre;1988;Orange;1FTEW1E88AF624200;WMI-350;dízel;5;jobb;false
+Mercury;Tracer;1998;Teal;2G4GV5GVXD9576622;QFM-049;elektromos;3;jobb;true
+Suzuki;Aerio;2002;Crimson;WDDEJ7GB5CA859611;IMX-652;elektromos;5;jobb;true
+Toyota;Paseo;1993;Indigo;WAUMFAFL2CA488726;LHE-046;elektromos;5;jobb;false
+Subaru;SVX;1993;Purple;1GYS4AEF4DR714113;DSI-354;benzin;3;jobb;false
+Pontiac;Grand Prix;1966;Khaki;5TDDK3DCXBS105825;VPQ-258;elektromos;3;jobb;true
+Mitsubishi;Endeavor;2010;Blue;1GYEK63N96R711365;GTL-112;dízel;3;bal;true
+Plymouth;Grand Voyager;1995;Orange;2V4RW3D1XAR043039;HIC-655;dízel;5;jobb;true
+Audi;riolet;1997;Teal;1G6DP5E31D0414393;LQN-261;dízel;5;bal;true
+Chevrolet;Corvette;2012;Blue;WBA3D3C52FK777400;GUY-821;elektromos;5;bal;false
+Volkswagen;GTI;1989;Violet;YV126MEC8F1336090;AMA-476;dízel;3;jobb;true
+Audi;Quattro;1994;Mauv;WBAKG7C54DE555205;VLI-503;dízel;3;bal;false
+Dodge;Ram 3500;2009;Maroon;1G6AZ5SX6F0457053;LOW-245;elektromos;3;bal;true
+Mazda;626;1986;Mauv;1D7RV1CP1BS671732;LSX-146;dízel;5;bal;false
+Lincoln;LS;2002;Crimson;1D4RE3GG9BC944137;BHE-712;elektromos;3;jobb;false
+Honda;Accord;1999;Aquamarine;JHMZF1C42CS947655;INF-703;benzin;3;bal;true
+Mercedes-Benz;C-Class;1994;Pink;1C3BCBGG3CN661077;PHK-722;benzin;3;bal;false
+Ford;Crown Victoria;1992;Goldenrod;1ZVBP8AM5B5148796;MNK-099;elektromos;5;bal;false
+Oldsmobile;Bravada;1994;Red;3N1AB6AP4BL142003;AJE-186;benzin;3;jobb;false
+Mitsubishi;Galant;2001;Crimson;WBA5M4C57FD828456;FOJ-692;elektromos;5;bal;false
+Panoz;Esperante;2008;Blue;1B3CB8HBXAD595950;TOL-458;benzin;3;jobb;false
+Tesla;Roadster;2011;Red;WA1LMBFE7BD639899;CFY-711;elektromos;5;jobb;true
+Scion;xA;2004;Green;1C4AJWAG3FL598589;KJM-937;dízel;3;bal;true
+Chrysler;Concorde;1999;Mauv;3LNDL2L39CR376013;WKX-185;benzin;5;jobb;false
+Saab;9-2X;2006;Puce;1J4PR4GK8AC605879;OHT-182;dízel;3;jobb;false
+BMW;X5;2010;Yellow;1G6DN56S250567099;CKE-396;dízel;5;bal;true
+Fairthorpe;Rockette;1960;Turquoise;3D7TT2CT4BG073074;WQO-800;elektromos;5;bal;true
+Lamborghini;Diablo;2001;Indigo;2FMGK5BC8CB831271;TGH-364;elektromos;3;bal;true
+Buick;Reatta;1988;Yellow;5YMGY0C50DL736091;JRK-082;dízel;3;bal;true
+Ford;Explorer;2003;Green;19UUB2F75FA305509;LIT-948;benzin;5;jobb;true
+BMW;M6;2010;Puce;WAUUL98E07A449984;UDF-594;benzin;5;jobb;false
+Volkswagen;Scirocco;1984;Khaki;1G4CU541044182293;LOJ-797;elektromos;5;jobb;false
+Suzuki;Daewoo Lacetti;2005;Violet;4USFE83517L403635;CKH-246;benzin;5;jobb;true
+Volvo;XC90;2006;Puce;5N1BA0NE2FN649915;NHA-303;elektromos;3;jobb;false
+Mitsubishi;Outlander;2004;Mauv;WBALW7C56CC575540;RGV-257;dízel;5;jobb;true
+Dodge;Viper;2009;Aquamarine;JN1BY0AR4AM798904;FCM-442;dízel;5;bal;false
+GMC;3500;1996;Mauv;YV4902DZ9D2531586;UHD-930;benzin;3;bal;true
+Pontiac;Vibe;2010;Teal;1FTSX2B5XAE101945;QCP-733;elektromos;3;jobb;false
+Dodge;Dakota Club;2006;Maroon;4A4AP3AU2FE360894;HAL-554;elektromos;3;bal;false
+Chevrolet;Caprice;1992;Violet;3D73Y3CL5AG053681;NBV-648;benzin;3;jobb;false
+Mercury;Tracer;1998;Turquoise;WBA3B5C58DF906411;YGI-756;benzin;5;bal;false
+Volvo;V70;2006;Blue;WBABW53456P637501;EWZ-586;elektromos;5;jobb;true
+Toyota;Celica;2002;Red;YV1902AH3C1886637;CVZ-318;dízel;5;bal;true
+Infiniti;G;2002;Khaki;1YVHZ8BH1D5793127;KOZ-567;elektromos;5;bal;false
+Dodge;Viper;2006;Orange;1G4HD57296U616661;MGQ-918;dízel;5;bal;true
+Chevrolet;Express 1500;2007;Khaki;1G6DL5ED6B0634811;JLT-397;benzin;3;jobb;true
+Chrysler;Town & Country;1997;Pink;1G6DH1E31E0019413;HLC-405;elektromos;5;jobb;false
+Toyota;Prius c;2012;Mauv;WAURV78T18A226695;QUG-097;benzin;5;jobb;false
+Mitsubishi;Diamante;1996;Blue;WAUSH78E36A763480;MED-391;benzin;3;bal;false
+Lincoln;MKT;2011;Teal;2C3CCADT1CH778357;KDV-917;elektromos;3;jobb;false
+Ford;Aerostar;1986;Red;5J6TF1H59EL779707;WGT-823;benzin;5;jobb;false
+Chevrolet;Corvette;2004;Crimson;2T1BU4EE6DC270225;FYI-855;benzin;5;bal;false
+Lincoln;Town Car;1995;Maroon;2G61M5S36E9757921;CLP-290;elektromos;3;bal;true
+Mercury;Monterey;2004;Crimson;WVWED7AJ1BW634332;SDV-269;elektromos;5;jobb;true
+Toyota;Sequoia;2011;Maroon;3VW8S7AT3FM597808;UTS-713;benzin;3;jobb;false
+Dodge;Nitro;2011;Blue;WAUDF98E28A103637;GOA-118;benzin;5;bal;false
+Lexus;ES;1998;Mauv;3CZRE3H3XAG267100;MVZ-583;elektromos;3;jobb;true
+Ford;Explorer;1994;Pink;1G6AJ1R38F0607067;YEC-494;dízel;3;bal;false
+Chevrolet;Silverado;2006;Turquoise;WAULT58E65A048036;DSQ-679;dízel;3;bal;true
+Kia;Sedona;2005;Pink;1G4GL5G32DF392125;CWP-382;elektromos;5;jobb;true
+Mitsubishi;Galant;2004;Violet;WBAEU33425P939317;NRV-895;dízel;3;jobb;false
+Lincoln;Continental Mark VII;1990;Aquamarine;JTMHY7AJ8D4933994;NFX-425;dízel;3;jobb;true
+Maybach;62;2007;Aquamarine;1GKS1CKJ1FR345933;HIR-815;elektromos;5;bal;true
+Plymouth;Colt Vista;1993;Purple;5TDBW5G16BS877790;HIF-717;dízel;3;jobb;false
+Lotus;Esprit;1985;Crimson;KNAFU6A28A5076021;TTZ-545;dízel;5;bal;true
+Acura;NSX;1993;Green;5N1AT2ML4EC124138;MZW-264;elektromos;5;jobb;true
+Chevrolet;Suburban 2500;2009;Indigo;WAUWMAFC2EN548983;HYM-522;elektromos;3;bal;false
+GMC;Sierra 2500;2000;Aquamarine;WBSBL934X6P219799;QPX-934;benzin;3;jobb;false
+Chevrolet;Suburban;2009;Aquamarine;1D7RB1GT8BS393153;NSU-721;dízel;3;jobb;false
+GMC;2500;1994;Orange;2HKRM3H31CH484134;MWF-317;elektromos;3;jobb;false
+Kia;Sportage;2009;Pink;WBA3R5C59FF606245;PQN-791;dízel;5;jobb;true
+Infiniti;G;2002;Blue;1N6AA0CA6AN339949;XMO-759;benzin;3;jobb;false
+Alfa Romeo;164;1993;Pink;3N6CM0KN0FK699610;BEQ-121;benzin;3;bal;true
+Ford;F-Series;2001;Red;5N1AA0NE4EN063369;XXY-286;benzin;5;jobb;false
+Hyundai;Accent;2004;Maroon;1G6DK67V790143382;JOD-809;benzin;5;bal;true
+Pontiac;LeMans;1968;Turquoise;WAULT68E75A836491;KVS-561;elektromos;5;bal;true
+BMW;1 Series;2011;Violet;1FTSX2B52AE703495;CRR-184;elektromos;5;bal;true
+Buick;Regal;1991;Orange;JM1NC2EF3A0417037;XTF-632;dízel;3;bal;true
+Kia;Rio;2011;Aquamarine;WA1LFBFP4CA364216;RTI-610;benzin;5;jobb;true
+Toyota;Avalon;2012;Goldenrod;JN1AZ4EH7FM405728;IAU-940;elektromos;3;bal;true
+BMW;600;1958;Fuscia;1G6DG8E51C0725680;LRK-070;elektromos;5;jobb;false
+Lamborghini;Gallardo;2006;Purple;19UUA8F27CA481113;OMN-493;elektromos;5;jobb;false
+GMC;Sierra;2010;Turquoise;WAURFAFR9EA587914;APA-827;dízel;5;bal;true
+Saab;900;1991;Aquamarine;JTHBP5C23A5234019;BZD-605;elektromos;5;bal;false
+Chrysler;Sebring;1995;Maroon;1GYS3BEF4ER646079;IEZ-235;elektromos;3;bal;false
+Lamborghini;Countach;1990;Purple;2G4WB52K011574406;YCI-821;elektromos;5;jobb;true
+Chrysler;300M;2000;Fuscia;YV1612FH6D2216696;XRG-150;benzin;3;jobb;true
+Chevrolet;Sportvan G30;1996;Violet;WAUUL98E56A559198;WXW-785;benzin;5;jobb;true
+Ford;E350;2005;Indigo;5GADV23157D087966;CME-832;dízel;3;jobb;true
+Ferrari;458 Italia;2010;Violet;5UXZV4C51CL830799;YPA-909;elektromos;3;bal;true
+Smart;Fortwo;2011;Pink;JTHFN2EY6A9573017;RSE-598;dízel;5;bal;true
+Mercury;Grand Marquis;1989;Turquoise;WBAEW53454P062164;PUK-436;dízel;5;jobb;false
+Subaru;Legacy;2006;Orange;5N1BA0NE6FN402378;AEW-405;benzin;5;jobb;false
+Mercedes-Benz;E-Class;1987;Goldenrod;KNADH5A3XB6128453;LDF-174;dízel;3;bal;true
+Subaru;BRZ;2013;Pink;2G61P5S39F9309200;KDO-508;dízel;5;bal;false
+Dodge;Caravan;1985;Mauv;WA1VMAFE8BD399703;WYT-814;dízel;3;jobb;true
+Nissan;Quest;1995;Violet;1FTSS3EL7AD805377;JRN-054;elektromos;3;bal;false
+Nissan;280ZX;1979;Purple;WAUDGBFL4AA240705;PDP-149;elektromos;5;bal;false
+GMC;Sierra 3500HD;2006;Yellow;JN1AZ4EH9CM577156;CTB-911;dízel;3;jobb;true
+Mitsubishi;L300;1989;Blue;2HNYD18705H454101;GRF-975;benzin;3;jobb;false
+Mitsubishi;Mighty Max;1994;Blue;5UXFG8C52CL147157;FJH-148;elektromos;5;bal;true
+Dodge;Grand Caravan;2012;Violet;5UXFB53536L754637;OAJ-042;benzin;5;bal;true
+Ford;Explorer;2004;Khaki;1GYS3BEFXER885734;HZH-128;benzin;3;bal;true
+Volkswagen;Jetta;1992;Violet;SCBEC9ZA8EC246199;XXV-113;elektromos;3;jobb;true
+Mercedes-Benz;500E;1993;Blue;W04G05GV8B1964222;QOR-767;elektromos;3;bal;true
+Mercedes-Benz;S-Class;1988;Yellow;WAU3GBFC6DN039929;GRR-736;elektromos;5;bal;false
+Mercedes-Benz;CL-Class;2009;Green;KMHHU6KJ3FU004816;ZFQ-244;benzin;5;bal;false
+Dodge;Shadow;1993;Indigo;3C4PDCBB1DT512409;FUO-704;elektromos;5;bal;true
+Hyundai;Scoupe;1993;Goldenrod;NM0GE9F77F1460880;XQL-742;elektromos;3;jobb;false
+Mercedes-Benz;E-Class;1985;Green;SAJWA6BU7F8708557;ZOH-460;benzin;3;bal;true
+Chevrolet;Astro;1999;Pink;KMHD35LH2FU135307;ZVM-523;benzin;3;jobb;false
+Geo;Metro;1993;Mauv;2HNYD18863H490834;GKD-224;elektromos;3;bal;false
+Volkswagen;GTI;2005;Maroon;WAUDH48H59K787280;XVU-290;elektromos;5;bal;true
+Mercury;Grand Marquis;1992;Red;WAUSF78E06A904933;DKW-541;elektromos;3;bal;true
+Ford;Mustang;1983;Maroon;19UUA755X7A821947;BXK-765;dízel;3;jobb;false
+Chrysler;Sebring;2007;Teal;3VWKX7AJ2BM036578;JOW-987;benzin;5;bal;true
+Dodge;Durango;2012;Teal;1FTEW1CM3DK285759;BOL-014;benzin;5;jobb;false
+Dodge;Intrepid;1996;Turquoise;1GYFC53249R036403;QTS-900;dízel;5;bal;true
+Oldsmobile;88;1992;Pink;SCFEBBBK1DG174751;CLY-428;benzin;5;jobb;false
+Mitsubishi;Mirage;1993;Goldenrod;WBANW5C5XAC738586;KKB-466;benzin;3;jobb;true
+BMW;7 Series;1992;Pink;WAUUL78E17A796258;TPI-245;dízel;3;bal;false
+Dodge;Journey;2011;Violet;1C3CDZBG1CN019667;WHL-211;elektromos;3;jobb;false
+Kia;Optima;2010;Green;WBA3N5C56FK119507;VSH-069;dízel;5;jobb;true
+Toyota;4Runner;2012;Maroon;KMHCT4AE6FU244920;XWA-594;dízel;5;jobb;true
+Nissan;Altima;1999;Yellow;5TFAW5F19FX823817;USM-861;benzin;5;jobb;false
+Acura;MDX;2006;Fuscia;19VDE1F50FE679076;OHX-857;dízel;5;bal;true
+Mercedes-Benz;S-Class;2011;Orange;2B3CJ5DT9BH469776;IWZ-753;benzin;5;bal;false
+Porsche;911;2006;Blue;1N6AF0LY1FN509690;OKY-865;dízel;3;jobb;false
+Chevrolet;Equinox;2007;Indigo;JTDKN3DP7F3730823;PEG-454;elektromos;5;bal;true
+Ford;Econoline E250;1999;Aquamarine;WVGAV3AX5DW866519;JWD-695;elektromos;5;bal;true
+Chrysler;PT Cruiser;2009;Orange;3GTXCYEJ1AG199904;IGA-532;elektromos;5;bal;false
+Mazda;B2000;1985;Fuscia;JM1NC2LF4F0762538;AJQ-475;benzin;3;bal;false
+Volkswagen;Golf;1999;Blue;4USBT33504L756659;NTK-096;dízel;5;jobb;false
+Ford;E350;2010;Mauv;4T1BD1EB5EU722671;FCB-451;elektromos;5;jobb;false
+Chevrolet;Express 2500;2003;Green;JTDBT4K30B4297040;SJS-242;benzin;5;jobb;false
+Hyundai;Tiburon;2006;Puce;2C3CCAKG0EH559415;HXB-811;dízel;5;jobb;true
+Nissan;Murano;2007;Maroon;WDDHF0EB5EA043302;DSH-349;elektromos;3;bal;false
+Toyota;Tacoma Xtra;1997;Red;WAUWFBFL2CA156994;LDH-798;dízel;3;bal;false
+Chevrolet;Caprice Classic;1993;Yellow;1FT7W2A66EE080715;KKL-816;elektromos;5;jobb;true
+Toyota;FJ Cruiser;2007;Yellow;WBAVC53577A632710;KOW-581;elektromos;3;jobb;false
+Ford;Ranger;2000;Goldenrod;WAUEKBFB9AN374516;CCO-603;benzin;3;jobb;false
+Dodge;Caravan;1992;Orange;SALFR2BN1BH255337;OLA-664;benzin;3;jobb;false
+Pontiac;Grand Prix;1990;Violet;WBAKF9C56DE407166;LAB-521;elektromos;5;jobb;true
+Nissan;Xterra;2003;Puce;WAUAF98EX7A595576;EOV-569;benzin;3;bal;false
+Mitsubishi;Lancer;2005;Purple;WBA6A0C58ED862278;QVP-988;dízel;3;bal;false
+Mercury;Villager;2001;Khaki;1HGCP2F32BA907045;CFP-610;dízel;3;bal;true
+Chevrolet;SSR;2003;Fuscia;WAUHGAFCXCN593599;FAQ-011;benzin;5;bal;true
+Porsche;911;1990;Indigo;SCFFDAAM3DG124509;MEO-097;dízel;3;jobb;false
+GMC;Suburban 1500;1999;Goldenrod;WAUKF68E25A990710;IHI-099;benzin;3;bal;true
+Dodge;Stratus;2005;Red;2T1BU4EE3DC849463;UOE-424;dízel;3;jobb;true
+Volkswagen;Golf;1990;Red;5GAEV13738J799799;VFP-878;elektromos;3;jobb;true
+GMC;Suburban 2500;1997;Fuscia;3GYFNCE34FS616859;ADI-575;elektromos;5;jobb;false
+Honda;Odyssey;2000;Goldenrod;1N4AA5AP0CC069192;YDA-331;dízel;5;bal;true
+Audi;A6;2000;Aquamarine;WAUGF98K29A136626;PDL-390;benzin;3;bal;true
+Ford;E250;2007;Yellow;WA1KK98R69A545146;GPN-843;dízel;5;jobb;false
+Lotus;Elan;1993;Mauv;JM1NC2EF6A0814760;PLK-380;benzin;5;jobb;false
+Toyota;Solara;2004;Crimson;5TDDCRFH5FS608189;QPU-809;benzin;5;bal;true
+Chrysler;Pacifica;2004;Pink;JM1CW2BL4C0577309;BVJ-267;benzin;3;bal;false
+Mitsubishi;L300;1990;Khaki;WBAVA375X7N205731;RDH-035;benzin;3;bal;true
+Land Rover;Freelander;2002;Orange;1N6AD0CU4FN670473;JRN-800;benzin;5;bal;false
+Buick;LeSabre;1986;Teal;3C4PDCAB9CT597208;TVE-619;benzin;3;bal;false
+Chrysler;Voyager;2001;Fuscia;1D7CW3BK4AS276382;HVM-028;dízel;3;bal;true
+Subaru;Forester;2010;Red;WAUGFAFC8EN811928;VGB-607;benzin;3;jobb;false
+Aston Martin;V12 Vantage;2011;Mauv;2C3CDZAG7FH316733;XKD-813;elektromos;3;jobb;false
+Volvo;S40;2008;Turquoise;1G4CU541524382633;BIF-002;dízel;3;jobb;false
+Land Rover;Defender;1994;Crimson;WA1EV74L07D341478;FTF-007;elektromos;5;jobb;true
+Chevrolet;Corsica;1993;Teal;1GD02XEGXFZ389139;DVG-488;elektromos;5;jobb;false
+Mitsubishi;Galant;2006;Khaki;KNAFK4A63F5424473;GHK-952;elektromos;5;jobb;true
+Suzuki;XL-7;2007;Fuscia;1FT7W2A61EE754088;NOL-688;elektromos;3;bal;true
+Volvo;S80;2007;Mauv;SCFBB03B07G771559;QZB-111;dízel;5;jobb;false
+Ford;Econoline E250;1998;Khaki;3C63DRNL6CG787357;GZG-192;dízel;5;bal;false
+Suzuki;Kizashi;2011;Indigo;WAUMGAFL1DA889859;IFK-185;benzin;3;bal;false
+Mercedes-Benz;W201;1993;Yellow;5TDDK3DC2DS796786;AVS-538;dízel;5;bal;false
+Ford;E150;2007;Crimson;1GYS4GEF5BR026895;UCS-097;elektromos;5;bal;true
+Nissan;370Z;2009;Aquamarine;1C6RD7PT9CS978453;GLE-866;benzin;5;jobb;true
+Dodge;Durango;2001;Turquoise;WBAKP9C51FD579739;TEI-934;dízel;3;jobb;false
+Suzuki;Swift;1990;Fuscia;JA4AS2AW4CU652446;YGA-440;benzin;5;bal;false
+Lexus;LX;2001;Orange;WAUXD68D62A172864;XQB-039;dízel;3;bal;false
+Suzuki;Verona;2005;Pink;WAULD64B53N215782;SMO-406;benzin;3;bal;true
+Pontiac;Firebird;1967;Aquamarine;1N6AA0CC5BN643096;UVI-221;dízel;3;bal;true
+Acura;CL;2003;Turquoise;WAUYGAFC6DN389271;TKC-392;dízel;5;jobb;true
+Pontiac;Grand Prix;1992;Purple;WAUTFAFH3AN003281;ABN-415;dízel;5;bal;false
+BMW;7 Series;1999;Puce;1G4HR57Y07U970544;NNN-285;dízel;3;jobb;false
+Mercedes-Benz;M-Class;1999;Purple;JN8BS1MW2EM237178;IQS-046;dízel;3;jobb;false
+Audi;A8;2007;Maroon;TRUVD38J291692400;HPW-107;elektromos;5;bal;true
+Nissan;Quest;2007;Purple;WBA4A5C59FG124414;DUW-217;elektromos;5;jobb;false
+Mitsubishi;Diamante;1994;Crimson;2T1BPRHE2FC241503;SHL-021;dízel;5;jobb;true
+Chevrolet;Express 3500;2010;Maroon;SCFEBBCF6BG917953;QKO-861;elektromos;3;bal;true
+GMC;Sierra 1500;2001;Goldenrod;3FAHP0HA8AR921529;AJV-579;benzin;5;bal;true
+Audi;Allroad;2001;Goldenrod;WVGEF9BP7DD955858;HZU-147;dízel;3;jobb;false
+Toyota;Echo;2005;Maroon;5TDDK3DC6FS626627;BML-574;benzin;5;bal;false
+Dodge;Dakota Club;1994;Fuscia;2G4WC562651485937;SNJ-410;dízel;3;bal;true
+GMC;Savana 3500;2004;Fuscia;WAUKF68EX5A714601;GHG-954;elektromos;3;bal;false
+Volvo;960;1997;Violet;1GYFK46838R312064;MRV-917;benzin;5;jobb;true
+Audi;S4;2005;Blue;WAUVT64B23N988737;MBL-528;dízel;3;jobb;false
+Mazda;CX-7;2008;Goldenrod;JTHKD5BH3B2053049;SEW-489;dízel;5;jobb;true
+Pontiac;LeMans;1992;Red;1D4PU5GK2AW577783;MZP-434;benzin;3;bal;true
+MINI;Cooper;2006;Teal;1FTNS2EWXAD377189;HDN-098;elektromos;3;bal;true
+Ford;F-Series;1996;Red;JN1AZ4EH9CM690685;PRS-477;dízel;5;jobb;false
+Mercedes-Benz;CLK-Class;2003;Purple;WVGEF9BP4FD336461;DQH-768;elektromos;5;bal;true
+Dodge;D250;1993;Goldenrod;WBA3B5C58DP417341;IKN-645;dízel;3;jobb;true
+Mercury;Sable;1987;Yellow;2T1KE4EE2CC888668;CNK-494;elektromos;5;bal;true
+Volkswagen;Golf;2006;Maroon;WBAYE8C59FD960846;VTN-047;elektromos;3;bal;false
+Mercedes-Benz;S-Class;2007;Purple;3N1AB6APXBL734926;KSY-500;elektromos;3;jobb;false
+Hyundai;Tiburon;2004;Mauv;JTHKD5BH9F2287864;ZKN-783;benzin;3;bal;true
+Volvo;XC70;2007;Violet;JHMZF1C67DS611776;ZDE-128;elektromos;5;bal;true
+Oldsmobile;Ciera;1994;Teal;3VW4T7AT3EM480188;FGJ-645;benzin;3;jobb;false
+Hyundai;Accent;1997;Khaki;5N1AT2MK8FC921453;YRW-378;benzin;5;jobb;true
+Ford;Excursion;2005;Purple;1N6AA0CA9FN902998;SLX-528;elektromos;5;bal;true
+Mercedes-Benz;G-Class;2011;Maroon;WBADT53493C935215;DCB-445;dízel;3;bal;false
+Oldsmobile;98;1995;Puce;WBAPH7C58BE949578;LOW-856;elektromos;3;jobb;true
+Audi;4000CS Quattro;1987;Crimson;TRUSC28N411079511;EEP-579;dízel;5;jobb;true
+Mitsubishi;Expo;1994;Violet;1GYS4JEFXER925530;PMV-537;dízel;3;jobb;false
+Buick;Rendezvous;2003;Goldenrod;3C63DPKL0CG855693;VJD-776;dízel;5;bal;true
+Dodge;Nitro;2009;Yellow;JM1NC2LF7F0379516;JGO-034;benzin;5;bal;false
+Hyundai;Azera;2011;Crimson;WAUAVAFA4AN556115;DWV-502;dízel;3;bal;true
+Suzuki;SJ;1995;Green;5J8TB3H31DL890019;ODA-428;benzin;3;jobb;false
+Volvo;S40;2008;Teal;19UUA76647A026318;XLQ-917;elektromos;5;bal;false
+Dodge;Ram Van 1500;2000;Goldenrod;WBABD334X5J279565;GTS-891;benzin;5;bal;false
+Mitsubishi;Galant;1993;Maroon;2HNYD2H80CH077541;PLC-383;benzin;5;bal;true
+Audi;4000;1987;Mauv;1GYS4BEF0CR123992;MFM-793;dízel;3;bal;true
+Volkswagen;GTI;1996;Orange;1G4HP54K21U466199;AIF-947;benzin;3;jobb;false
+GMC;Sonoma Club Coupe;1993;Indigo;1G6DV1EP1D0534079;EJV-789;dízel;5;bal;false
+Honda;Element;2004;Maroon;3FADP4AJ0EM994770;ZUZ-392;dízel;3;jobb;true
+Lincoln;Mark VII;1984;Crimson;3GYFK62858G321978;PVP-246;benzin;3;bal;true
+Chevrolet;Tracker;1998;Mauv;JN8AF5MR6ET711544;USJ-204;elektromos;3;bal;true
+Aston Martin;DB9;2005;Maroon;19UUA65645A573954;EHW-196;benzin;5;jobb;true
+Maybach;57;2010;Maroon;WAUDK78TX8A975160;OYN-937;elektromos;3;jobb;true
+Ford;Taurus;2006;Yellow;JH4NA21654S467294;DRO-483;dízel;5;jobb;true
+Saturn;S-Series;2000;Goldenrod;WBAUN9C58AV045204;PBF-886;benzin;3;bal;true
+Acura;RL;1997;Blue;1FTSW3B50AE822994;TTY-565;dízel;3;bal;true
+Toyota;Tacoma;2002;Pink;KNADH4A38A6313965;QMN-901;elektromos;5;bal;false
+Pontiac;Firebird;1987;Fuscia;WBAEW534X3P811801;WQM-000;benzin;3;jobb;true
+Mitsubishi;Diamante;1998;Indigo;SCFEDCAD8CG671376;FWB-497;benzin;5;jobb;false
+Chevrolet;Sportvan G30;1993;Blue;WBAVC53577A103595;NBW-153;elektromos;3;bal;false
+Chrysler;300M;2002;Teal;3VW507AT3EM474193;VUN-185;dízel;5;bal;false
+Cadillac;Escalade ESV;2011;Pink;JN1BV7AP9FM711134;AKL-235;dízel;3;jobb;true
+Mercury;Sable;2001;Red;WUAAU34248N763260;LMR-086;benzin;3;bal;false
+Porsche;944;1983;Puce;WVGDP9BP5ED295846;HUG-153;elektromos;3;bal;false
+Kia;Sportage;2006;Mauv;1GYS4LKJ3FR705085;WRB-455;benzin;5;jobb;false
+Pontiac;Sunfire;2002;Crimson;1G6AE5SX1F0628626;KJK-069;elektromos;3;bal;true
+Acura;RSX;2005;Indigo;5YMGZ0C51D0598379;KKY-515;dízel;5;jobb;false
+Mazda;RX-8;2011;Green;1FTWX3B53AE952752;SGL-168;benzin;5;jobb;true
+Jeep;Grand Cherokee;2001;Turquoise;JN1AZ4FH0FM257114;FPZ-377;benzin;5;jobb;true
+Subaru;XT;1989;Yellow;KMHTC6AD3EU550278;SRQ-231;dízel;5;jobb;true
+Mitsubishi;Galant;1998;Blue;4F2CY0C7XAK723097;WAK-532;elektromos;5;jobb;true
+Chevrolet;Suburban 2500;1997;Blue;WP1AE2A28EL870565;EWP-436;elektromos;3;jobb;true
+Nissan;Sentra;2006;Crimson;5N1AN0NU5EN722622;NNJ-712;elektromos;5;bal;false
+Mercury;Cougar;1995;Khaki;WAU2GBFC6CN392441;EPH-180;dízel;5;jobb;false
+Ford;Mustang;1979;Pink;1FBAX2CM0FK367781;JLS-679;elektromos;5;bal;true
+Lincoln;Continental;1991;Red;WVGAV7AXXAW288940;XJQ-880;elektromos;3;bal;true
+Dodge;Ram Van 1500;2001;Teal;3GTU1YEJ7DG198446;LGJ-899;benzin;3;bal;false
+Ferrari;F430;2006;Aquamarine;JTDKDTB32D1915194;OKM-513;dízel;3;bal;true
+Toyota;Venza;2011;Teal;1G6DK8EY5B0068423;GJB-780;elektromos;5;bal;true
+Mazda;MPV;1996;Puce;1N4AL2AP5CC471279;HAE-221;benzin;5;bal;true
+Mazda;Familia;1985;Blue;KMHFC4DD6BA540371;MDF-779;elektromos;3;jobb;true
+Pontiac;GTO;1968;Yellow;1FTWW3B58AE654975;OEO-677;dízel;3;bal;true
+Nissan;Quest;2009;Indigo;JTDKTUD34ED944380;VRM-722;dízel;3;jobb;false
+Chevrolet;Express 3500;1998;Goldenrod;WAULC68E14A245622;NMW-607;dízel;3;bal;false
+Nissan;280ZX;1979;Crimson;WAUWFAFH0AN494373;QAQ-886;dízel;5;bal;true
+Nissan;Sentra;1993;Khaki;1G4GE5E31CF731615;ODS-374;benzin;3;jobb;true
+Jeep;Wrangler;2008;Teal;WAUKH74F06N092793;SVB-160;elektromos;5;jobb;false
+Saab;9-3;2008;Indigo;1GYS3CEF4DR813335;HCG-738;dízel;5;bal;false
+Jeep;Liberty;2012;Fuscia;WAUKH78EX8A534930;OLX-130;elektromos;3;bal;true
+Mitsubishi;Eclipse;1996;Orange;1HGCR2F36FA049630;HXQ-607;benzin;5;jobb;false
+Mitsubishi;Pajero;2001;Green;1G6DM1E34C0065827;AML-175;elektromos;5;jobb;true
+Porsche;Boxster;2011;Turquoise;SCFAD02A66G465981;EWG-353;benzin;5;jobb;false
+Chrysler;PT Cruiser;2008;Mauv;2T1BURHE5FC672877;EAA-905;elektromos;5;jobb;false
+Porsche;924 S;1987;Indigo;3D73M3CL9BG787799;ERF-192;benzin;5;jobb;false
+Ford;ZX2;2002;Green;WAURV78T18A145938;UGU-833;elektromos;5;jobb;false
+Cadillac;CTS;2005;Turquoise;WAUKH98E87A177578;YOS-243;elektromos;5;jobb;true
+Audi;100;1991;Turquoise;1G6AM5SX7D0034834;KVP-713;benzin;3;bal;false
+GMC;Yukon;2004;Orange;WBAGN63422D938432;HIY-732;dízel;5;jobb;true
+Ford;Explorer;2011;Indigo;1FTWW3B56AE514567;DHB-974;benzin;3;jobb;true
+Infiniti;J;1994;Maroon;2C3CDYCJ3EH967259;NZL-344;elektromos;3;bal;true
+Mitsubishi;Lancer;2012;Turquoise;5N1AT2MK6FC841102;ABE-435;elektromos;3;jobb;false
+Oldsmobile;Bravada;2003;Khaki;5UXFE83549L257027;QFM-053;benzin;3;bal;true
+Pontiac;Vibe;2006;Puce;JN8AZ1MU7CW143384;MZI-912;benzin;5;jobb;false
+BMW;M3;2008;Puce;1G6DL5E35C0249300;ZHR-803;dízel;5;bal;true
+Mercury;Mariner;2008;Maroon;2C4RDGEG8ER125593;WSB-695;benzin;5;jobb;true
+Dodge;Dakota Club;2001;Turquoise;YV4952BZ8E1499788;NJX-539;dízel;3;bal;false
+Audi;R8;2011;Red;3N1CN7AP4DL690236;TLE-432;benzin;3;jobb;true
+Lincoln;Continental;1993;Green;WAULC68E55A975485;AAD-615;elektromos;3;jobb;false
+Lotus;Esprit;1998;Crimson;JM1NC2JF7B0994323;MQD-740;elektromos;3;bal;false
+Buick;Regal;1992;Purple;TRUTC28N911344010;DTF-001;benzin;3;jobb;false
+GMC;Sierra 3500;2011;Turquoise;JH4DC54812C299679;JFR-785;benzin;5;bal;true
+Honda;CR-V;2009;Fuscia;WAUAH74F48N180082;ZUF-682;dízel;5;bal;true
+Ford;Focus;2007;Green;19UUA96279A009900;ULN-888;dízel;3;bal;true
+Scion;tC;2013;Blue;WAUVKAFR7AA066095;EEZ-695;elektromos;3;jobb;true
+Saturn;S-Series;1992;Blue;WBADT43402G632390;ESA-371;dízel;5;jobb;false
+Lexus;LS;2012;Orange;1GYS3AEF7DR014380;CCT-530;dízel;3;jobb;true
+Chevrolet;Astro;1999;Turquoise;1C6RD7MTXCS144244;MNB-320;benzin;5;jobb;false
+Buick;LeSabre;1987;Aquamarine;1G6KD54Y41U922147;YTR-941;elektromos;3;bal;false
+Chevrolet;Suburban 2500;2007;Mauv;5YMGZ0C56D0000707;FKL-222;benzin;5;bal;true
+Hummer;H3T;2010;Maroon;2C3CDXGJ9DH319461;EDG-269;elektromos;3;bal;true
+Chevrolet;Caprice;1992;Blue;1C4RDHEG2CC136262;ANR-811;elektromos;5;bal;true
+Lexus;LS;1999;Purple;3D7LT2ET3AG899684;JDL-172;benzin;3;jobb;true
+Geo;Prizm;1996;Blue;JN1AZ4EH0EM761582;IYB-760;elektromos;3;bal;true
+Saturn;S-Series;1999;Turquoise;4USBT53535L213559;IWP-362;dízel;3;bal;false
+Honda;Accord;2005;Goldenrod;2T2BK1BA3FC530441;IUU-621;elektromos;5;jobb;false
+Chevrolet;Venture;2004;Turquoise;2T1KU4EE5DC320998;QCX-141;benzin;5;bal;true
+Volkswagen;Type 2;1987;Khaki;WAUFL44D22N608403;CBH-710;benzin;3;bal;true
+Cadillac;Escalade;2005;Indigo;WAUDGBFLXCA147139;GKL-681;benzin;3;bal;false
+BMW;7 Series;1992;Fuscia;19UYA42503A294662;IKN-741;benzin;3;bal;false
+GMC;Sonoma;1995;Puce;3C4PDCBBXFT721215;WDS-778;elektromos;3;bal;true
+Toyota;Tacoma Xtra;1998;Maroon;1G6AC1R31F0912906;SXB-241;dízel;3;jobb;true
+Ford;Explorer Sport Trac;2010;Teal;WBA5A5C50FD670444;INL-407;elektromos;3;jobb;false
+Kia;Sedona;2002;Yellow;3FADP0L32AR659675;IMW-510;elektromos;3;jobb;true
+Toyota;Avalon;1998;Purple;JN8AF5MR4BT739757;WFM-376;elektromos;3;bal;true
+Ford;Explorer;1997;Blue;WA1DGAFEXDD893034;BCO-687;elektromos;3;bal;true
+Audi;A4;2007;Mauv;1FTSX2B50AE165010;RZR-663;elektromos;3;jobb;false
+Subaru;Impreza;2009;Orange;1C3CCBBB3EN631922;SRJ-949;elektromos;3;jobb;true
+Mitsubishi;Pajero;1988;Indigo;WAUAH98E28A761293;OYE-576;benzin;3;jobb;true
+Honda;Accord;2011;Purple;WA1CYBFE9AD627756;PWF-467;dízel;5;bal;false
+Mitsubishi;Precis;1990;Purple;3C3CFFHH2ET592170;UKW-980;dízel;3;jobb;true
+Kia;Spectra;2003;Crimson;WAUEH94F18N894653;MXV-360;dízel;5;bal;true
+Dodge;Caravan;1996;Khaki;WBAFR1C59BD475815;CHU-100;benzin;3;bal;false
+Honda;S2000;2001;Pink;3D7TP2CT8AG203182;BAD-428;benzin;3;bal;false
+Chrysler;Aspen;2008;Crimson;2C3CCABG9EH336743;QUO-113;dízel;3;jobb;true
+Buick;Skylark;1993;Yellow;YV440MBK1F1575974;CFA-622;elektromos;5;jobb;true
+GMC;3500;1992;Violet;WAUDFAFL5DA946065;XZO-165;elektromos;3;bal;true
+Toyota;Tacoma Xtra;2003;Aquamarine;WDCGG5GB1AF511059;RTN-818;elektromos;5;jobb;false
+Mercury;Cougar;1989;Crimson;SCBLF44J28C947964;BLT-303;benzin;5;jobb;false
+Dodge;Intrepid;1995;Purple;JN8AF5MR1FT403294;RMB-522;dízel;5;jobb;true
+Saab;9-3;2010;Maroon;SCBLE37G93C772652;AIT-574;benzin;3;jobb;false
+Plymouth;Grand Voyager;1995;Khaki;1C4RDJDG1EC731938;DKX-960;dízel;5;jobb;false
+Mercury;Cougar;1992;Teal;3C6JD6BP9CG301699;ZBH-736;benzin;5;jobb;true
+Audi;Q7;2008;Crimson;WBAYM9C53DD575918;SIX-819;dízel;5;bal;true
+Volkswagen;Fox;1988;Goldenrod;WVGAV7AX9AW320647;JRM-849;elektromos;3;jobb;true
+Ford;Expedition;2009;Yellow;1G6DM57N330331456;MQS-872;elektromos;5;jobb;false
+Honda;Accord;2009;Indigo;1GYS4HEF2DR507311;KFQ-567;benzin;5;jobb;false
+Mazda;Mazda5;2010;Turquoise;WBAYE0C59ED234260;BYP-328;dízel;5;jobb;true
+Suzuki;Swift;1993;Red;WAULC58E64A279890;IQP-358;dízel;5;jobb;false
+Land Rover;Range Rover;1997;Orange;1G6DH5E55D0726621;UOG-817;benzin;5;jobb;false
+Honda;S2000;2008;Goldenrod;1C3CDFDH0FD581185;YZG-093;benzin;3;bal;false
+Chevrolet;Express 3500;2008;Crimson;WBXPC934X8W005694;MSE-925;dízel;5;jobb;true
+Mercedes-Benz;SLR McLaren;2007;Purple;1D7RV1CP3AS680222;KQO-286;dízel;3;jobb;false
+Jaguar;XK;2011;Puce;1GD020CG7DZ027079;YKS-929;elektromos;5;jobb;false
+Volkswagen;Touareg;2012;Indigo;SCFPDCGP0EG266352;XUU-347;elektromos;5;bal;true
+Chevrolet;Corvette;1999;Aquamarine;3VWKP7AJ7CM866426;AHQ-939;dízel;3;jobb;true
+Land Rover;Freelander;2011;Orange;1G6DK5ED2B0464711;ULP-380;elektromos;5;jobb;true
+Subaru;Tribeca;2012;Blue;WAUJGBFC6DN741272;EOD-952;benzin;3;bal;false
+Toyota;4Runner;1996;Maroon;SAJWA1CZ9E8315879;YHL-948;dízel;5;jobb;true
+Lexus;ES;1995;Blue;WBAUP93549V035033;WFG-549;dízel;5;jobb;true
+Subaru;Loyale;1992;Green;5TDDCRFH6ES813101;IVZ-064;dízel;5;bal;true
+Buick;Rendezvous;2007;Indigo;1FT7W2A69EE669063;UNV-760;benzin;3;jobb;false
+Chevrolet;Corvette;2005;Fuscia;WBA3B3C58DJ106595;YWG-579;benzin;5;bal;true
+Mazda;MX-6;1988;Red;JTHFE2C25F2954422;GXQ-231;dízel;5;bal;true
+Mazda;B-Series Plus;1995;Crimson;WAUKF98E96A551779;TGT-232;dízel;3;jobb;false
+Cadillac;Escalade ESV;2011;Purple;1FMJU1F51AE601402;YGC-846;elektromos;3;bal;false
+Chevrolet;Silverado 1500;2001;Khaki;WAUNF78P98A483473;YGG-020;benzin;3;bal;false
+Jeep;Liberty;2006;Orange;WBANF33576C011739;HBM-664;elektromos;5;bal;false
+GMC;Savana 2500;2001;Turquoise;WAULC68E12A710266;HHR-783;elektromos;5;bal;true
+Mercedes-Benz;SL-Class;1994;Yellow;KNADH5A35B6774595;STQ-460;benzin;3;bal;false
+Nissan;240SX;1998;Turquoise;2T1BU4EE7DC009332;TBY-623;elektromos;5;bal;false
+Mercury;Cougar;1970;Yellow;WAUAGAFD3DN972536;FNC-338;dízel;5;jobb;false
+Lotus;Evora;2011;Indigo;1B3CB7HB3AD464109;CLC-844;elektromos;5;jobb;false
+Ford;F150;2006;Blue;SALAC2D40BA875671;YOU-096;benzin;3;jobb;true
+Pontiac;Grand Am;1986;Red;WAUKF98E55A163219;DPN-914;dízel;5;bal;true
+Mazda;Mazda3;2007;Pink;YV426MDA2F2868433;MWG-168;elektromos;5;jobb;false
+Lexus;ES;2000;Green;5TDDCRFH3FS898478;VZX-856;elektromos;3;bal;true
+Porsche;911;1991;Puce;2FMHK6CC5AB331655;ZYQ-076;dízel;3;jobb;true
+Toyota;Land Cruiser;1996;Pink;1G4HP57296U027813;ZAM-042;benzin;5;bal;true
+Mitsubishi;Challenger;2004;Purple;1FTSW2A52AE162064;XCS-150;benzin;5;jobb;false
+Honda;Odyssey;2008;Mauv;WAUVC68E12A595502;YCF-350;dízel;3;jobb;false
+GMC;Envoy;1998;Teal;3D7TP2CT1AG248013;NAF-777;benzin;3;bal;true
+Porsche;Panamera;2011;Indigo;3VW4A7AT7CM540718;LNU-617;dízel;5;bal;false
+Chrysler;300M;2000;Khaki;3C6TD5ET4CG863456;ZCJ-757;dízel;5;jobb;false
+Honda;Civic;1991;Mauv;19UYA427X3A486348;ZOF-233;benzin;5;bal;false
+Ferrari;599 GTB Fiorano;2007;Blue;3VWML7AJ2CM264974;PGC-033;benzin;5;bal;false
+Volkswagen;Vanagon;1984;Turquoise;3VW507AT8FM630939;XWZ-265;dízel;5;bal;false
+Mercedes-Benz;CLK-Class;2005;Green;WBA4A7C52FG864155;JGG-591;elektromos;3;bal;true
+Volkswagen;Golf;1976;Yellow;2T1KE4EE5BC126756;GUT-010;benzin;3;bal;false
+Audi;A4;1996;Fuscia;WVGEF9BP1ED496960;UOP-638;benzin;5;bal;true
+Honda;del Sol;1997;Turquoise;WBAKG7C51DE897114;GVI-157;elektromos;3;jobb;false
+Volkswagen;Cabriolet;1995;Goldenrod;1FTWF3D52AE207247;NEJ-746;benzin;5;bal;true
+Mitsubishi;Mirage;1994;Khaki;5XYZG3ABXBG159948;DEO-051;elektromos;5;jobb;false
+Chevrolet;Express 1500;2004;Fuscia;JM1GJ1T62E1102659;MXA-361;benzin;5;bal;true
+Mazda;RX-8;2005;Orange;WAUHFBFL3CN864608;BGG-518;benzin;3;jobb;false
+Chevrolet;Suburban 2500;1995;Maroon;WAUAH74F16N995546;JSR-018;benzin;3;jobb;false
+Buick;LeSabre;1999;Aquamarine;JH4CL96978C094482;RMR-758;elektromos;5;jobb;false
+Mazda;Miata MX-5;2009;Fuscia;3D73Y4CL4BG175259;GVD-818;elektromos;5;jobb;false
+Pontiac;Bonneville;2005;Orange;1D7RE2BK6BS055813;EUH-753;benzin;5;bal;true
+Dodge;Grand Caravan;2010;Maroon;WBABD53445P281174;VVL-210;benzin;5;bal;true
+Porsche;Cayenne;2010;Fuscia;1G6AR5SX0E0059643;QLW-872;elektromos;3;bal;false
+Mercedes-Benz;Sprinter;2011;Turquoise;WBA3B3C52EF709823;PPP-781;dízel;3;jobb;true
+Ford;F350;2002;Red;JH4DC53886S061664;WEX-087;benzin;3;jobb;true
+Honda;Fit;2011;Crimson;WAUJC58E92A079428;VPY-902;dízel;5;jobb;true
+Mercedes-Benz;500E;1993;Crimson;WAUFFAFM0AA787842;DII-198;dízel;3;jobb;true
+Ford;Club Wagon;1997;Green;3D73M3HL1AG882221;OKH-177;benzin;3;jobb;true
+BMW;530;2003;Maroon;WBALW7C50CD074864;EDJ-411;benzin;5;jobb;false
+Toyota;Corolla;2000;Yellow;WBSKG9C58DJ185388;AYL-708;elektromos;5;jobb;false
+Lincoln;Town Car;2006;Goldenrod;1G4CU541724193448;EQM-470;benzin;3;jobb;false
+Ford;Windstar;1996;Yellow;WAUNF98P58A612580;FYA-321;dízel;5;jobb;false
+BMW;X5 M;2010;Turquoise;1GYFC53219R157034;YKD-089;benzin;5;jobb;true
+Dodge;Avenger;2010;Goldenrod;5N1AZ2MH1FN459213;HTW-009;benzin;5;bal;true
+Nissan;240SX;1998;Aquamarine;1D7CE3BK4AS448235;NWY-954;benzin;3;bal;true
+Dodge;Charger;2006;Crimson;JTDKN3DU2B0031729;SFR-044;elektromos;3;jobb;false
+Volkswagen;Jetta;1999;Crimson;WAUKG98EX6A501437;AGO-646;dízel;5;bal;false
+Mazda;B-Series;1995;Goldenrod;1N6AA0EK8FN011493;CXS-119;elektromos;3;bal;false
+Ford;F150;1998;Orange;JN8AS5MT3BW099286;HXY-260;dízel;5;bal;false
+Aston Martin;V8 Vantage;2011;Turquoise;3LNHL2GC9BR920102;MXF-883;elektromos;5;bal;false
+Volvo;XC70;2004;Fuscia;1GTPCTEX7AZ401572;VPE-517;dízel;5;bal;false
+BMW;6 Series;1989;Goldenrod;WBAEJ13402A378188;VSS-499;dízel;3;bal;true
+Volkswagen;New Beetle;2000;Khaki;1G6AR5S36E0575437;NLS-458;benzin;5;jobb;true
+GMC;Savana 1500;1999;Yellow;WAUDF98E65A820778;ZKC-241;dízel;5;bal;true
+Subaru;Legacy;2004;Khaki;WBAWC7C52AE299641;HKN-133;elektromos;5;jobb;true
+Hyundai;Sonata;1997;Violet;WAUAFAFH3BN917300;ECY-461;elektromos;3;bal;false
+Chevrolet;Corvette;2009;Turquoise;WAUVT68E22A276397;HRY-498;benzin;5;bal;true
+Hyundai;XG300;2001;Pink;WBAUP9C56BV594248;ECJ-400;dízel;5;jobb;true
+Toyota;Prius c;2012;Goldenrod;WAULFAFH0EN073911;VSU-031;dízel;5;jobb;true
+Chevrolet;Express 1500;1999;Orange;WBACN334X1L054420;RSM-571;benzin;3;jobb;false
+Jaguar;XJ;2009;Pink;JH4CL95976C434938;TMM-684;dízel;3;jobb;false
+Chevrolet;Corvette;2005;Crimson;JTHBL1EF3D5015327;RZB-610;benzin;3;jobb;false
+Bentley;Azure;2008;Yellow;1HGCR2F33FA942659;PBY-700;dízel;3;jobb;true
+Mazda;Protege;1995;Mauv;JA4AD3A31FZ917949;DNP-516;elektromos;5;bal;false
+Lincoln;MKT;2011;Orange;3C3CFFCR2FT786733;QEJ-022;benzin;3;jobb;true
+Chevrolet;Cavalier;1997;Crimson;1GYS4AEF1BR883986;HOK-888;elektromos;5;bal;true
+Cadillac;CTS;2007;Crimson;JH4DC53895S099662;OFT-235;elektromos;3;jobb;false
+Saab;9-5;2005;Puce;2HNYD28778H116284;AUM-310;benzin;5;bal;false
+Infiniti;G;1993;Indigo;1D7RW2GK0BS557920;SPM-077;dízel;3;bal;false
+Hyundai;Genesis Coupe;2011;Mauv;1VWAH7A34EC397021;NUX-746;dízel;5;bal;false
+BMW;X6;2012;Purple;5N1AA0NE5FN514214;UNL-957;dízel;5;bal;false
+Ferrari;599 GTB Fiorano;2009;Pink;WAUXU64B63N351193;UQN-780;elektromos;3;jobb;true
+Plymouth;Grand Voyager;1996;Yellow;5YMGZ0C55BL050252;RZB-528;elektromos;5;bal;false
+Acura;TSX;2004;Purple;1GD220CG0CZ880656;PWP-633;elektromos;3;bal;true
+Hyundai;Tiburon;1999;Goldenrod;4T1BF1FK5DU964237;IMX-267;dízel;5;bal;true
+Toyota;Land Cruiser;2000;Puce;5GAKVCKD5EJ220619;GVQ-187;elektromos;5;jobb;false
+Pontiac;Sunfire;1996;Yellow;WAUNF68P66A423352;YEI-800;dízel;5;bal;false
+Audi;R8;2011;Orange;5LMJJ3H56DE857153;RHA-119;elektromos;3;jobb;false
+Jeep;Wrangler;2004;Yellow;WA1BV94L58D564003;BXE-217;dízel;5;jobb;true
+Mazda;MPV;1993;Teal;1FTWX3A52AE697433;BBB-375;elektromos;3;jobb;false
+Honda;Civic;1992;Pink;1G4GG5E32CF304504;EKN-151;benzin;5;bal;true
+Nissan;Maxima;1999;Khaki;WBAYF4C51ED995837;PWR-267;dízel;5;bal;true
+Bentley;Mulsanne;2012;Violet;WAUSF78K79A646839;DVH-023;elektromos;3;jobb;true
+Volkswagen;Jetta;2002;Green;1N4AL3AP5DC973703;KSV-729;dízel;5;jobb;false
+Chevrolet;Express 3500;2008;Blue;5GADT13S672312447;LLF-098;elektromos;3;jobb;true
+Nissan;Frontier;1998;Teal;2G61N5S34D9611819;WUO-933;dízel;3;jobb;true
+BMW;5 Series;1993;Indigo;JN8AE2KP0E9019747;VBY-395;dízel;3;bal;true
+Lincoln;Navigator L;2010;Yellow;1GD11ZCG6DF518434;QSF-102;benzin;3;jobb;false
+Ford;EXP;1987;Goldenrod;WBSBR93434P641845;FKR-893;benzin;3;jobb;true
+Ford;LTD Crown Victoria;1988;Goldenrod;WA1DKAFP7BA343742;HIK-899;dízel;5;bal;true
+Infiniti;JX;2013;Turquoise;2HNYD284X7H138042;VCN-677;benzin;3;bal;true
+Hyundai;Sonata;1999;Khaki;WAUKF98P29A692229;TJM-075;elektromos;5;bal;false
+Honda;Civic;2000;Goldenrod;3GYFNDE35ES722130;GCG-968;benzin;5;bal;true
+Mercedes-Benz;CLK-Class;2002;Red;WA1WMAFE7CD414178;KXL-009;benzin;5;jobb;false
+Chevrolet;Astro;1995;Mauv;WBADX1C56BE114890;PQK-593;dízel;3;bal;true
+GMC;Sierra 2500;2001;Blue;SCBCR7ZA4AC219358;XNQ-408;elektromos;5;jobb;true
+Dodge;Viper;1992;Blue;WAUHFAFL6BN482064;FDS-988;elektromos;3;bal;true
+GMC;3500;1998;Fuscia;5BZAF0AA1FN430173;JUX-555;benzin;5;jobb;false
+Kia;Rio;2009;Orange;WAUMGAFL5BA308456;JJA-843;benzin;3;bal;false
+Mitsubishi;Truck;1988;Puce;5N1AN0NU1DN734216;RTX-238;elektromos;5;bal;true
+Suzuki;Grand Vitara;2001;Goldenrod;2G61S5S36D9134822;ISH-513;elektromos;3;bal;false
+Mercedes-Benz;300E;1993;Red;3GYFNAE3XFS487613;OQH-482;benzin;5;jobb;true
+Ferrari;F430;2009;Red;JTHFE2C20C2674127;YIX-123;dízel;5;bal;false
+GMC;2500 Club Coupe;1997;Indigo;KL4CJGSB2FB161572;PHP-954;elektromos;5;jobb;true
+Volkswagen;Cabriolet;2001;Khaki;WAUMFAFL2BN460383;STC-151;elektromos;3;bal;false
+Chevrolet;G-Series 3500;1998;Fuscia;WBAVM5C5XDV562122;QJR-937;elektromos;5;jobb;true
+Chevrolet;Classic;2004;Puce;3VWML7AJXDM472649;SSD-477;elektromos;5;jobb;false
+Chevrolet;Express 2500;1998;Goldenrod;1G6DN57S240000033;YLK-412;benzin;5;bal;true
+Aston Martin;DB9;2007;Blue;4T1BF1FK6DU962657;OBF-861;dízel;3;jobb;false
+Chevrolet;Impala SS;1994;Goldenrod;WBALZ5C5XCC079877;AKO-056;elektromos;3;bal;false
+Bentley;Continental Super;2010;Pink;3D4PG5FV2AT974502;HGZ-022;dízel;5;bal;false
+Nissan;Rogue;2008;Turquoise;1FTWW3B50AE562369;PEN-684;dízel;3;bal;false
+Geo;Tracker;1992;Teal;1N4AB7AP2EN436111;CNC-241;benzin;5;bal;false
+Infiniti;Q;2005;Maroon;3D7TT2CTXBG640372;UAE-046;benzin;5;jobb;true
+GMC;Savana 2500;1996;Maroon;WAU2MAFCXFN708835;RIW-947;dízel;3;jobb;true
+Land Rover;Range Rover;2001;Indigo;19UUA8F39EA657557;UJP-278;elektromos;5;bal;false
+Chevrolet;Express 2500;1996;Blue;3C63D3JL5CG925909;SZO-210;elektromos;3;bal;true
+Mercedes-Benz;SLK-Class;2007;Violet;SCFAD02A47G319712;MXQ-879;elektromos;3;bal;false
+Nissan;Altima;2003;Red;WBAPM5G59BN609544;RNU-927;elektromos;5;bal;false
+Volkswagen;Cabriolet;1995;Yellow;JHMZE2H33ES172262;VCY-042;benzin;3;jobb;false
+Mercedes-Benz;SL-Class;1988;Indigo;5FRYD3H2XGB454183;YDI-095;benzin;5;jobb;true
+Saturn;S-Series;2000;Khaki;3VW4A7AT0DM052261;ONA-422;dízel;3;bal;true
+Kia;Optima;2009;Indigo;WAUAFAFL3BN438007;DVK-666;dízel;3;jobb;true
+Mazda;MX-6;1989;Teal;5N1AT2MK2FC047083;XVI-866;dízel;3;bal;true
+Nissan;240SX;1998;Indigo;JM1NC2JF6F0599328;IRO-744;benzin;5;bal;false
+Mazda;Miata MX-5;1994;Goldenrod;5NPET4AC2AH973270;UJX-148;benzin;3;jobb;false
+Infiniti;FX;2011;Puce;1FTSX2A58AE362881;VEX-088;benzin;5;bal;false
+Mercury;Mountaineer;2007;Maroon;WBAPN73569A131969;BFF-546;elektromos;3;bal;true
+Honda;Prelude;2001;Goldenrod;3N1CN7AP4DL015129;OXK-806;benzin;5;jobb;true
+Dodge;Ram Van B350;1994;Blue;3VW1K7AJ5FM172106;PQM-038;elektromos;5;jobb;true
+Kia;Rondo;2007;Turquoise;2C3CDXDT5CH082259;PCM-274;benzin;3;jobb;false
+Mercury;Mystique;1996;Crimson;WAUET48H85K667406;ZXH-795;elektromos;5;bal;false
+Chrysler;200;2012;Purple;1G4GL5E30CF795876;NNF-769;elektromos;5;bal;true
+Toyota;4Runner;2010;Goldenrod;WBA3N9C58EF076268;TCE-146;dízel;3;jobb;false
+GMC;Jimmy;1993;Turquoise;1GD21ZCG8DZ038379;WIE-385;elektromos;3;jobb;true
+Ford;Thunderbird;1985;Indigo;1G6DG8EG4A0682404;MLL-506;dízel;3;bal;true
+Mercedes-Benz;GLK-Class;2012;Puce;5N1AR1NB3BC212771;DLY-397;elektromos;3;jobb;true
+Ford;F-250 Super Duty;2006;Orange;WBAYA8C50FD984335;UIP-966;benzin;5;bal;false
+Mazda;Tribute;2006;Violet;2G4WE587971601010;UGR-344;elektromos;3;bal;true
+Cadillac;Sixty Special;1993;Orange;1G6AY5S36E0610853;JDV-504;dízel;3;bal;false
+Subaru;Tribeca;2008;Green;WAUNF78P68A308050;UHF-991;dízel;5;jobb;false
+Ford;Ranger;1984;Pink;WAUVT58E33A878639;ZLS-592;dízel;3;bal;false
+Lexus;IS F;2010;Red;3D7TT2CT3AG646836;NMF-671;benzin;5;bal;false
+Porsche;911;1996;Purple;WBSBR93463P598195;LKJ-698;dízel;3;bal;true
+Honda;Accord;2007;Maroon;WBSBL93484J098786;TTI-649;elektromos;3;bal;false
+Infiniti;QX;2000;Aquamarine;2C3CCAAG0CH861169;CZF-322;dízel;3;jobb;false
+Toyota;Camry;1994;Purple;WBA4A9C54FD944070;AZQ-895;dízel;5;bal;false
+Toyota;MR2;2003;Fuscia;JH4NA12682T079699;PIR-908;elektromos;5;bal;false
+Toyota;Celica;1992;Puce;WBA1J7C55EV523152;TSE-727;elektromos;5;bal;true
+Ford;F250;2010;Khaki;1GYS4KEF3CR642471;JBS-526;benzin;5;jobb;false
+Saturn;S-Series;1997;Maroon;5TFBW5F12AX793265;PCE-191;benzin;3;jobb;false
+Pontiac;G6;2006;Violet;19XFB4F23EE884132;AML-469;benzin;3;bal;true
+Subaru;XT;1987;Puce;5BZBF0AA5EN463762;VYP-911;dízel;3;jobb;true
+Cadillac;Escalade;2012;Puce;1HGCR2E55FA897940;RMI-174;elektromos;5;bal;true
+Mercury;Cougar;1996;Khaki;WVWAA7AJXCW896150;WMW-905;dízel;5;bal;true
+GMC;3500 Club Coupe;1992;Crimson;1G6EL12Y52B675942;LXZ-036;benzin;5;bal;true
+Pontiac;Grand Prix;1965;Pink;3VWF17AT7FM080666;MXL-638;elektromos;5;bal;true
+Aston Martin;DBS;2011;Mauv;1D7RB1CP9BS414942;SFB-710;benzin;5;bal;true
+Oldsmobile;Ciera;1995;Turquoise;W04GR5ECXB1296091;XGH-997;dízel;3;bal;false
+Toyota;Yaris;2007;Teal;YV1902FH7D1513689;VZS-772;dízel;5;bal;false
+Maybach;62;2003;Violet;2C4JDGAG0CR898509;EEW-431;dízel;3;bal;false
+Pontiac;Bonneville;1997;Yellow;WBAVT13526K077957;UBG-984;elektromos;3;bal;true
+Bentley;Continental GTC;2012;Aquamarine;JTHBB1BA3A2637936;XBV-708;dízel;3;bal;true
+Ram;2500;2011;Pink;5N1AR2MM2EC889484;XIY-321;benzin;5;jobb;false
+Buick;LaCrosse;2006;Red;WAUJC68E75A520466;PMG-707;elektromos;5;jobb;false
+Chevrolet;2500;1996;Mauv;WBAVB73538P928496;TWX-085;elektromos;3;bal;true
+Pontiac;Bonneville;1990;Teal;3N1BC1CP7CK402032;UYV-948;elektromos;3;jobb;false
+BMW;M3;2003;Pink;KMHGC4DE2AU305413;YTE-179;elektromos;3;bal;false
+Scion;xD;2010;Violet;1GYUCBEFXAR249656;KUI-936;dízel;3;bal;true
+Lincoln;LS;2002;Goldenrod;WA1LFAFP0CA262034;CGG-741;benzin;3;bal;true
+GMC;Sonoma;1992;Green;WAUDF98EX8A169725;NTC-003;benzin;5;bal;true
+Chevrolet;Corvette;1986;Violet;JTHBE1BL8F1507902;BVI-214;benzin;3;jobb;true
+Hyundai;XG350;2002;Yellow;WBABN734X3P103839;IDZ-638;dízel;3;jobb;false
+Mercury;Sable;1995;Pink;SALAC2D46CA938094;WEM-270;elektromos;3;bal;false
+Mitsubishi;Galant;1987;Goldenrod;2HNYD18615H065586;VOA-424;benzin;3;bal;false
+Ford;Escort;1985;Turquoise;JH4CU25699C381819;HFF-149;benzin;5;bal;true
+Nissan;Quest;2006;Green;3D73Y4EL0AG719462;HMM-239;dízel;5;jobb;true
+Mazda;Miata MX-5;2000;Orange;WAUKFBFL4EA144153;PCG-169;elektromos;3;bal;true
+Acura;MDX;2009;Maroon;WDBSK7AA5CF561927;SDS-547;benzin;3;bal;false
+Toyota;Tercel;1997;Indigo;JN1CV6EK8CM204170;PEA-835;elektromos;5;jobb;true
+Suzuki;Grand Vitara;2004;Crimson;WBAEN33483E274316;OEW-072;benzin;5;bal;false
+Ford;E-Series;2009;Mauv;3C3CFFER4CT968166;OXS-007;benzin;5;jobb;false
+Infiniti;M;2007;Crimson;5J6TF1H5XEL455701;YRW-950;elektromos;3;jobb;true
+Toyota;Celica;1984;Goldenrod;1GD311CG0FZ945913;SAN-636;elektromos;3;jobb;false
+Ford;Mustang;1994;Pink;WAUED64B01N809525;KJZ-421;benzin;3;jobb;true
+Mazda;CX-9;2008;Puce;WAUHFAFL1CA526481;CTZ-881;dízel;3;jobb;true
+Porsche;Boxster;2011;Maroon;WVGAV7AXXBW178195;TZU-952;benzin;5;jobb;false
+Honda;Odyssey;2009;Purple;3VW517AT6FM220248;LWJ-190;dízel;5;bal;false
+Dodge;Avenger;2000;Indigo;WAUEFAFL7CN141230;FMP-369;dízel;3;jobb;true
+Chevrolet;Malibu;2005;Pink;5FPYK1F53EB529948;GOT-697;dízel;5;jobb;true
+Honda;Civic;2009;Blue;2G4GT5GC9B9998916;FJU-157;benzin;3;bal;true
+Smart;Fortwo;2011;Pink;JHMZF1C46BS131563;EGN-898;dízel;5;bal;false
+Lotus;Exige;2012;Aquamarine;1GYFK56299R504172;SKT-402;dízel;5;jobb;false
+Saab;9-7X;2009;Indigo;WBY2Z2C5XFV190952;PRQ-448;dízel;5;bal;false
+Bentley;Brooklands;2009;Aquamarine;WAUVT58E75A052265;RVR-298;elektromos;5;jobb;true
+Porsche;928;1988;Aquamarine;SCBDU3ZA6CC948797;FRR-411;benzin;3;bal;false
+Aston Martin;V8 Vantage;2012;Violet;JN1AZ4EH1AM255706;LUO-668;elektromos;3;bal;false
+GMC;Savana 2500;2008;Teal;JH4CL95958C865488;HYW-357;dízel;5;bal;true
+Geo;Prizm;1995;Maroon;SAJWA4ECXFM196386;THT-312;elektromos;3;jobb;false
+Chevrolet;Malibu;2012;Goldenrod;5N1AZ2MHXFN638821;OYD-748;benzin;5;bal;true
+Shelby;GT500;1968;Green;SCBBR53W76C565805;JPJ-808;dízel;3;bal;true
+Hyundai;XG300;2001;Yellow;SCFAB05D09G154708;ZXV-733;elektromos;5;jobb;true
+Pontiac;Torrent;2007;Purple;1G6DK67V880124483;SSV-965;elektromos;3;jobb;true
+Buick;Skylark;1988;Pink;3D4PH6FV3AT018142;NQZ-063;elektromos;5;bal;false
+Maserati;Spyder;1990;Teal;2C3CDYBT5DH395788;VES-303;dízel;3;bal;false
+Dodge;Ram Van 1500;1995;Goldenrod;SCFFBCCD0BG304445;QGH-529;elektromos;5;jobb;false
+Hyundai;Elantra;1999;Goldenrod;5NPEB4AC8DH646427;NYP-857;benzin;5;bal;false
+BMW;M5;2002;Mauv;4T1BD1EB8FU830087;WSU-043;dízel;3;jobb;false
+Pontiac;Firebird;1988;Indigo;3N1AB6APXCL818438;FXI-032;dízel;5;bal;true
+Dodge;Ram Van 3500;1999;Green;WAUAF48H49K522102;BHT-509;dízel;3;bal;false
+Studebaker;Avanti;1963;Mauv;3N1BC1CP2CK546572;WGQ-876;benzin;5;bal;false
+Ferrari;458 Italia;2010;Orange;WAUMGBFL7DA552182;SRD-958;benzin;3;jobb;false
+Mercedes-Benz;W201;1986;Teal;SCFAD22313K627800;APZ-932;benzin;3;jobb;true
+Hummer;H3;2008;Purple;WAUVC68E62A735253;CSG-700;benzin;5;bal;false
+Austin;Mini Cooper S;1963;Maroon;SCFEFBAC1AG588901;MQD-802;dízel;3;jobb;true
+Toyota;Sequoia;2008;Green;3C6JD6DK6CG976587;TMG-006;elektromos;3;jobb;true
+Land Rover;Discovery Series II;2002;Goldenrod;WBAAV53401J324303;VQS-144;benzin;5;jobb;true
+Land Rover;Range Rover;2001;Blue;5UXZV8C58D0015123;XKN-172;dízel;3;bal;false
+Oldsmobile;Silhouette;2003;Yellow;5GADX33L65D923573;LPK-027;elektromos;3;jobb;false
+Mitsubishi;Outlander;2003;Pink;WAUKF78EX5A709243;BHK-707;dízel;5;jobb;true
+Jeep;Commander;2007;Aquamarine;JH4CL96996C922108;ZAK-239;elektromos;5;bal;false
+Oldsmobile;Cutlass;1999;Crimson;3GYFNKE48AS755940;KKK-282;benzin;5;jobb;false
+Toyota;Tacoma;1998;Mauv;WAUEFAFL6BN505037;LJB-796;benzin;3;jobb;true
+Mercedes-Benz;GLK-Class;2010;Maroon;JH4DC53853C607097;GIU-247;dízel;3;bal;false
+Toyota;Tundra;2007;Red;KNADM5A35E6586286;BCF-748;elektromos;3;bal;true
+BMW;X5;2013;Maroon;19VDE1F70EE034508;CAT-629;dízel;3;jobb;false
+Pontiac;Grand Prix;1984;Aquamarine;1GYS4HEF5CR171698;ESC-411;benzin;3;bal;false
+Chevrolet;Camaro;2010;Mauv;WAUML44D82N412232;FBD-177;dízel;3;bal;false
+Dodge;Caravan;2006;Blue;1G6AH5RX9E0983829;HAM-573;benzin;3;jobb;true
+Pontiac;Grand Am;1999;Aquamarine;JTEBU5JR7E5175875;CPW-175;dízel;5;jobb;true
+Acura;TSX;2007;Green;19UUA9F70EA148272;CHD-653;dízel;3;bal;true
+Nissan;Sentra;1997;Purple;5N1AR1NB8CC749539;VLY-115;dízel;5;bal;false
+GMC;Envoy XUV;2005;Goldenrod;WBAPK7C57BF687886;JNM-655;elektromos;3;bal;true
+Pontiac;LeMans;1990;Mauv;5TDBW5G18ES934866;PRO-280;benzin;3;jobb;false
+Jeep;Wrangler;2002;Teal;KMHHT6KD3BU157333;GFA-940;elektromos;3;bal;false
+Mazda;Miata MX-5;1996;Turquoise;3C4PDDDG8FT495142;DBA-027;elektromos;3;bal;false
+Ford;Explorer Sport Trac;2000;Purple;5N1AR1NB5BC211833;IEZ-820;benzin;5;jobb;true
+Chevrolet;Corvette;1963;Purple;WBAPM5C56BE854274;WJS-528;elektromos;5;bal;true
+Dodge;Caliber;2008;Yellow;KM8NU4CC8AU251619;UKS-846;benzin;5;bal;true
+Oldsmobile;Silhouette;1993;Orange;JTDKN3DU1B0156091;HEM-456;elektromos;5;jobb;false
+GMC;2500 Club Coupe;1994;Violet;YV1902FH9D1452975;ECB-132;benzin;5;jobb;true
+Volkswagen;Jetta;2011;Goldenrod;2G61N5S34F9370735;AKG-968;dízel;3;jobb;false
+Buick;Riviera;1992;Fuscia;1N4AL3AP9DC960632;SPA-472;elektromos;5;bal;false
+Jeep;Grand Cherokee;2007;Crimson;2C3CDYBT2EH486485;XSR-299;elektromos;5;jobb;false
+BMW;7 Series;1997;Red;1G6DF5EG1A0990423;CSC-817;benzin;3;bal;false
+Volkswagen;Passat;2012;Aquamarine;1D7RV1GP7AS431822;RYP-068;benzin;3;jobb;false
+Porsche;Boxster;1999;Crimson;3VW4A7AT0CM627506;PHD-230;dízel;3;jobb;true
+Toyota;Highlander;2004;Maroon;WAUGL98EX8A286971;YCN-494;elektromos;3;bal;true
+Ford;Thunderbird;1987;Puce;JTDKN3DU1A0873864;DPY-521;dízel;3;bal;true
+Volkswagen;R32;2004;Orange;KMHTC6AD6FU418357;DVH-034;benzin;3;bal;true
+Hyundai;Santa Fe;2009;Khaki;1C4NJPBA6CD862511;YSL-844;dízel;3;bal;true
+Lincoln;Town Car;1990;Turquoise;1FTMF1CW8AK138958;XGZ-187;benzin;3;jobb;false
+Dodge;Ram Wagon B350;1994;Turquoise;WAUBNBFB1AN601045;LMR-441;benzin;3;jobb;false
+Volvo;S40;2005;Blue;1G6ET129X2B648230;QXX-503;benzin;5;jobb;true
+Chrysler;300;2007;Puce;1G6DP5E30C0745061;EIT-673;elektromos;5;bal;true
+Mazda;Miata MX-5;1996;Khaki;3GYFNFEY1AS503487;RLA-575;elektromos;3;jobb;false
+Mercedes-Benz;CLK-Class;1999;Indigo;JN8AE2KPXC9033359;LOO-859;elektromos;5;bal;true
+Nissan;Sentra;2005;Indigo;5GAKRBED8CJ985380;GTK-181;elektromos;3;jobb;true
+Plymouth;Voyager;1995;Blue;1G6DJ8ED8B0786046;WUW-707;elektromos;5;jobb;true
+Toyota;Tacoma;2001;Goldenrod;1FTEX1C84AK665429;UUS-063;elektromos;5;bal;true
+Mercedes-Benz;500E;1992;Teal;WAUEG94F36N550113;QOE-441;elektromos;3;bal;true
+Isuzu;Amigo;1993;Puce;1D4SD6GT9BC917832;AVB-651;dízel;3;jobb;true
+Chevrolet;Colorado;2009;Crimson;5J8TB3H38DL486537;HUG-100;benzin;5;bal;false
+Chevrolet;Aveo;2004;Turquoise;1G6AH5R34D0528432;XUX-580;benzin;5;bal;false
+Mitsubishi;Diamante;2003;Teal;3D7JB1EP2BG301044;DJD-519;dízel;3;bal;true
+Toyota;Supra;1998;Green;1N6AF0KX1EN606881;TWI-309;benzin;3;bal;false
+Kia;Sedona;2005;Red;WBSDE934X1B898417;FRB-696;elektromos;5;bal;true
+Mitsubishi;Galant;1993;Crimson;JH4DB76581S182056;DLI-911;elektromos;3;jobb;false
+Volkswagen;riolet;1992;Orange;WA1BV74L08D869445;NCD-678;benzin;5;jobb;true
+Mitsubishi;Raider;2006;Purple;WBA4A7C58FD855459;FXQ-623;dízel;3;bal;true
+Porsche;Cayman;2010;Pink;KNAFK4A66E5663319;PJR-098;benzin;5;bal;true
+Ford;F150;2004;Yellow;JN8AF5MR7ET690946;MGS-654;dízel;5;jobb;false
+Toyota;TundraMax;2012;Red;WAUUL98E37A866046;QLE-327;elektromos;3;bal;true
+Chevrolet;2500;2000;Yellow;WAUJ2AFD3FN217016;DMK-115;elektromos;5;bal;false
+Ford;Escape;2003;Mauv;YV1672MK1A2090966;MLM-800;dízel;3;bal;false
+Pontiac;Sunbird;1989;Khaki;1GKS1KE07DR539117;SJA-130;benzin;5;jobb;false
+Mitsubishi;Outlander;2009;Crimson;JH4KB16618C586365;TDN-101;elektromos;3;jobb;true
+GMC;Yukon XL 2500;2011;Blue;3VWKX7AJ2BM638977;AUW-754;benzin;5;bal;true
+Ford;E-350 Super Duty;2006;Orange;JM1GJ1U51F1774509;NRX-769;elektromos;3;jobb;true
+Toyota;Camry;2012;Goldenrod;WAUJT64B54N165655;YFF-080;benzin;3;bal;false
+Lexus;ES;1999;Khaki;1FTEW1CF6FK119868;MME-961;dízel;3;bal;true
+Ford;Mustang;1965;Mauv;WAUEH78E57A774947;HYE-409;elektromos;5;jobb;false
+Hyundai;Scoupe;1995;Turquoise;SCBGH3ZAXEC563828;TTX-613;benzin;3;jobb;true
+Cadillac;Escalade EXT;2012;Puce;WBY2Z2C58FV917215;YMP-983;benzin;3;bal;true
+Chevrolet;Metro;2001;Mauv;WBASP2C57CC091839;TBG-138;benzin;3;bal;false
+Chevrolet;Corvette;1955;Khaki;WP0AA2A94CS026202;KUQ-771;elektromos;5;jobb;false
+Daewoo;Nubira;2001;Aquamarine;JN8AF5MR5ET247212;OHB-827;benzin;3;jobb;false
+Jeep;Wrangler;2001;Teal;2D4RN5D19AR906196;FQP-867;benzin;5;jobb;false
+BMW;X5;2012;Mauv;1GYEE437490420097;DLE-387;benzin;3;jobb;false
+Chrysler;PT Cruiser;2007;Goldenrod;1G6DE5EY3B0750433;NAL-360;elektromos;3;bal;false
+Pontiac;Chevette;1987;Orange;1N6AD0CW6FN084326;ZWP-511;dízel;5;bal;true
+Pontiac;Sunbird;1993;Goldenrod;2T2BK1BA0EC328560;BSM-174;elektromos;5;jobb;false
+Lincoln;LS;2003;Purple;WAUUL78E18A194087;GOR-437;elektromos;3;bal;true
+Mercury;Grand Marquis;2009;Purple;SAJWA2GZ7E8752909;BAD-256;benzin;3;jobb;false
+GMC;Jimmy;1992;Indigo;WAUCFAFH8AN452181;KJO-291;elektromos;3;jobb;true
+Mazda;MPV;1990;Yellow;WVWAP7AN3EE473310;ZQS-902;dízel;5;jobb;true
+Oldsmobile;88;1995;Fuscia;5GAKVCKD8FJ220728;ONI-532;dízel;5;bal;true
+Lexus;GX;2008;Maroon;WBABD53424P582878;TSK-606;elektromos;5;bal;true
+Hyundai;Sonata;1994;Purple;1FTNF1E87AK987286;IFR-074;benzin;5;jobb;false
+Chevrolet;Cavalier;2002;Teal;WBAYA8C51FD778490;DGF-027;elektromos;3;jobb;false
+Ford;Probe;1994;Teal;5N1AA0NE2FN252622;EXZ-637;elektromos;3;jobb;true
+BMW;7 Series;1997;Violet;WDDUG7JBXFA770835;CKP-488;dízel;5;bal;true
+Cadillac;Escalade EXT;2005;Violet;WAUSH74F58N154658;BUA-971;benzin;5;bal;true
+BMW;X5;2012;Pink;5N1AN0NU3FN687919;XOR-757;elektromos;5;bal;false
+Maybach;62;2012;Violet;19UYA42613A124528;TSX-917;dízel;3;jobb;false
+Mercedes-Benz;SL-Class;1985;Maroon;SCFAB42301K515049;KER-082;dízel;3;jobb;true
+GMC;Savana 1500;2005;Puce;2B3CA4CD9AH461972;DCC-802;benzin;5;jobb;true
+Lexus;IS F;2008;Indigo;5BZBF0AA5EN173697;JET-570;elektromos;5;jobb;false
+Acura;Legend;1993;Indigo;2C3CDYAG0CH403802;JRK-150;elektromos;3;jobb;true
+Mercury;Grand Marquis;1997;Maroon;JH4CL96837C103667;TBQ-251;dízel;3;bal;false
+Mitsubishi;Galant;2002;Pink;19UYA42652A116754;CDU-344;benzin;3;bal;false
+Lincoln;MKS;2012;Goldenrod;WVWGU7AN0CE860915;MUF-011;benzin;5;jobb;true
+Pontiac;Safari;1988;Teal;WAUD2AFD8EN324963;QFD-424;benzin;5;jobb;false
+Volkswagen;Golf;1996;Teal;1G6DG5E59C0282189;HAA-140;elektromos;3;bal;true
+BMW;7 Series;2000;Mauv;3C3CFFHH8DT495053;KQE-986;dízel;3;bal;false
+Porsche;911;2009;Puce;WA1CMAFP0FA679695;QAK-730;dízel;5;jobb;true
+Chevrolet;TrailBlazer;2007;Violet;WA1WMAFEXDD726545;ZJD-771;benzin;3;bal;true
+Volvo;C70;2008;Crimson;WBAEW53495P804180;SIY-462;elektromos;3;bal;true
+Chevrolet;Astro;2004;Maroon;3VW467AT0CM032558;NLV-409;dízel;3;jobb;false
+Dodge;Avenger;2012;Maroon;1HGCR2E59DA735385;LGC-129;elektromos;5;bal;false
+Mitsubishi;Endeavor;2010;Turquoise;TRURD38J481732427;BNS-862;benzin;3;jobb;true
+Ford;Excursion;2005;Red;JTEBU5JR2E5580574;OZM-530;benzin;3;jobb;false
+Hummer;H2 SUT;2006;Khaki;1FMEU7EE5AU768437;AAO-611;dízel;3;bal;false
+GMC;Envoy;1999;Violet;WAUKFAFL3BA712690;ATZ-445;benzin;5;jobb;true
+Honda;Insight;2002;Khaki;5GAKVBED9BJ120038;AFY-245;dízel;5;jobb;true
+GMC;Sierra 2500;2006;Blue;1N6AF0KX7FN445289;QYI-890;dízel;3;jobb;true
+BMW;X5;2006;Puce;4USBU53566L885419;FMK-505;elektromos;3;bal;false
+Cadillac;CTS;2012;Blue;1G6YV36A795106826;SJY-482;benzin;5;jobb;false
+Nissan;300ZX;1995;Orange;WAUVC68E73A950450;JLC-325;benzin;3;jobb;true
+Volkswagen;Jetta;1998;Khaki;WA1LGBFE2BD075179;FPF-709;benzin;3;jobb;true
+Mercedes-Benz;C-Class;1993;Yellow;WBADW3C59DJ134902;OYG-934;benzin;5;bal;false
+Pontiac;Grand Prix;2001;Violet;YV4952CT8D1439342;UIK-206;dízel;5;bal;false
+Suzuki;Esteem;1999;Red;WA1AY94L67D172245;AOM-602;elektromos;5;bal;true
+Kia;Sorento;2003;Goldenrod;1G6DN57U770965993;PME-378;benzin;3;bal;false
+Volkswagen;GTI;2010;Mauv;WBAXG5C58CC664898;MCL-652;elektromos;5;bal;true
+Oldsmobile;Cutlass Supreme;1994;Turquoise;WUAGNAFG8CN260814;WCV-272;dízel;5;jobb;true
+Ford;Taurus;2009;Goldenrod;WBAWC7C51AE439971;JNG-455;elektromos;5;jobb;false
+Mercedes-Benz;300CE;1992;Maroon;WVWAP7AN8EE968263;GHR-717;dízel;5;bal;true
+BMW;X6 M;2013;Pink;3FAHP0GA7AR421394;EQB-256;elektromos;3;bal;true
+Chevrolet;Express 1500;2004;Indigo;WA1WMAFE8DD588357;WAR-828;dízel;5;bal;false
+Ford;F250;2003;Puce;WAUKF78E76A934334;VSQ-857;benzin;3;bal;false
+Ford;LTD;1986;Fuscia;1G6KD579X9U011756;OLU-448;dízel;5;jobb;true
+Maybach;57;2011;Purple;WAUPN94EX8N050393;NTY-586;benzin;3;jobb;false
+Honda;Odyssey;1997;Turquoise;1C4PJLAK2CW465149;ORG-443;dízel;3;jobb;true
+Volvo;960;1994;Teal;1G6DG1E3XE0940466;RFP-814;elektromos;5;jobb;true
+Mercedes-Benz;W201;1986;Violet;5TDBK3EH0AS445257;ZEJ-210;elektromos;3;jobb;true
+Jaguar;XJ Series;2003;Indigo;2HNYD18202H502020;JHH-138;dízel;3;bal;true
+GMC;Rally Wagon 3500;1993;Orange;1GTN1TEH0EZ887718;LZA-872;elektromos;5;jobb;true
+Toyota;Solara;2001;Violet;WBAXH5C57CC493686;ULX-295;dízel;3;jobb;false
+Jaguar;XJ;2006;Orange;WBADT63422C176203;BQO-240;elektromos;3;bal;false
+Lamborghini;Diablo;1992;Violet;WAUYGAFC7DN022265;NMB-215;dízel;5;jobb;true
+Mitsubishi;Tredia;1986;Aquamarine;WBAKF5C52DE899848;WJB-019;dízel;3;jobb;true
+Toyota;TundraMax;2008;Aquamarine;5J6YH1H30BL971172;VCX-151;benzin;3;jobb;true
+Mercedes-Benz;C-Class;2010;Crimson;2G4GT5GX1F9551361;RQR-177;elektromos;5;bal;false
+BMW;M Roadster;2007;Violet;WDDGF4HB4DR537374;YMX-118;elektromos;5;jobb;true
+Mercury;Topaz;1986;Red;WVWAN7AN5DE704048;ZKC-673;benzin;5;jobb;true
+BMW;X3;2012;Fuscia;WAUEH64B61N388933;EBM-589;dízel;5;bal;true
+Mercury;Villager;2000;Blue;SAJWA4EC7BM413208;DKT-217;benzin;3;bal;false
+Ford;Econoline E250;2001;Violet;2C3CDZAT8FH524441;KOJ-156;dízel;3;bal;true
+GMC;Sierra 1500;2012;Violet;WBAGH03421D067146;MEY-235;dízel;3;bal;false
+Ford;F150;1995;Violet;YV140MEB4F1829279;QRY-332;elektromos;3;jobb;true
+Pontiac;Daewoo Kalos;2006;Crimson;1G4GJ5E39DF638323;ZNQ-451;benzin;5;bal;true
+Aston Martin;Vanquish S;2005;Violet;JHMZF1C61DS307603;XNS-743;dízel;3;bal;false
+Toyota;Land Cruiser;1992;Goldenrod;19XFB4F22DE525496;FHZ-679;benzin;3;jobb;false
+Suzuki;Forenza;2005;Blue;3TMJU4GN4AM630023;TJB-889;dízel;3;jobb;true
+Acura;NSX;1992;Teal;19UUA66236A522829;WQB-019;dízel;5;bal;false
+GMC;Safari;2003;Purple;1FTEW1C86AK094688;STP-397;dízel;5;jobb;false
+BMW;750;2006;Mauv;1GYUKBEF2AR017457;WZZ-100;benzin;5;jobb;true
+Jeep;Wrangler;1995;Teal;1D4RD4GG0BC715001;MVC-446;elektromos;3;bal;true
+Ford;Escape;2013;Teal;JN8AZ1MU2DW118927;OZL-584;dízel;5;jobb;true
+GMC;Savana 3500;2010;Green;WAUEH98E87A501738;JRB-472;benzin;5;bal;false
+Porsche;968;1994;Blue;WBAKF3C51DJ019380;NWP-263;benzin;5;jobb;true
+Pontiac;Firebird;1997;Violet;1B3CB1HA1AD497288;PAU-652;benzin;5;jobb;true
+Toyota;Corolla;2004;Fuscia;19VDE1F37EE050816;HFD-410;elektromos;5;bal;true
+Pontiac;Bonneville;2005;Yellow;1N6AF0KY6FN498848;QNG-153;benzin;5;jobb;true
+Mazda;929;1992;Teal;WBACN33461L249530;YGI-455;dízel;5;bal;false
+Dodge;Grand Caravan;1992;Green;WAUVT68E35A787296;IAF-922;dízel;5;bal;false
+Pontiac;Firefly;1984;Indigo;1G6DX67D280600008;MES-917;elektromos;5;jobb;true
+Toyota;Camry;2006;Pink;1GYUKFEJXAR334348;XRZ-595;elektromos;3;jobb;false
+Mitsubishi;GTO;1995;Puce;1G4GB5GR2FF846383;IRT-510;dízel;5;bal;true
+Volvo;C70;1998;Green;5TFAW5F13EX914368;HCL-745;dízel;5;jobb;false
+Mercedes-Benz;GL-Class;2010;Aquamarine;WAUBFAFL0DN311321;AQU-663;elektromos;3;bal;true
+Pontiac;Grand Prix;1986;Orange;JH4DB76531S898508;QWV-867;elektromos;3;jobb;true
+Jeep;Wrangler;2000;Red;1G6DJ5E32C0341616;ABD-056;dízel;5;jobb;true
+Ford;Econoline E150;1996;Mauv;WVGAV7AX3AW107953;BHP-348;dízel;3;bal;false
+Chevrolet;Colorado;2009;Aquamarine;TRUXD38J891734948;NRA-861;elektromos;5;jobb;true
+Lincoln;Town Car;2006;Red;WVGAV3AXXDW201034;DWJ-769;dízel;3;jobb;false
+Buick;LeSabre;1987;Maroon;WBAAV33431F785440;ZXF-559;elektromos;5;jobb;false
+Oldsmobile;Ciera;1992;Yellow;5TDBM5G11CS969946;PQH-544;benzin;5;bal;false
+Mercedes-Benz;C-Class;2003;Turquoise;3N1CN7AP1FL190960;AQN-186;benzin;3;bal;true
+Volkswagen;rio;2001;Purple;SCFFDCCD1BG475294;DQH-296;benzin;5;bal;false
+Nissan;Pathfinder;2001;Violet;SCFBB04C89G173195;ZQE-469;elektromos;3;jobb;true
+Hummer;H1;2002;Aquamarine;ZFBCFACH3FZ690305;EJR-092;benzin;5;jobb;true
+Isuzu;i-290;2007;Indigo;WBABS33403J089907;YAV-292;dízel;3;jobb;true
+Chevrolet;3500;2000;Turquoise;WBAWV13527P622199;LCO-257;dízel;5;jobb;false
+Chevrolet;Express 2500;2002;Violet;WBALZ3C50CC589613;WOH-979;dízel;3;bal;false
+Cadillac;SRX;2004;Puce;3CZRE3H36BG673621;UNH-916;benzin;3;bal;false
+Chrysler;Town & Country;2001;Maroon;2C3CDXDT3DH332860;TLP-163;benzin;5;jobb;true
+Honda;Civic;1991;Blue;1FTMF1E81AK415660;DLH-014;elektromos;3;bal;false
+Porsche;911;1988;Maroon;1GYS3JEF6CR992044;XQL-984;dízel;3;jobb;false
+Chevrolet;HHR;2009;Goldenrod;1GD22ZCG9CZ186021;GCA-960;benzin;5;jobb;false
+BMW;6 Series;2007;Khaki;1FTMF1CW6AK983727;KDQ-520;dízel;5;jobb;false
+Ford;Escape;2001;Orange;WBAEA53538C754315;MDJ-410;benzin;5;bal;false
+Porsche;Boxster;1999;Goldenrod;1G4GD5GD8BF674305;LWW-181;dízel;5;jobb;true
+Lexus;RX;2009;Blue;JN8AF5MV2FT469060;GOW-210;elektromos;3;jobb;false
+Saab;900;1990;Goldenrod;5FNYF3H34FB403135;FUH-562;benzin;3;bal;false
+Jeep;Wrangler;1995;Goldenrod;4JGBF2FE2BA064619;OGZ-484;benzin;3;bal;true
+Mercedes-Benz;300SD;1992;Puce;2T1BURHE8FC662067;JRC-685;benzin;5;jobb;true
+BMW;X6;2009;Khaki;5TDBW5G1XES801350;FYD-652;elektromos;3;jobb;true
+Land Rover;Discovery;2000;Yellow;ZFBCFABHXEZ311008;TBL-617;dízel;5;jobb;false
+Cadillac;Eldorado;1998;Pink;WBA4A5C54FD717194;YVO-255;benzin;5;jobb;false
+Ford;Aerostar;1987;Puce;5GAKVBED5CJ533303;USD-700;benzin;5;bal;true
+Lexus;GX;2007;Violet;WBA1J9C52FV527799;EZW-247;elektromos;5;bal;true
+Dodge;Viper;2010;Blue;1C3CCBBB1DN693365;IIG-077;elektromos;5;jobb;false
+Lotus;Elan;1991;Puce;1GYFK66897R601587;CAE-925;elektromos;5;bal;true
+Cadillac;Seville;2001;Khaki;WBAAV53401J254608;CWD-758;benzin;3;jobb;true
+Audi;S5;2008;Maroon;3C3CFFDR8CT084149;NHF-834;elektromos;3;bal;true
+Jensen;Interceptor;1967;Khaki;WAUFFAFL3DN549469;MTJ-253;elektromos;5;bal;true
+Lincoln;Town Car;2011;Maroon;WBSDE93462C233493;PPQ-976;dízel;3;jobb;true
+Hummer;H1;1993;Pink;5UXFB33573L765155;GCO-216;dízel;3;bal;false
+Hyundai;Elantra;2004;Orange;WA1CFBFP7BA468049;SRA-231;dízel;3;bal;true
+Chevrolet;Corvette;1978;Red;KL4CJASB9EB723611;XID-557;dízel;5;bal;false
+BMW;8 Series;1996;Khaki;WBAFR9C52BC085384;IWS-442;benzin;5;jobb;false
+Mercedes-Benz;C-Class;2002;Indigo;2G61L5S31F9485606;DFG-984;benzin;3;jobb;false
+GMC;Savana 2500;2005;Mauv;WDDEJ7GBXDA701279;ELG-976;dízel;5;bal;true
+Suzuki;Sidekick;1997;Indigo;WDDGF4HB4EG980539;LCY-857;dízel;5;jobb;false
+Buick;Rainier;2007;Red;2HKRM3H34DH916815;PFY-060;elektromos;3;bal;true
+Nissan;Maxima;1994;Maroon;1G6DU6ED3B0482635;SPW-033;elektromos;5;jobb;false
+GMC;Savana 3500;2006;Goldenrod;1N6AF0LX0EN126183;HZR-179;benzin;5;jobb;false
+Chevrolet;Corvette;1997;Puce;SCBBP9ZA5BC885319;LNH-610;dízel;3;jobb;true
+Ford;E250;2003;Pink;WBA3X9C56FD497204;JRR-794;benzin;5;jobb;false
+Mazda;Tribute;2003;Turquoise;3C4PDDBG8DT401163;JXQ-407;benzin;3;jobb;true
+Toyota;Avalon;2007;Orange;YV126MEC8F1342908;VFQ-105;elektromos;3;jobb;false
+Mercedes-Benz;CL-Class;2002;Indigo;SALCR2BG1FH858668;YEG-584;elektromos;5;jobb;true
+Isuzu;Trooper;1993;Crimson;1GD12XEG3FF040412;GFB-538;elektromos;3;jobb;true
+Toyota;Tacoma;2011;Indigo;JTEBU5JR6F5404760;NCS-803;benzin;5;bal;true
+Chevrolet;Silverado;2003;Mauv;5FRYD4H26GB015424;WOM-357;dízel;5;jobb;false
+Dodge;Caravan;2005;Khaki;JTEBU5JR0F5637372;TVZ-479;benzin;3;bal;false
+BMW;325;2005;Goldenrod;WAUDFAFL8DA977049;BCA-962;dízel;3;jobb;false
+GMC;Sonoma;2004;Orange;KNDJN2A26E7468900;BDH-848;dízel;3;bal;true
+BMW;1 Series;2010;Red;JN1CV6FE1AM392410;PBF-470;elektromos;3;bal;false
+Mazda;323;1995;Aquamarine;2G4WF521531443180;YOE-486;elektromos;3;bal;false
+Suzuki;Esteem;1997;Turquoise;WBAEV53403K838750;ARQ-594;elektromos;3;bal;true
+Ford;Taurus;1989;Crimson;WDDDJ7CB9BA333112;JSX-735;benzin;3;jobb;false
+Toyota;RAV4;2002;Yellow;1N6AA0CC5CN761361;SKO-407;benzin;5;bal;false
+Toyota;RAV4;2004;Maroon;1G4GC5GR2CF530510;BBL-452;benzin;5;bal;false
+Porsche;911;1997;Fuscia;WBAYB6C57FG330433;KVW-680;elektromos;5;bal;false
+Acura;Legend;1989;Crimson;WVGFF9BPXBD542771;WLC-006;benzin;3;jobb;false
+Ford;Courier;1987;Pink;WAUMFAFL3DA924422;MRN-879;dízel;3;jobb;true
+Mercedes-Benz;400SEL;1993;Puce;KMHTC6AD2CU541200;SCI-846;benzin;3;jobb;false
+Chevrolet;Corvette;1986;Puce;JTMHY7AJ0D4808262;IRY-583;elektromos;3;bal;false
+Ford;Mustang;1990;Khaki;KL4CJFSB7DB853981;DTA-050;dízel;5;jobb;false
+Toyota;Echo;2004;Green;3VW4T7AT7DM376494;UGL-039;elektromos;5;jobb;true
+Nissan;200SX;1995;Fuscia;1G4HA5EM8AU970385;YBQ-259;elektromos;5;bal;false
+BMW;7 Series;2012;Blue;1D7RV1GT9AS599331;ZKT-937;dízel;3;jobb;true
+Dodge;Ram 1500 Club;1996;Mauv;WBA3B3G5XDN583452;MFR-117;benzin;3;jobb;false
+BMW;6 Series;1989;Goldenrod;2C4RDGBG0DR807077;WRL-127;elektromos;5;jobb;false
+Mitsubishi;Mighty Max;1996;Khaki;WA1YL64B54N601478;UVV-350;dízel;3;jobb;true
+BMW;7 Series;1992;Violet;5UMDU93557L155746;WWZ-154;dízel;3;jobb;false
+Mercury;Mountaineer;2009;Fuscia;1G6DM1E32C0483951;WJK-646;dízel;3;jobb;true
+Toyota;Sienna;2008;Maroon;5N1AN0NW9EN245551;GES-275;benzin;5;bal;true
+Subaru;Impreza;1994;Pink;WAUFFAFM8CA606926;WQU-634;benzin;5;jobb;true
+Plymouth;Prowler;1997;Red;WBAWL73567P818493;VWE-551;elektromos;3;jobb;true
+Kia;Sportage;2010;Mauv;2G4GK5EX7F9527362;VZC-734;dízel;5;bal;true
+Nissan;Sentra;1998;Crimson;WA1WMAFE1CD716789;KXZ-261;elektromos;5;jobb;false
+Acura;TL;1996;Crimson;2T1BU4EE5DC224031;SDG-359;dízel;3;jobb;false
+Mazda;B-Series;2009;Maroon;WAUMFAFR1FA235065;BUL-570;benzin;3;bal;true
+GMC;2500;1993;Puce;WBA3R1C50EK141689;BJM-425;dízel;3;jobb;true
+Acura;RL;2005;Teal;3D4PH5FVXAT267029;CIO-827;elektromos;3;jobb;false
+GMC;2500;1999;Violet;5N1AA0NC9EN893103;SWC-986;dízel;5;bal;false
+Mitsubishi;3000GT;1998;Crimson;1FBNE3BL9CD230442;XUV-746;dízel;3;bal;false
+Chevrolet;Express 3500;2009;Indigo;1FTKR1AD2AP882462;TEQ-854;dízel;5;bal;true
+Lotus;Esprit;1992;Violet;SCFEBBBK6BG348228;NLJ-935;benzin;3;jobb;true
+Buick;Coachbuilder;1992;Green;1D7RW3BK8AS092914;XIN-348;elektromos;3;bal;false
+Infiniti;Q;2002;Orange;WBAEP33485P104815;SOX-963;elektromos;3;bal;false
+Chevrolet;Express 1500;2010;Mauv;WA1WGAFP2EA138764;XRY-780;elektromos;5;jobb;false
+Cadillac;Brougham;1992;Indigo;WBADX1C58DJ217271;SMY-341;dízel;3;bal;false
+Chrysler;Concorde;1993;Turquoise;YV4852CZ6A1803155;OAW-560;dízel;3;bal;true
+Hyundai;Tiburon;2006;Violet;5N1AN0NW8EN491619;REN-051;dízel;3;jobb;true
+Aston Martin;DBS;2012;Mauv;WAUEG74F86N551391;TJR-764;benzin;5;jobb;true
+Mitsubishi;Pajero;2005;Yellow;1FMCU0E71AK354552;OPP-129;dízel;5;jobb;false
+Infiniti;FX;2007;Green;WBA3B1C54DF145580;XBC-881;elektromos;5;jobb;true
+Toyota;Yaris;2007;Blue;5J8TB4H36DL681834;DDR-356;elektromos;3;bal;false
+Volkswagen;Cabriolet;2001;Khaki;WBA3D3C57EK793073;EZX-060;dízel;3;bal;true
+Lotus;Esprit;2004;Khaki;1FAHP3DN1AW237798;AJG-557;elektromos;5;bal;false
+Mercedes-Benz;G-Class;2012;Violet;WAUXU64B53N302471;RUJ-848;dízel;5;bal;false
+Audi;RS4;2007;Teal;WAUKFBFLXEN643872;OWS-193;benzin;3;jobb;true
+Pontiac;Bonneville;2004;Turquoise;3N1AB6AP8BL613683;SNX-986;elektromos;3;jobb;true
+Chevrolet;Camaro;1996;Blue;WBA6B8C51ED483957;ETA-960;dízel;3;jobb;true
+Mitsubishi;Eclipse;2010;Pink;1G6AA5RX2E0614329;BUC-144;benzin;5;jobb;false
+GMC;Sierra Denali;2006;Green;WP0CB2A81CS875751;RDE-638;dízel;3;jobb;true
+Chevrolet;Corvette;1962;Purple;WAURGAFD8EN291955;JHQ-305;elektromos;3;jobb;true
+Toyota;Xtra;1992;Indigo;19UUA9E51EA565755;XAL-478;benzin;3;jobb;true
+Fillmore;Fillmore;1960;Maroon;1C3CDFBA4DD543509;QCA-417;dízel;3;jobb;false
+Mercury;Marquis;1986;Indigo;WBA3T3C54FP261089;ELR-319;elektromos;5;jobb;true
+Kia;Sportage;2002;Fuscia;WP0AA2A9XDS800521;RZE-718;dízel;3;jobb;true
+Ford;Probe;1991;Purple;5N1AZ2MH6FN388851;QWY-670;benzin;3;bal;false
+GMC;3500 Club Coupe;1995;Yellow;2HKRM3H38EH832014;XYY-796;elektromos;5;jobb;true
+Kia;Amanti;2005;Purple;1FTMF1E88AK753217;FLU-678;elektromos;5;bal;false
+Jeep;Liberty;2009;Goldenrod;2HNYD2H26AH958222;RKC-015;benzin;3;bal;false
+GMC;Savana 3500;1996;Khaki;1NXBE4EE3AZ849647;EGL-942;dízel;3;bal;true
+Oldsmobile;88;1998;Mauv;WVWED7AJ4BW142362;HYU-996;elektromos;3;bal;true
+Pontiac;Firebird;2000;Aquamarine;1FTEW1C86AK559650;JJS-541;benzin;3;bal;false
+Chevrolet;Suburban 1500;2002;Blue;JM1BL1K59B1969646;YAV-989;elektromos;3;jobb;false
+Jeep;Grand Cherokee;2003;Crimson;1J4PN2GK9BW390335;DXG-265;elektromos;3;bal;true
+Oldsmobile;Custom Cruiser;1992;Fuscia;WA1CGAFE2DD381702;JDC-964;dízel;3;bal;false
+Mitsubishi;Mighty Max;1993;Purple;WBABN33471J441580;PQA-980;benzin;5;bal;false
+Ford;Bronco;1984;Orange;WAUWFBFL5BA446452;IAD-025;dízel;3;jobb;true
+Mazda;MX-3;1996;Teal;WVGAV7AX6CW887675;VKG-745;benzin;5;jobb;false
+Oldsmobile;98;1995;Violet;WAUBF78E97A370462;DDZ-225;elektromos;5;bal;true
+Volkswagen;Golf;2011;Yellow;WA1LMAFE3CD233968;RNO-715;benzin;5;bal;true
+Mercury;Topaz;1993;Purple;WAUEFAFL4CN942049;YMB-790;dízel;3;bal;false
+Ford;F150;2001;Pink;5TFCY5F16DX708267;ALH-310;elektromos;5;jobb;false
+Dodge;Stratus;2004;Pink;YV1672MC7BJ792614;MRE-463;dízel;5;jobb;false
+Chevrolet;Equinox;2008;Puce;SCFFBCBD9AG214968;VFH-019;elektromos;5;jobb;true
+Mitsubishi;Eclipse;1998;Pink;1GD12YEG5FF890760;KFT-921;benzin;3;jobb;false
+Toyota;Supra;1995;Teal;WBA8Z5C54FG489951;VNP-819;elektromos;3;bal;false
+Toyota;Yaris;2011;Blue;WAUBFAFL0BN832200;AFK-212;dízel;3;jobb;true
+Nissan;Pathfinder;1992;Yellow;SCFAD01A37G500950;DKU-969;elektromos;3;jobb;true
+Pontiac;6000;1983;Yellow;WBA3B5C56EP677125;YBB-504;elektromos;5;jobb;false
+Pontiac;Sunbird;1994;Fuscia;WBA3B5C58DP510618;REK-688;benzin;3;bal;true
+Chrysler;PT Cruiser;2001;Orange;WAUVT58E95A729980;XYY-682;dízel;3;jobb;false
+GMC;Envoy;2008;Khaki;WAUKF78E85A812113;EVY-317;benzin;3;jobb;false
