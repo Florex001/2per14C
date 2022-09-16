@@ -1,6 +1,7 @@
 package com.company;
 
 import java.io.*;
+import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Scanner;
@@ -59,6 +60,94 @@ public class Main {
             System.out.println("A járművek között nincs elektromos hajtásu");
         }
 
+        Jármű maxJármű = járművek.get(0);
+        Jármű minJármű = járművek.get(0);
+
+        for(Jármű elem : járművek){
+            if(elem.getGyártásÉve() > maxJármű.getGyártásÉve()){
+                maxJármű = elem;
+            }
+
+            if (elem.getGyártásÉve() < minJármű.getGyártásÉve()){
+                minJármű = elem;
+            }
+        }
+
+        System.out.println("A legfiatalabb autó adatai:");
+        System.out.println(maxJármű.toString());
+        System.out.println("A legidősebb autó adatai:");
+        System.out.println(minJármű.toString());
+
+        Scanner sc = new Scanner(System.in);
+        System.out.printf("Kérem adja meg a jármű gyártója nevét: ");
+        String gyarto = sc.nextLine();
+        System.out.printf("Kérem adja meg a jármű kormány oldalát(jobb/bal):");
+        String kormanyoldala = sc.nextLine();
+
+        if (!kormanyoldala.equals("bal") && !kormanyoldala.equals("jobb")){
+            System.out.printf("Nem megfelelő értéket adott meg");
+            System.exit(1);
+        }
+
+        volt = false;
+
+        for (Jármű elem : járművek){
+            if (elem.getGyártó().equals(gyarto) && elem.getKormányOldalaSTR().equals(kormanyoldala)){
+                System.out.println(elem.getRendszam());
+                volt = true;
+            }
+        }
+
+        if (!volt){
+            System.out.println("Ilyen paraméterekkel nincs jármű az állományban!");
+        }
+
+        System.out.println(gyartokKigyujtese().length);
+
+        System.out.println(járművek.get(0).toString());
+        System.out.println(járművek.get(0).jelszoGeneralas());
+
+        File fájl = new File("jelszavak.txt");
+        try {
+            PrintWriter iro = new PrintWriter(fájl, Charset.forName("UTF-8"));
+
+            iro.println("rendszám\tjelszo");
+            for (Jármű elem : járművek){
+                iro.print(elem.getRendszam());
+                iro.print("\t");
+                iro.println(elem.jelszoGeneralas());
+            }
+
+            iro.close();
+        } catch (IOException e) {
+            System.out.println("A jelszavakat nem tudtam ki generálni mert a jelszavak.txt nem írható!");
+        }
+
+    }
+
+
+    private static String[] gyartokKigyujtese(){
+
+        ArrayList<String> gyartoklista = new ArrayList<String>();
+
+        for (Jármű elem: járművek){
+            boolean volt = false;
+            for (String gyarto : gyartoklista){
+                if (gyarto.equals(elem.getGyártó())){
+                    volt = true;
+                    break;
+                }
+            }
+            if (!volt) {
+                gyartoklista.add(elem.getGyártó());
+            }
+        }
+        String[] gyartok = new String[gyartoklista.size()];
+        for (int i =0; i < gyartoklista.size(); i++){
+            gyartok[i] = gyartoklista.get(i);
+        }
+
+        return gyartok;
     }
 
 

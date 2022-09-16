@@ -2,6 +2,8 @@ package com.company;
 
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Locale;
+import java.util.Random;
 
 public class Jármű {
     private static int db = 0;
@@ -87,6 +89,10 @@ public class Jármű {
         return gyártó;
     }
 
+    public String getRendszam() {
+        return rendszam;
+    }
+
     public boolean isForgalomban_van_e() {
         return forgalomban_van_e;
     }
@@ -113,16 +119,51 @@ public class Jármű {
 
     @Override
     public String toString() {
-        return String.format("\tJármű azonosítója: %d. \n" +
-                "\tJármű gyártója: %s\n" +
-                "\tJármű típusa: %s\n" +
-                "\tJármű gyártás éve: %d\n" +
-                "\tJármű színe: %s\n" +
-                "\tJármű alvázszáma: %s\n" +
-                "\tJármű rendszáma: %s\n" +
-                "\tJármű üzemanyaga %s\n" +
-                "\tJármű ajtók száma: %d\n" +
-                "\tJármű kormány oldala: %d\n" +
-                "\tJármű forgalomban van-e: Igen ",this.azonosito,);
+        if (this.forgalomban_van_e) {
+            return String.format("\tJármű azonosítója: %d. \n" +
+                            "\tJármű gyártója: %s\n" +
+                            "\tJármű típusa: %s\n" +
+                            "\tJármű gyártás éve: %d\n" +
+                            "\tJármű színe: %s\n" +
+                            "\tJármű alvázszáma: %s\n" +
+                            "\tJármű rendszáma: %s\n" +
+                            "\tJármű üzemanyaga %s\n" +
+                            "\tJármű ajtók száma: %d\n" +
+                            "\tJármű kormány oldala: %s\n" +
+                            "\tJármű forgalomban van-e: Igen ", this.azonosito, this.gyártó, this.model, this.gyártásÉve,
+                    this.szín, this.alvazszam, this.rendszam, this.üzemanyag, this.ajtok_szama, this.getKormányOldalaSTR(), this.forgalomban_van_e);
+        }else {
+            return String.format("\tJármű azonosítója: %d. \n" +
+                            "\tJármű gyártója: %s\n" +
+                            "\tJármű típusa: %s\n" +
+                            "\tJármű gyártás éve: %d\n" +
+                            "\tJármű színe: %s\n" +
+                            "\tJármű alvázszáma: %s\n" +
+                            "\tJármű rendszáma: %s\n" +
+                            "\tJármű üzemanyaga %s\n" +
+                            "\tJármű ajtók száma: %d\n" +
+                            "\tJármű kormány oldala: %s\n" +
+                            "\tJármű forgalomban van-e: Nem ", this.azonosito, this.gyártó, this.model, this.gyártásÉve,
+                    this.szín, this.alvazszam, this.rendszam, this.üzemanyag, this.ajtok_szama, this.getKormányOldalaSTR(), this.forgalomban_van_e);
+        }
     }
+
+    public String jelszoGeneralas(){
+        String jelszo = Integer.toString(this.gyártásÉve);
+        jelszo += "-";
+        jelszo += this.rendszam.replace("-", "");
+        jelszo += "-";
+        jelszo += this.alvazszam.substring(this.alvazszam.length() - 6 );
+        jelszo += "-";
+        jelszo += this.üzemanyag.substring(0, 1).toUpperCase();
+        Random rng = new Random();
+        for (int i = 0; i < 6; i++ ){
+            int szam = rng.nextInt(10);
+            jelszo += Integer.toString(szam);
+        }
+        return jelszo;
+    }
+
+
+
 }
