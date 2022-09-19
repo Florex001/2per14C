@@ -40,6 +40,18 @@ public class Jármű {
         this.gyártásÉve = gyártásÉve;
     }
 
+    public int getAzonosito() {
+        return azonosito;
+    }
+
+    public String getAlvazszam() {
+        return alvazszam;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
     public String getKormányOldalaSTR(){
         if (this.kormany_oldala ==0){
             return "bal";

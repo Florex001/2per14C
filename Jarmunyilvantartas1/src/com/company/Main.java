@@ -123,6 +123,52 @@ public class Main {
             System.out.println("A jelszavakat nem tudtam ki generálni mert a jelszavak.txt nem írható!");
         }
 
+        fájl = new File("Lexus10.txt");
+
+
+        try {
+            PrintWriter iro = new PrintWriter(fájl, Charset.forName("UTF-8"));
+
+            iro.println("gyarto;modell;gyartas_eve;szin;alvazszam;rendszam;uzemanyag;ajtok_szama;kormany_oldal;forgalomban");
+            for (Jármű elem : járművek) {
+                if (elem.getGyártó().equals("Lexus") && ((Calendar.getInstance().get(Calendar.YEAR)) - (elem.getGyártásÉve())) >= 10) {
+                    iro.print(elem.getGyártó());
+                    iro.print(";");
+                    iro.print(elem.getModel());
+                    iro.print(";");
+                    iro.print(elem.getGyártásÉve());
+                    iro.print(";");
+                    iro.print(elem.getSzín());
+                    iro.print(";");
+                    iro.print(elem.getAlvazszam());
+                    iro.print(";");
+                    iro.print(elem.getRendszam());
+                    iro.print(";");
+                    iro.print(elem.getÜzemanyag());
+                    iro.print(";");
+                    iro.print(elem.getAjtok_szama());
+                    iro.print(";");
+                    iro.print(elem.getKormányOldalaSTR());
+                    iro.print(";");
+                    iro.print(elem.isForgalomban_van_e());
+                    iro.print(";");
+                    iro.println();
+
+                }
+            }
+            iro.close();
+        }catch (IOException ex){
+            System.out.println("Nem lehet kiírni az adatokat fájlba");
+        }
+
+        double osszeg = 0;
+        int aktev = Calendar.getInstance().get(Calendar.YEAR);
+
+        for (Jármű elem : járművek){
+            osszeg += 35000 - (35000 * (aktev - (elem.getGyártásÉve()))  / 100.0);
+        }
+        System.out.printf("Az aktuális évben %f Ft adóbevétel várható", osszeg);
+
     }
 
 
